@@ -30,12 +30,14 @@ The intended workflow is simple and flexible:
 
 This system is designed for iterative growth. You can pick up and put down threads as inspiration strikes, confident that the context and history are preserved.
 
-## Maintaining the Research Log
+## Our Research Workflow
 
-To ensure the research log in `RESEARCH_PLAN.md` remains clear and organized, follow these instructions:
+To ensure our business planning remains organized and data-driven, we follow a structured research process. This workflow separates open questions from validated findings.
 
-1. **Initial Research**: Save the initial findings as the starting point.
-2. **Logging Updates**: As you gather more information, add new entries to the document. Date these entries to keep track of when the information was added.
-3. **Striking Through Irrelevant Information**: If any information becomes outdated or irrelevant, use strikethrough formatting to indicate this, while still keeping the original text visible for reference.
+1.  **Pending Research (`PENDING_RESEARCH.md`):** This file is our active to-do list. All new questions, unknowns, and hypotheses that arise from our planning and strategy discussions are added here. It is focused exclusively on what we *need to find out*.
 
-This approach will help maintain a clear history of your research and make it easier to track changes over time.
+2.  **Conducting Research:** We systematically research the questions listed in `PENDING_RESEARCH.md`.
+
+3.  **Consolidating Knowledge (`FINDINGS_AND_SUGGESTIONS.md`):** Once a question is answered, the question and its corresponding finding(s) are permanently moved from the pending file to the `FINDINGS_AND_SUGGESTIONS.md` document. This file serves as our single source of truth for all verified information and the strategic advice derived from it.
+
+This process ensures that `PENDING_RESEARCH.md` always reflects our current priorities and `FINDINGS_AND_SUGGESTIONS.md` grows into a comprehensive knowledge base for the project.
