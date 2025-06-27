@@ -8,10 +8,6 @@
 
 #### 1. Legal & Administrative
 
--   **Question:** What are the precise, step-by-step registration processes, timelines, and costs for the two primary legal paths?
-    -   Path A: A Thai-majority owned company.
-    -   Path B: A BOI-promoted, 100% foreign-owned company.
--   **Question:** Can we identify 2-3 reputable law firms in Bangkok with specific, proven experience in both BOI applications for "green" businesses and Social Enterprise registration? What are their initial consultation fees and retainer structures?
 -   **Question:** What are the exact BMA (Bangkok Metropolitan Administration) permits required for a small-scale waste sorting facility? What is the application process and who is the specific contact department?
 
 #### 2. Financial & Funding

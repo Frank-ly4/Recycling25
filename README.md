@@ -38,6 +38,18 @@ To ensure our business planning remains organized and data-driven, we follow a s
 
 2.  **Conducting Research:** We systematically research the questions listed in `PENDING_RESEARCH.md`.
 
-3.  **Consolidating Knowledge (`FINDINGS_AND_SUGGESTIONS.md`):** Once a question is answered, the question and its corresponding finding(s) are permanently moved from the pending file to the `FINDINGS_AND_SUGGESTIONS.md` document. This file serves as our single source of truth for all verified information and the strategic advice derived from it.
+3.  **Consolidating Knowledge (`FINDINGS_AND_SUGGESTIONS.md`):** Once a question is answered, the question and its corresponding finding(s) are permanently moved from the pending file to `FINDINGS_AND_SUGGESTIONS.md`. This file serves as our single source of truth for all verified information.
+    -   **Standard of Detail:** All research must be logged in its entirety, verbatim, word for word. Findings should not be summaries; they must be comprehensive and detailed, providing the "why" behind the conclusion. Each entry must include specific details such as timelines, costs, legal frameworks, and direct links to all sources, mirroring the depth of the Foreign Business License finding.  NO SUMMARIZATION!
+    -   **Rationale for Detail (AI-Ready Documentation):** This commitment to granular detail serves two critical purposes. First, it ensures our business plan is professional and robust, with every strategic decision backed by verifiable evidence. Second, it creates an AI-ready knowledge base. When we leverage an AI for analysis, planning, or content generation, it requires raw, detailed data—not summaries. Providing comprehensive information allows the AI to identify nuances and make connections that would be lost in a pre-filtered summary, leading to more accurate and insightful outputs.
 
-This process ensures that `PENDING_RESEARCH.md` always reflects our current priorities and `FINDINGS_AND_SUGGESTIONS.md` grows into a comprehensive knowledge base for the project.
+This process ensures that `PENDING_RESEARCH.md` always reflects our current priorities and `FINDINGS_AND_SUGGESTIONS.md` grows into a comprehensive, professional knowledge base for the project.
+
+## Automating the Research Update Process
+
+To streamline our research workflow, we have implemented an automated process for updating our findings:
+
+1. **Research Completion:** After each research question is thoroughly investigated and answered, the findings are automatically moved from `PENDING_RESEARCH.md` to `FINDINGS_AND_SUGGESTIONS.md`.
+
+2. **Documentation Update:** This ensures that our documentation remains current and that `FINDINGS_AND_SUGGESTIONS.md` continues to serve as our comprehensive knowledge base.
+
+This automation helps maintain an up-to-date repository of our strategic insights and verified information, allowing us to focus on new research priorities without manual updates.
