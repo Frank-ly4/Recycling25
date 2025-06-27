@@ -29,3 +29,13 @@ The intended workflow is simple and flexible:
 4.  After the session, the conversation is logged, and the `Continuity_Log.md` is updated.
 
 This system is designed for iterative growth. You can pick up and put down threads as inspiration strikes, confident that the context and history are preserved.
+
+## Maintaining the Research Log
+
+To ensure the research log in `RESEARCH_PLAN.md` remains clear and organized, follow these instructions:
+
+1. **Initial Research**: Save the initial findings as the starting point.
+2. **Logging Updates**: As you gather more information, add new entries to the document. Date these entries to keep track of when the information was added.
+3. **Striking Through Irrelevant Information**: If any information becomes outdated or irrelevant, use strikethrough formatting to indicate this, while still keeping the original text visible for reference.
+
+This approach will help maintain a clear history of your research and make it easier to track changes over time.
