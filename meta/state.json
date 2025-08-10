@@ -1,0 +1,12 @@
+{
+  "current_focus": "Bootstrap meta system and wire to execution plan",
+  "last_action": "Initialized meta, modules, pilots, and constitution; defined KPIs and SOP links",
+  "next_steps": [
+    "Assemble sales kit drafts (one-pager, deck, SLA, contract)",
+    "Book legal scoping calls and document outcomes in ADR-0002",
+    "Collect processor spec sheets/terms and add to research findings",
+    "Begin pilot outreach and log LOIs under pilots/bangkok-zone-a"
+  ],
+  "active_version": "v1.0"
+}
+

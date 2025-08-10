@@ -1,0 +1,46 @@
+{
+  "project": "recycling",
+  "version_family": "v1.x",
+  "enforcement": {
+    "metaprompting": true,
+    "self_learning": true,
+    "auto_append_discoveries": true,
+    "auto_append_issues": true,
+    "timestamp_entries": true,
+    "block_if_meta_inactive": true
+  },
+  "paths": {
+    "goals": "meta/goals.md",
+    "tasks": "meta/tasks.md",
+    "state": "meta/state.json",
+    "architecture": "meta/architecture.md",
+    "stakeholders": "meta/stakeholders.md",
+    "standards": "meta/standards.md",
+    "discoveries": "meta/discoveries.md",
+    "issues": "meta/issues.md",
+    "decisions": "meta/decisions"
+  },
+  "session_validation": {
+    "require_goals_present": true,
+    "require_state_update_on_close": true,
+    "require_discovery_append_on_close": true
+  },
+  "modules_required": [
+    "logistics",
+    "materials",
+    "community",
+    "tech",
+    "finance"
+  ],
+  "kpis": {
+    "diversion_rate_pct": true,
+    "contamination_pct": true,
+    "cost_per_ton_thb": true,
+    "on_time_pickup_pct": true,
+    "bin_overflow_rate_pct": true,
+    "participation_rate_pct": true,
+    "co2e_avoided_per_ton": true,
+    "nps": true
+  }
+}
+
