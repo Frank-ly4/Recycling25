@@ -8,5 +8,9 @@
     "Begin pilot outreach and log LOIs under pilots/bangkok-zone-a"
   ],
   "active_version": "v1.0"
+  ,
+  "review_complete": false,
+  "apply": false,
+  "last_review": "2025-08-12T18:12:00Z"
 }
 

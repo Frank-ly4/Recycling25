@@ -41,6 +41,23 @@
     "participation_rate_pct": true,
     "co2e_avoided_per_ton": true,
     "nps": true
+  },
+  "influences": {
+    "path": "docs/Influences.md",
+    "max_age_days": 90,
+    "required": false
+  },
+  "pending_changes": {
+    "path": "meta/pending_changes.md",
+    "required": false
+  },
+  "change_log": {
+    "path": "meta/change_log/",
+    "required": false
+  },
+  "discovery_responses": {
+    "path": "discovery_responses.md",
+    "schema": ["Answer", "Evidence", "Assumptions", "Risks", "Decisions", "FileUpdates", "RFI"]
   }
 }
 
