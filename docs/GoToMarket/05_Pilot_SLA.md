@@ -4,10 +4,10 @@ Scope
 - Weekly recyclable collection; provision of bins/signage; monthly ESG sample report
 
 Service windows
-- Pickup day/time mutually agreed; on-time target ≥ 98%
+- Pickup day/time mutually agreed; on-time target ≥ 98% (on-time defined per ops/SOPs/04_SLA_Measurement_SOP.md)
 
 Quality
-- Contamination notes provided; overflow alerts within 24h of detection
+- Contamination notes provided; overflow alerts within 24h of detection (detection via on-site observation or photo report per SOP)
 
 Health & Safety
 - Uniformed crew, PPE, insured vehicles; incident reporting within 24h

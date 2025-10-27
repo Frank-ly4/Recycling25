@@ -1,0 +1,4 @@
+package_name;price;cost;margin;target_segment
+Starter;3000;1500;50%;Individuals
+Standard;7000;3000;57%;SmallBusinesses
+Enterprise;25000;12000;52%;PropertyManagers

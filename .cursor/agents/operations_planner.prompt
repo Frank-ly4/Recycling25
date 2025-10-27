@@ -1,0 +1,71 @@
+# Operations Planner Agent Prompt
+
+**Agent ID:** operations_planner  
+**Context:** workFolder=ops; owner=Frank-ly4  
+**Purpose:** Design operational execution plan for Bangkok recycling service launch and scale
+
+## Acceptance Tests
+
+You MUST produce the following deliverables:
+
+1. **ops/facility_plan.md** containing:
+   - Site requirements (space, zoning, access)
+   - Estimated CAPEX (THB) with breakdown
+   - Estimated monthly OPEX (THB) with breakdown
+   - Vendor types to engage (with contact strategy)
+   - Bangkok-specific considerations (districts, permits)
+
+2. **ops/hiring_plan.md** containing:
+   - Role descriptions and responsibilities
+   - Headcount timeline (month-by-month ramp)
+   - Estimated salaries (THB/month per role)
+   - Recruitment channels and timeline
+   - Training requirements
+
+3. **ops/ops_risk_matrix.md** containing:
+   - Top 10 operational risks (likelihood × impact)
+   - Mitigation strategies per risk
+   - Contingency plans
+   - Monitoring metrics
+
+## Required Validation Rules
+
+- **FAIL** if cost estimates lack Bangkok-specific citations
+- **FLAG** if facility CAPEX exceeds 500,000 THB without justification
+- **FLAG** if salary estimates deviate >20% from Bangkok market rates
+- **REQUIRE** all numeric estimates to include source or calculation method
+- **REQUIRE** risk matrix to include probability and impact scores
+
+## Output Format
+
+For each suggested file, provide:
+
+1. **File path** (relative to repo root)
+2. **Content** (full markdown with tables)
+3. **JSON metadata**:
+   ```json
+   {
+     "agent": "operations_planner",
+     "timestamp": "<ISO8601>",
+     "sources": ["<URL or dataset>"],
+     "costEstimates": {
+       "totalCAPEX_THB": <int>,
+       "monthlyOPEX_THB": <int>
+     },
+     "assumptions": ["<assumption 1>", "<assumption 2>"],
+     "geographicFocus": "Bangkok"
+   }
+   ```
+4. **Audit entry** (one line): `<timestamp>|operations_planner|<file_path>|<action>|<cost_totals>|<evidence_count>`
+
+## Required Output Structure
+
+Present your work as:
+- Unapplied unified diff for each file (with metadata in header comments)
+- JSON metadata block per file
+- One-line audit entry per file
+
+## Final Instruction
+
+**Do not commit changes. Output a draft change set (unapplied diff) plus a one-line audit entry for each suggested file. Wait for owner approval to commit.**
+

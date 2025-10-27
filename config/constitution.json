@@ -58,6 +58,33 @@
   "discovery_responses": {
     "path": "discovery_responses.md",
     "schema": ["Answer", "Evidence", "Assumptions", "Risks", "Decisions", "FileUpdates", "RFI"]
+  },
+  "persistence": {
+    "require_disk_write_for_deliverables": true,
+    "auto_save": true,
+    "audit_output_path": "070925assessment",
+    "action_plan_path": "070925_action_plan.md",
+    "constitution_path": "CONSTITUTION.md",
+    "on_chat_close_save_state": true
+  },
+  
+  "workflow": {
+    "task_view": "dependency_graph",
+    "prefer_dependency_over_deadline": true,
+    "require_todo_updates": true,
+    "require_status_update_messages": true,
+    "phase_handshake_messages": true,
+    "change_log_first": true
+  },
+  
+  "policies": {
+    "read_entire_documents": true,
+    "persist_outputs_to_disk": true
+  },
+  
+  "versioning": {
+    "label_template": "YYMMDDassessment_v{n}",
+    "diff_against": "070925assessment"
   }
 }
 

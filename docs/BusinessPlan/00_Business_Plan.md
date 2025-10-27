@@ -16,6 +16,8 @@
 
 ### 4. Business model and pricing
 - Primary revenue: building-level fee 80–100 THB/unit/month (300–600 unit condos). Alternative: lump-sum per building or reduced-fee + limited revenue share.
+- Service tiers (100% billed): 25% tier @75 THB (6 buildings needed); 50% tier @90 THB (5 buildings); 75% tier @100 THB (4 buildings); 100% tier @110 THB (4 buildings).
+- Packages/blocks: optional subscription by unit blocks (e.g., 100-unit blocks) with a micro‑cluster baseline (e.g., ≥300 units across ≥2 buildings). If collected volume exceeds included thresholds, auto‑upgrade to next block; overage or extra collections priced as add‑ons.
 - Bonus revenue: materials sale (baled PET/HDPE/paper); future EPR/plastic credits; corporate sponsorships.
 
 ### 5. Operations

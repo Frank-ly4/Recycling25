@@ -1,0 +1,147 @@
+Recycling25 — Business Plan Audit (Sections 1–9)
+
+Date: 2025-09-07
+
+## Section 1 – Clarity & Feasibility
+
+| Area | Issue/Flag | Why it matters | Where |
+|---|---|---|---|
+| Break-even targets | 4–6 condos at 80–100 THB/unit vs 150–160k THB monthly cost | Margin is tight; sensitivity to price/units likely high; quantify per-scenario break-even | §1, §8 |
+| Price strategy | Fee bands (80–100 THB) lack criteria or guardrails | Prevent underpricing and scope creep | §4 |
+| Route clustering | “2–3 adjacent districts” not quantified (km, stop counts, time windows) | Ops feasibility, fuel/labor depend on it | §1, §5 |
+| Vehicle choice | FRR/N-series feasibility in condo docks/ramps not validated | Access constraints could force fleet change | §5 |
+| Facility size | 150–300 m² adequacy not tied to tonnage/throughput | Risk of overflow/inefficiency without sizing math | §5 |
+| Staffing model | “Driver + loader; shared sorting” vs sorting needs | Throughput may require dedicated sorters | §5 |
+| SLA claims | “SLA-backed reliability” lacks specific metrics (response time, miss rate) | Sales credibility and penalties hinge on metrics | §3, §7 |
+| Bonus revenue | Materials/EPR/sponsorships framed as revenue without probabilities | Avoid overestimation; treat as optional | §4 |
+| Legal scaling | “No DIW license <50 hp & <50 employees” vs scale to 15–20 buildings | Licensing risk if thresholds exceeded | §1, §5–§6, §10 |
+| Funding “Ask” | Tranche-based seed unspecified (amount/use of proceeds by phase) | Hard to evaluate feasibility/timeline | §1, §10 |
+
+## Section 2 – Data & Research Gaps
+
+| Missing data | Why needed | Where referenced |
+|---|---|---|
+| Addressable ICP count per target districts | TAM/SAM and route density | §2, §7 |
+| Competitor price benchmarks (formal/informal) | Validate -30% undercut risk; pricing guardrails | §8–§9 |
+| Condo access constraints (dock sizes/ramp grades) | Vehicle feasibility (FRR vs N-series) | §5 |
+| Route model (km/day, stops, dwell time) | Fuel/labor validation | §5 |
+| Tonnage per building/month by stream | Throughput, facility sizing, labor needs | §3, §5, §8 |
+| Bale specs and processor price sheets/MOUs | Materials revenue realism, QA standards | §4, §9 |
+| Facility rent quotes (150–300 m²) + zoning | Opex validation, compliance | §5 |
+| Labor benchmarks (driver/loader/sorter total comp) | Validate 45–70k THB line | §5, §8 |
+| Insurance/PDPA compliance costs | Opex and compliance readiness | §6, §9 |
+| Permit list with timelines (BMA, DLT, SSO) | Critical path for pilot start | §1, §6, §10 |
+| SLA metrics (KPIs, credits/penalties) | Sales kit credibility and ops targets | §7 |
+| Funding plan with tranches and uses | Cash runway and milestones | §1, §10 |
+
+## Section 3 – Assumption Validation
+
+| Claim | Validation needed | Suggested sources | Where |
+|---|---|---|---|
+| BMA “No Mixed Waste” fee 20 vs 60 THB | Confirm current rates and enforcement | BMA regs/official notices | §2 |
+| No DIW factory license if <50 hp & <50 employees | Verify thresholds and revised Factory Act details | DIW, Factory Act (2019+) | §1, §6 |
+| SE certification enables 100% investor tax deduction | Confirm eligibility, investor deduction mechanics | Thai Social Enterprise Act; Revenue Dept. | §1, §6 |
+| BOI promotion viable for this model | Confirm activity category, incentives, Thai-majority constraints | BOI activity list; BOI officer consult | §1, §6 |
+| Fuel 9.5–15k THB/month with clustering | Validate vs modeled km and truck fuel rate | Route model; truck spec sheets | §5, §8 |
+| Labor 45–70k THB/month | Benchmark wages incl. SSO, OT, turnover | MOL stats; job boards; payroll firms | §5, §8 |
+| Facility 150–300 m² adequate | Throughput math: tonnage, dwell, bale density | Ops model; layout mock | §5 |
+| 10–30k THB materials revenue/month | Validate via processor quotes and bale yield | Price sheets; trial MOUs | §4, §8 |
+| -30% undercut is primary risk | Verify competitor pricing, bundle differences | Market scan, 3–5 condo interviews | §8–§9 |
+| 4–6 condos break-even at 80–100 THB | Full unit-econ and sensitivity table | Finance model | §1, §8 |
+
+## Section 4 – Document Cohesion
+
+| Issue Type | Description | Sections Affected | Impact |
+|---|---|---|---|
+| Pricing Inconsistency | §4 offers lump-sum/rev-share options but §8 models per-unit only | §4, §8 | Financial projections incomplete |
+| Scale Mismatch | “Comfortable at 8–10” vs roadmap jump to “15–20” | §1, §10 | Growth path unclear |
+| Staffing Evolution Gap | “Small bench” but no scaling plan for sorting staff | §5, §8 | Labor cost projections unreliable |
+| Legal Timeline Conflict | “Ltd now; BOI in parallel” but roadmap lacks legal sequencing | §1, §6, §10 | Compliance risk for pilot |
+| Revenue Model Overlap | Materials sales labeled “bonus” yet included in examples | §1, §4, §8 | Mixed viability messaging |
+| Geographic Scope Drift | “2–3 adjacent districts” vs listing non-adjacent areas | §1, §7 | Route efficiency compromised |
+| Tech Stack Ambiguity | “Simple tech” without specs or roadmap milestones | §3, §10 | Implementation undefined |
+
+## Section 5 – Task & To-Do Alignment (Deep Dive)
+
+| Task ID | Task Description | Goal Mapping | Priority | Owner | Deadline | Dependencies | Success Criteria | Status |
+|---|---|---|---|---|---|---|---|---|
+| V1 | Create target condo database (300–600 units; single micro-cluster) | Market validation → Pilot readiness | P0 | TBA | Day 3 | — | ≥50 qualified prospects | Not started |
+| V2 | Develop outreach scripts (TH/EN) + LOI template | Market validation → LOIs | P0 | TBA | Day 5 | V1 | Templates finalized | Not started |
+| V3 | Building manager interviews (15–20) | Demand confirmation | P0 | TBA | Day 10 | V1, V2 | ≥5 qualified LOIs + price bands | Not started |
+| V4 | Vehicle access surveys (3–5 buildings) | Fleet selection validation | P0 | TBA | Day 12 | V3 | Access constraints documented | Not started |
+| L1 | Register Thai-majority Ltd | Legal foundation | P0 | TBA | Day 7 | — | Company registered + bank acct | Not started |
+| L2 | Apply BMA “Business Detrimental to Health” permit | Compliance for pilot | P0 | TBA | Day 14 | L1 | Application submitted | Not started |
+| L3 | Draft BOI promotion application | Cost optimization | P1 | TBA | Day 14 | L1 | Draft ready | Not started |
+| L4 | PDPA compliance framework | Data protection | P1 | TBA | Day 10 | — | Policy + consent forms ready | Not started |
+| O1 | Facility quotes (150–300 m²; zoning) | Ops infrastructure | P1 | TBA | Day 8 | — | ≥3 quotes, zones cleared | Not started |
+| O2 | Vehicle quotes (N-series/FRR) | Fleet acquisition | P1 | TBA | Day 10 | V4 | ≥2 quotes + financing | Not started |
+| O3 | Processor MOUs (PET/HDPE/paper) | Materials revenue | P1 | TBA | Day 12 | — | ≥2 processors + price sheets | Not started |
+| O4 | Collection SOPs + training | SLA delivery | P2 | TBA | Day 14 | V4 | SOPs documented | Not started |
+| P1 | Convert LOIs to pilot agreements (3–5) | Cash flow start | P0 | TBA | Day 30 | V3, L2 | ≥3 signed pilots | Not started |
+| P2 | Procure vehicle and equipment | Ops start | P0 | TBA | Day 45 | O2, P1 | Vehicle delivered/insured | Not started |
+| P3 | Hire/train staff (driver, loader) | Ops capability | P0 | TBA | Day 50 | P2 | Staff hired/trained | Not started |
+| P4 | Execute 60–90 day pilot | Model validation | P0 | TBA | Day 140 | P1–P3 | KPIs met, CSAT >80% | Not started |
+| S1 | Case studies (≥3) | Sales enablement | P1 | TBA | Day 100 | P4 (rolling) | Published with metrics | Not started |
+| S2 | Investor materials + fundraising | Expansion capital | P1 | TBA | Day 120 | S1 | Deck + model + data room | Not started |
+| S3 | Scale to 8–10 buildings | Break-even+ | P1 | TBA | Day 180 | S2 | ≥8 live contracts | Not started |
+
+Critical path: L1→L2, V1→V3→P1, V4→O2→P2→P3→P4.
+Missing categories: tech stack, finance ops, marketing assets, QA, risk management.
+
+## Section 6 – Risks & Weak Points
+
+| Category | Specific Risk | Current Mitigation | Weakness | Suggested Enhancement |
+|---|---|---|---|---|
+| Market | Competitor 30% undercut | SLA/compliance/referrals | No pricing floor or moat | Exclusive terms, prepay discounts, bundled services |
+| Operational | Vehicle access constraints | — | Could invalidate fleet choice | Pre-pilot site surveys; backup vehicle config |
+| Financial | Materials price volatility | “Baling for premiums” | No hedging/floor prices | Min-price contracts; diversified buyers |
+| Legal | DIW threshold breach at scale | — | Could halt operations | Subsidiary structure; trigger-based licensing |
+| Participation | Low resident engagement | Bags/education/incentives | No baselines/metrics | Pilot participation targets; A/B tests |
+| Cash Flow | Collection delays | Deposits; Net-15 | No bad debt provision | Credit checks; auto-pay; factoring option |
+| Reputational | Contamination incident | Crisis comms; insurance | No prevention protocols | Contamination SOPs; training cert; audits |
+| Partnership | Processor reliability | Spec sheets; MOUs | No backups | ≥3 processors; performance SLAs |
+| Regulatory | BMA policy change | — | Single demand driver | Value prop beyond compliance; multi-district permits |
+| Technology | Data loss/breach | PDPA mentioned | No concrete controls | Retention policy; access controls; backups |
+
+Critical vulnerabilities: dependence on BMA fee, tight margins, weak moat, scaling cliff at DIW thresholds.
+
+## Section 7 – Branch Analysis (Impact vs. Effort)
+
+| Branch | Description | Impact | Effort | Risks/Notes | Recommendation |
+|---|---|---|---|---|---|
+| Pricing model | Per-unit vs lump-sum vs reduced-fee + rev-share | High | Medium | Margin leakage with rev-share | Pursue per-unit primary; test lump-sum with guardrails; postpone rev-share |
+| Geography focus | Single micro-cluster vs multi-district | High | Medium | Route inefficiency if spread | Pursue single micro-cluster; postpone multi-district |
+| Fleet choice | N-series vs FRR | High | Medium | Dock/ramp constraints | Pursue N-series baseline pending surveys; postpone FRR |
+| Facility footprint | 150–300 m²; when to add baler | Medium | Medium | Over/under-sizing risk | Pursue 150–200 m²; postpone baler until throughput threshold |
+| Materials revenue | Reliance on bale sales | Medium | Low | Price volatility | Pursue MOUs; cap materials at ≤20% plan; hedge |
+| Tech stack | Route optimization/data capture | Medium | Medium | Overbuild risk | Pursue minimal off-the-shelf; postpone custom dev |
+| Legal incentives | SE + BOI | Medium | High | Time/eligibility risk | Pursue SE now; postpone BOI till post-pilot |
+| Sales kit | One-pager, deck, ESG template | Medium | Low | Credibility risk if absent | Pursue immediately |
+| Fundraising | Tranche-based seed | High | Medium | Dilution/timing | Pursue with milestone gates |
+| Scale target | 15–20 buildings | High | High | Ops strain/legal thresholds | Postpone until 8–10 stable |
+
+## Section 8 – Next Solo Steps (5–7 sequential actions)
+
+1) Build a 50–80 condo prospect list within one micro-cluster (name, units, contact).
+2) Draft bilingual outreach script + email, and a one-page LOI template.
+3) Call/contact 10–15 managers to capture price sensitivity and service scope needs.
+4) Schedule and conduct 3–5 vehicle access surveys; document dock/ramps/turn radii.
+5) Obtain ≥3 facility quotes and ≥2 vehicle quotes; record terms and lead times.
+6) Draft PDPA policy + simple data capture template for pilot reporting.
+7) Define pilot SLA/KPIs and prepare a short pilot agreement template.
+
+---
+
+Appendix A – Inventory Map
+
+- docs/BusinessPlan/00_Business_Plan.md
+  - Sections 1–10: Exec summary through Roadmap.
+
+Appendix B – Quick Inconsistencies (Phase 1)
+
+- Targets vs. Financials: Break-even condos (4–6) vs. revenue example assumes 5×400 units—OK but sensitivity not quantified.
+- Ops Staffing vs. Financials: Labor cost range (45–70k THB) not tied to headcount plan.
+- Legal: DIW exemption (<50 hp & <50 employees) may conflict with later scaling; define triggers.
+- GTM: Sales kit assets listed but not linked to roadmap milestones or financial assumptions.
+
+

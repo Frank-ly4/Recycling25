@@ -21,7 +21,11 @@ Pilot offer (30–60 days)
 - Free or reduced fee pilot; clear SLA; convert to 12-month agreement after success.
 
 What you receive monthly
-- Pickup logs, ESG report, improvement tips, dedicated manager.
+- Pickup logs, ESG report, improvement tips, assigned account manager (ratio ≤1:6 buildings) and monthly check-in.
+
+Notes
+- SLA-backed service with on-time targets and credits per agreement.
+- CO2e figures are estimates; factors will be updated with Thai/ASEAN LCA sources.
 
 Contact
 - Email: ops@recycling25.example | LINE OA: recycling25 | Phone: (+66) 02-000-0000

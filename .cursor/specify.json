@@ -1,0 +1,79 @@
+{
+  "projectType": "business-plan",
+  "name": "business-plan",
+  "description": "Investor- and market-ready business plan for Bangkok operations; strict financial validation, agent roles, and audit trail.",
+  "owner": "Frank-ly4",
+  "goals": [
+    "Investor readiness",
+    "Market readiness for Bangkok customers",
+    "Achieve >= 50,000 THB profit/month",
+    "Robust, math-backed financials and pricing packages",
+    "Operational execution plan for hiring, facilities, logistics"
+  ],
+  "artifactTypes": ["strategy_doc","financial_model","pricing_catalog","go_to_market_plan","operations_manual","contracts","research_bibliography","audit_log"],
+  "preferredFormats": ["markdown","csv","xlsx","json"],
+  "naming": {
+    "publishedPrefix": "BP_",
+    "artifactPattern": "BP_<type>_<YYYYMMDD>_v<semver>"
+  },
+  "governance": {
+    "changeLogging": "required",
+    "approvalRequired": true,
+    "approvers": ["Frank-ly4"],
+    "immutablePublishedTag": "published_v*",
+    "auditFields": ["who","when","what","why","evidence"],
+    "autoCommitPolicy": {
+      "allowScaffoldCommit": false,
+      "scaffoldMaxFiles": 3,
+      "scaffoldMustBeSuggested": true,
+      "autoCommitRequiresOwnerOptIn": true
+    }
+  },
+  "fallbacks": {
+    "modelSubstitution": ["gpt-4o","gpt-4","safety-fallback"],
+    "humanFallback": ["Frank-ly4"]
+  },
+  "runtimeTesting": {
+    "enableProbes": true,
+    "probeTypes": ["consistency","coverage","financial_sanity","pricing_feasibility","legal_flags"],
+    "coverageEnforcement": "must_cover_all_components",
+    "probeFrequency": "on_change_and_pre_promotion",
+    "financialProbeStrictness": "strict",
+    "financialProbeRules": {
+      "requiredFiles": ["finance/financial_model.csv","finance/pricing_catalog.csv","finance/assumptions.md"],
+      "requiredFieldsInPricing": ["package_name","price","cost","margin","target_segment"],
+      "targetProfitCheck": {"minMonthlyProfitTHB": 50000},
+      "sanityThresholds": {"minMarginPct": 10,"maxBurnMultiplier": 12}
+    }
+  },
+  "cadence": {
+    "workingCycle": "weekly_weekend",
+    "reviewCycle": "biweekly",
+    "promotionGates": ["draft","internal_review","investor_ready"]
+  },
+  "rolesAndAgents": {
+    "agents": {
+      "strategy_analyst": {"workFolder": "docs/BusinessPlan","fileCreationAllowed": false},
+      "finance_modeler": {"workFolder": "finance","fileCreationAllowed": false},
+      "operations_planner": {"workFolder": "ops","fileCreationAllowed": false},
+      "compliance_reviewer": {"workFolder": "legal","fileCreationAllowed": false},
+      "qa_probe_agent": {"workFolder": ".cursor/qa","fileCreationAllowed": false}
+    },
+    "agentGovernance": {
+      "changeScope": "suggest-only",
+      "autoCommit": false,
+      "commitRequiresApproval": true,
+      "fileCreationRules": {
+        "requireOwnerConfirmationForNewFiles": true,
+        "allowedScaffoldTemplates": ["financials_template.csv","pricing_catalog_template.csv","ops_checklist.md"],
+        "scaffoldMaxFiles": 3
+      }
+    }
+  },
+  "externalDataPolicy": {
+    "allowedSources": ["web","paid_datasets","internal_data"],
+    "geographicFocus": ["Bangkok","Thailand"],
+    "requireCitation": true
+  }
+}
+

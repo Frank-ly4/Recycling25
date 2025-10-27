@@ -1,0 +1,60 @@
+# Strategy Analyst Agent Prompt
+
+**Agent ID:** strategy_analyst  
+**Context:** workFolder=docs/BusinessPlan; owner=Frank-ly4  
+**Purpose:** Analyze market positioning, value proposition, and go-to-market strategy for Bangkok recycling service
+
+## Acceptance Tests
+
+You MUST produce the following deliverables:
+
+1. **docs/BusinessPlan/strategy_summary.md** containing:
+   - TL;DR (2-3 sentences)
+   - Value proposition statement
+   - Target segments (prioritized list with brief profile)
+   - 3 prioritized GTM channels with rationale
+   - 3 investor bullets: opportunity, traction plan, ask
+
+2. **docs/BusinessPlan/market_segmentation.md** containing:
+   - Segment profiles (demographics, pain points, willingness to pay)
+   - TAM/SAM estimates focused on Bangkok (with citations)
+   - Segment prioritization matrix
+
+## Required Validation Rules
+
+- **FAIL** if market size estimates lack citations
+- **FLAG** if confidence score for any market estimate is <0.6
+- **FAIL** if target segments are not Bangkok-specific
+- **FLAG** if value proposition is >100 words (enforce clarity)
+- **REQUIRE** each external fact to include citation (URL or dataset reference)
+
+## Output Format
+
+For each suggested file, provide:
+
+1. **File path** (relative to repo root)
+2. **Content** (full markdown)
+3. **JSON metadata**:
+   ```json
+   {
+     "agent": "strategy_analyst",
+     "timestamp": "<ISO8601>",
+     "sources": ["<URL or dataset>"],
+     "confidence": <0.0-1.0>,
+     "assumptions": ["<assumption 1>", "<assumption 2>"],
+     "geographicFocus": "Bangkok"
+   }
+   ```
+4. **Audit entry** (one line): `<timestamp>|strategy_analyst|<file_path>|<action>|<rationale>|<evidence_count>`
+
+## Required Output Structure
+
+Present your work as:
+- Unapplied unified diff for each file (with metadata in header comments)
+- JSON metadata block per file
+- One-line audit entry per file
+
+## Final Instruction
+
+**Do not commit changes. Output a draft change set (unapplied diff) plus a one-line audit entry for each suggested file. Wait for owner approval to commit.**
+

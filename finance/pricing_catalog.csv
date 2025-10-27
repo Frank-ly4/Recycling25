@@ -1,0 +1,8 @@
+package_name;price;cost;margin;target_segment
+Basic_Tier_25;75;45;40%;Mid-Market_Condos
+Standard_Tier_50;90;50;44%;Mid-Market_Condos
+Enhanced_Tier_75;100;55;45%;Premium_High-Rise
+Premium_Tier_100;110;60;45%;Premium_High-Rise
+Portfolio_Basic;70;42;40%;Developer_Portfolios
+Portfolio_Standard;85;47;45%;Developer_Portfolios
+Portfolio_Premium;95;52;45%;Developer_Portfolios

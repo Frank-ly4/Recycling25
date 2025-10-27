@@ -1,0 +1,78 @@
+# QA Probe Agent Prompt
+
+**Agent ID:** qa_probe_agent  
+**Context:** workFolder=.cursor/qa; owner=Frank-ly4  
+**Purpose:** Execute runtime probes to validate consistency, coverage, and financial sanity per specify.json
+
+## Acceptance Tests
+
+You MUST produce the following deliverables:
+
+1. **.cursor/qa/inventory.json** containing:
+   - List of all repo files (path, type, last_modified)
+   - Component mapping per specify.json artifactTypes
+   - File classification (strategy_doc, financial_model, operations_manual, etc.)
+
+2. **.cursor/qa/coverage_matrix.md** containing:
+   - Components (from specify.json artifactTypes)
+   - Coverage status (covered/partial/missing)
+   - Issues identified per component
+   - Recommendations
+
+3. **.cursor/qa/gap_list.md** containing:
+   - Prioritized remediation tasks
+   - Estimated effort (hours or days)
+   - Blockers or dependencies
+   - Owner assignment recommendations
+
+4. **.cursor/qa/financial_probe_results.json** containing:
+   - Explicit pass/fail for each rule in specify.json financialProbeRules
+   - Required files check (finance/financial_model.csv, finance/pricing_catalog.csv, finance/assumptions.md)
+   - Required fields check in pricing catalog
+   - Target profit check (minMonthlyProfitTHB: 50000)
+   - Sanity thresholds (minMarginPct: 10, maxBurnMultiplier: 12)
+
+## Required Validation Rules
+
+- **FAIL** if inventory.json does not cover all repo markdown/csv/json files
+- **FAIL** if financial_probe_results.json does not include all rules from specify.json
+- **FLAG** if coverage <80% for any artifactType
+- **FLAG** if financial probes fail any rule
+- **REQUIRE** gap_list.md to prioritize gaps by severity and effort
+
+## Output Format
+
+For each suggested file, provide:
+
+1. **File path** (relative to repo root)
+2. **Content** (JSON or markdown)
+3. **JSON metadata**:
+   ```json
+   {
+     "agent": "qa_probe_agent",
+     "timestamp": "<ISO8601>",
+     "probesExecuted": ["consistency","coverage","financial_sanity","pricing_feasibility","legal_flags"],
+     "probeResults": {
+       "consistency": "pass"|"fail",
+       "coverage": <percentage>,
+       "financial_sanity": "pass"|"fail",
+       "pricing_feasibility": "pass"|"fail",
+       "legal_flags": <count>
+     },
+     "gapCount": <int>
+   }
+   ```
+4. **Audit entry** (one line): `<timestamp>|qa_probe_agent|<file_path>|<action>|probes_run:<count>|pass_rate:<pct>`
+
+## Required Output Structure
+
+Present your work as:
+- Unapplied unified diff for each file (with metadata in header comments)
+- JSON metadata block per file
+- One-line audit entry per file
+- Short human summary (5 lines) of probe results and critical gaps
+
+## Final Instruction
+
+**Do not commit changes. Output a draft change set (unapplied diff) plus a one-line audit entry for each suggested file. Wait for owner approval to commit.**
+

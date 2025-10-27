@@ -1,15 +1,17 @@
 {
-  "version": "2025-01",
+  "version": "20251025-INTL",
+  "source": "US EPA WARM (Version 15)",
+  "url": "https://www.epa.gov/warm",
   "unit": "kgCO2e_per_kg_material",
+  "notes": "Factors are from a reputable international source (US EPA) and used as a proxy pending availability of localized Thai/ASEAN LCA data. These are for estimation purposes only.",
   "factors": {
-    "PET": 1.6,
-    "HDPE": 1.8,
-    "Aluminum": 9.2,
-    "Steel": 1.4,
-    "Paper": 1.3,
-    "Cardboard": 1.1,
-    "Glass": 0.3
-  },
-  "notes": "Illustrative factors; replace with Thailand/region-specific LCA where available."
+    "PET": 1.37,
+    "HDPE": 1.58,
+    "Aluminum": 8.11,
+    "Steel": 1.83,
+    "Paper": 1.76,
+    "Cardboard": 3.16,
+    "Glass": 0.26
+  }
 }
 
