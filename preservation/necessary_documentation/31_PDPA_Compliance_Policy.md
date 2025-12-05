@@ -7,8 +7,13 @@
 **REVIEW DATE:** [ANNUAL REVIEW REQUIRED]  
 **VERSION:** 1.0
 
+<<<<<<< HEAD
 **DATA PROTECTION OFFICER:** Frank-ly4 (Operations Manager, Interim)
 **CONTACT:** privacy@recycling25.com
+=======
+**DATA PROTECTION OFFICER:** [TO BE APPOINTED]  
+**CONTACT:** [EMAIL AND PHONE TO BE SPECIFIED]
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 ---
 
@@ -516,10 +521,17 @@
 ## SECTION 12: GOVERNANCE AND ACCOUNTABILITY
 
 ### 12.1 Data Protection Officer (DPO)
+<<<<<<< HEAD
 12.1.1. **Appointment**: The appointed DPO is Frank-ly4 (Operations Manager). This role will be reviewed quarterly as the company scales.
 12.1.2. **Qualifications**: Expert knowledge of PDPA and data protection.
 12.1.3. **Independence**: Independent performance of duties.
 12.1.4. **Contact Information**: privacy@recycling25.com; Business Address, Bangkok; +66 XX-XXX-XXXX
+=======
+12.1.1. **Appointment**: [TO BE APPOINTED - Internal or External]  
+12.1.2. **Qualifications**: Expert knowledge of PDPA and data protection  
+12.1.3. **Independence**: Independent performance of duties  
+12.1.4. **Contact Information**: [TO BE SPECIFIED]
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 12.1.2. **DPO Responsibilities**:
    - Monitor PDPA compliance

@@ -253,6 +253,7 @@ Note: Entries follow the schema: Answer, Evidence, Assumptions, Risks, Decisions
   - Track each outreach (BMA/DIW/RD/BOI/processors/brokers) in `discovery_responses3.md` with dates and contacts.
 
 
+<<<<<<< HEAD
 ---
 
 ## SWOT and Porter's Five Forces — Logged Verbatim (2025-10-27)
@@ -382,3 +383,5 @@ This plan is designed to produce a "Strategic Analysis v2" document that will in
 
 This plan avoids creating more templates and focuses on delivering a single, high-value strategic document backed by fresh, targeted research.
 
+=======
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)

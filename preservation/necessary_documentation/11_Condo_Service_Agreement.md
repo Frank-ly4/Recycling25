@@ -44,14 +44,22 @@
 2.1.1. **Weekly Collection Services**:
    - Scheduled pickup of recyclable materials every [DAY OF WEEK]
    - Time window: [TIME RANGE - TO BE SPECIFIED]
+<<<<<<< HEAD
    - Targeted backup collection within 48 hours if primary collection is missed, subject to safe access, inventory availability, and Force Majeure; Provider will notify Client within 24 hours with a revised collection window
+=======
+   - Backup collection within 48 hours if primary collection missed
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
    - Holiday schedule adjustments with 7 days advance notice
 
 2.1.2. **Equipment and Supplies**:
    - Provision and maintenance of collection bins (quantity per Schedule C)
    - Multilingual signage for proper sorting (Thai/English)
    - Resident education materials and guidelines
+<<<<<<< HEAD
    - Target replacement of damaged or stolen equipment within 5 business days, subject to inventory availability; interim measures provided if replacement stock is unavailable
+=======
+   - Replacement of damaged or stolen equipment within 5 business days
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 2.1.3. **Sorting and Processing**:
    - Professional sorting at Provider's licensed facility
@@ -141,7 +149,11 @@
 ### 4.1 Performance Standards
 4.1.1. **Collection Reliability**: ≥98% on-time collection rate
    - On-time defined as within scheduled 4-hour window
+<<<<<<< HEAD
    - Measurement: Calculated per Provider's SLA Measurement SOP (ops/SOPs/04_SLA_Measurement_SOP.md); monthly performance calculation
+=======
+   - Measurement: Monthly calculation of successful collections
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
    - Reporting: Monthly performance report to Client
 
 4.1.2. **Response Time Standards**:
@@ -280,7 +292,11 @@
    - Regular compliance audits and reporting
 
 7.1.2. **Sustainability Commitments**:
+<<<<<<< HEAD
    - Maximize diversion consistent with contamination thresholds and Client cooperation (see Article 4.3)
+=======
+   - Maximum diversion from landfill
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
    - Continuous improvement in recycling rates
    - Carbon footprint reduction initiatives
    - Circular economy principles

@@ -111,7 +111,11 @@ MANDATORY CLAUSES:
 - **Termination Clauses**: 90-day notice periods with penalty clauses
 - **Force Majeure**: Protection against regulatory changes
 - **Fuel Surcharge**: Automatic adjustment if diesel >38 THB/L for 30+ days
+<<<<<<< HEAD
 - **Performance Credits**: Credits per SLA if thresholds are not met; structured metrics and exclusions
+=======
+- **Performance Guarantees**: SLA metrics with penalty/credit structure
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 **Supplier Agreements:**
 - **Processor MOUs**: Minimum 2-3 processors with floor pricing

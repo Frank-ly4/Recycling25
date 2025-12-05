@@ -141,7 +141,10 @@
 3.1.3. **Consistency**: Ensure all communications are consistent across channels and spokespersons  
 3.1.4. **Empathy**: Show concern for affected parties and acknowledge impact  
 3.1.5. **Accountability**: Accept responsibility where appropriate and outline corrective actions
+<<<<<<< HEAD
 3.1.6. **Legal guardrails**: Avoid unconditional liability statements; qualify obligations by applicable law and contracts; route external statements for legal review
+=======
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 ### 3.2 Key Messages Framework
 3.2.1. **Core Messages** (Adapt for specific crisis):
@@ -149,7 +152,11 @@
    - "We are taking immediate action to address the situation and prevent recurrence"
    - "We are cooperating fully with authorities and regulatory agencies"
    - "We are committed to transparency and will provide updates as information becomes available"
+<<<<<<< HEAD
    - "We take responsibility for our role and will implement corrective measures as required by applicable law and our contracts"
+=======
+   - "We take full responsibility for our actions and are implementing corrective measures"
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 3.2.2. **Supporting Messages**:
    - Company background and commitment to environmental responsibility
@@ -194,7 +201,11 @@
    - "We are cooperating fully with authorities investigating the accident"
    - "The safety of our employees and the public is our highest priority"
    - "We are taking steps to prevent similar incidents in the future"
+<<<<<<< HEAD
    - "We will work with relevant parties to address any damages or injuries in accordance with applicable laws and our contractual obligations"
+=======
+   - "We will work with all parties to address any damages or injuries"
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 ### 4.2 Environmental Contamination Crisis Response
 4.1.1. **Immediate Response** (First Hour):
@@ -215,7 +226,11 @@
    - "We are taking immediate action to contain and clean up the contamination"
    - "We are working with environmental experts to assess and minimize impact"
    - "The health and safety of the community is our primary concern"
+<<<<<<< HEAD
    - "We will take responsibility for our role and implement cleanup and prevention measures as required by applicable law and our contracts"
+=======
+   - "We will take full responsibility for cleanup and prevention measures"
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 ### 4.3 Regulatory Investigation Crisis Response
 4.3.1. **Immediate Response** (First Hour):
@@ -236,7 +251,11 @@
    - "We are cooperating fully with the regulatory investigation"
    - "We take compliance with all regulations very seriously"
    - "We are conducting our own internal review to identify improvements"
+<<<<<<< HEAD
    - "We will implement corrective actions required by applicable law or regulator directives"
+=======
+   - "We are committed to implementing any necessary corrective actions"
+>>>>>>> 53da2b2 (before having gemini 3 and opus 4_5 revamp)
 
 ### 4.4 Data Breach Crisis Response
 4.4.1. **Immediate Response** (First Hour):
