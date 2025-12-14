@@ -2,6 +2,8 @@
 
 Purpose: Ensure work is logged to disk, not lost in chat; enforce dependency-based planning; and maintain high-signal, execution-ready outputs.
 
+Related documents: see `CONSTITUTION_INTEGRITY.md` (integrity gates and QA) and `memory/constitution.md` (agent constitution mirror).
+
 ## 1) Persistence & Logging (Change Log First)
 - Change log is the first artifact to update for any substantive action. Create/update an entry in `meta/change_log/` before or alongside file edits.
 - Save all substantive outputs (audits, plans, tables, matrices) to files in the repo. Chat is not the source of truth.

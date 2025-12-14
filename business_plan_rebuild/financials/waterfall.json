@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "generated_at": "2025-12-14T07:36:21+00:00",
+    "input_file": "model_inputs.json",
+    "input_sha256": "8dc578dc71977b826b2035c56f109a043d171d18e15d83a27ea51b483c276293",
+    "principal": 1500000.0,
+    "cap_multiple": 1.5,
+    "cap_amount": 2250000.0,
+    "revenue_share_pct": 0.1,
+    "payment_frequency_months": 3
+  },
+  "rows": [
+    {
+      "payment_month": 6,
+      "quarter_start_month": 4,
+      "quarter_end_month": 6,
+      "quarter_service_revenue": 468000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 46800.0,
+      "cumulative_paid": 46800.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 2203200.0
+    },
+    {
+      "payment_month": 9,
+      "quarter_start_month": 7,
+      "quarter_end_month": 9,
+      "quarter_service_revenue": 648000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 64800.0,
+      "cumulative_paid": 111600.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 2138400.0
+    },
+    {
+      "payment_month": 12,
+      "quarter_start_month": 10,
+      "quarter_end_month": 12,
+      "quarter_service_revenue": 900000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 90000.0,
+      "cumulative_paid": 201600.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 2048400.0
+    },
+    {
+      "payment_month": 15,
+      "quarter_start_month": 13,
+      "quarter_end_month": 15,
+      "quarter_service_revenue": 1188000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 118800.0,
+      "cumulative_paid": 320400.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1929600.0
+    },
+    {
+      "payment_month": 18,
+      "quarter_start_month": 16,
+      "quarter_end_month": 18,
+      "quarter_service_revenue": 1476000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 147600.0,
+      "cumulative_paid": 468000.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1782000.0
+    },
+    {
+      "payment_month": 21,
+      "quarter_start_month": 19,
+      "quarter_end_month": 21,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 619200.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1630800.0
+    },
+    {
+      "payment_month": 24,
+      "quarter_start_month": 22,
+      "quarter_end_month": 24,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 770400.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1479600.0
+    },
+    {
+      "payment_month": 27,
+      "quarter_start_month": 25,
+      "quarter_end_month": 27,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 921600.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1328400.0
+    },
+    {
+      "payment_month": 30,
+      "quarter_start_month": 28,
+      "quarter_end_month": 30,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1072800.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1177200.0
+    },
+    {
+      "payment_month": 33,
+      "quarter_start_month": 31,
+      "quarter_end_month": 33,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1224000.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 1026000.0
+    },
+    {
+      "payment_month": 36,
+      "quarter_start_month": 34,
+      "quarter_end_month": 36,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1375200.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 874800.0
+    },
+    {
+      "payment_month": 39,
+      "quarter_start_month": 37,
+      "quarter_end_month": 39,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1526400.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 723600.0
+    },
+    {
+      "payment_month": 42,
+      "quarter_start_month": 40,
+      "quarter_end_month": 42,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1677600.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 572400.0
+    },
+    {
+      "payment_month": 45,
+      "quarter_start_month": 43,
+      "quarter_end_month": 45,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1828800.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 421200.0
+    },
+    {
+      "payment_month": 48,
+      "quarter_start_month": 46,
+      "quarter_end_month": 48,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 1980000.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 270000.0
+    },
+    {
+      "payment_month": 51,
+      "quarter_start_month": 49,
+      "quarter_end_month": 51,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 151200.0,
+      "cumulative_paid": 2131200.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 118800.0
+    },
+    {
+      "payment_month": 54,
+      "quarter_start_month": 52,
+      "quarter_end_month": 54,
+      "quarter_service_revenue": 1512000.0,
+      "revenue_share_pct": 0.1,
+      "payment_amount": 118800.0,
+      "cumulative_paid": 2250000.0,
+      "cap_amount": 2250000.0,
+      "cap_remaining": 0.0
+    }
+  ],
+  "totals": {
+    "cumulative_paid": 2250000.0,
+    "cap_amount": 2250000.0,
+    "cap_remaining": 0.0
+  }
+}

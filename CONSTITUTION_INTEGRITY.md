@@ -3,6 +3,8 @@
 ## Purpose
 Ensure evidence-backed outputs, eliminate placeholders in outward-facing docs, and run agents in a predictable order with integrity checks and logging.
 
+Related: `CONSTITUTION.md` (project constitution) and `memory/constitution.md` (agent constitution mirror).
+
 ## Integrity Principles
 - Evidence-first: Any number (THB, %, units, km, kgCO2e, dates) must cite a source, calc, or dataset.
 - No placeholders (customer/investor-facing): reject "[TO BE]", "[PENDING]", "[TBD]", "[XX]", "[X,XXX]", "[N]".

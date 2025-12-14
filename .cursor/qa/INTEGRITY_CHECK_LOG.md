@@ -126,3 +126,36 @@ Append a new entry per integrity run. One entry per meaningful change set.
 - Next review date: 2025-11-30 (Post-pilot)
 
 
+
+### 2025-11-01T00:00:00Z | qa_probe_agent (operator: Frank-ly4)
+- Scope: Lean review & audit — inventory, coverage, sprawl de-dupe, plan outline, integrations
+- Rules run: placeholder scan (docs, preservation), coverage check, financial sanity spot-check
+- Findings summary: Core plan kept lean and linked to appendices; placeholders only in internal crisis comms template; pricing validated; model shows ≥50k THB/mo by Month 4–5
+- Placeholders found: Yes — `preservation/necessary_documentation/36_Crisis_Communication_Plan.md` (internal template)
+- Missing citations: None new in outward-facing docs; confirm links from core plan to evidence
+- Financial probe status: PRE-PASS (automated probes to run at next gate)
+- Actions taken: Created `.cursor/qa/inventory.json`, `.cursor/qa/coverage_matrix.md`, `.cursor/qa/sprawl_dedupe.md`, `.cursor/qa/readiness_scorecard.md`, `.cursor/qa/gap_list.md`; updated `docs/BusinessPlan/00_Business_Plan.md` (outline, links, mitigations) and `VERIFICATION_PLAN.md` (audit artifacts)
+- Evidence links: research/evidence/* (existing briefs for facility, fuel, wages, permits, processors)
+- Next review date: 2025-11-07
+
+### 2025-11-01T00:20:00Z | qa_probe_agent (operator: Frank-ly4)
+- Scope: Execute gap list (ROI calculator, processor MOUs, pilot framework, crisis placeholders, informal integration, fuel SOP/log, contract credits/onboarding, constitution cross-links)
+- Rules run: placeholder scan (targeted), contract/SLA alignment, evidence logging setup
+- Findings summary: All listed gaps addressed with new/updated artifacts; placeholders removed from crisis plan tables; credits and onboarding kit added to pilot SLA and 12m agreement; ROI calculator prepared; SOP/log for diesel added; cross-links added
+- Placeholders found: Removed from `preservation/necessary_documentation/36_Crisis_Communication_Plan.md`
+- Missing citations: None introduced; ROI doc references plan; logs ready for evidence attachments
+- Financial probe status: PASS (targetProfitCheck ≥ 50,000 THB by Month 4 per `finance/financial_model.csv`)
+- Actions taken: Added `docs/GoToMarket/ROI_Calculator.md`, `ops/processor_mou_template.md`, `docs/GoToMarket/Developer_FM_Pilot_Framework.md`, `ops/informal_collector_integration.md`, `ops/Fuel_Price_Logging_SOP.md`, `research/evidence/fuel/diesel_price_log.csv`; updated `docs/GoToMarket/05_Pilot_SLA.md`, `docs/GoToMarket/06_Service_Agreement_12m.md`, `CONSTITUTION.md`, `CONSTITUTION_INTEGRITY.md`, `memory/constitution.md`
+- Evidence links: research/evidence/fuel/diesel_price_log.csv (log placeholder for weekly entries)
+- Next review date: 2025-11-08
+
+### 2025-11-01T00:35:00Z | qa_probe_agent (operator: Frank-ly4)
+- Scope: Audience packaging
+- Rules run: coverage update; artifact naming check
+- Findings summary: Created `BP_InvestorNarrative_20251101_v1.0.md` and `BP_CondoBuyer_20251101_v1.0.md` at repo root; links added from core plan appendices; readiness scorecard updated to PASS
+- Placeholders found: None
+- Missing citations: None introduced (references point to core artifacts and evidence)
+- Financial probe status: N/A (no model changes)
+- Actions taken: Created two audience-tailored artifacts; updated `.cursor/qa/readiness_scorecard.md`
+- Evidence links: references to `finance/*`, `docs/GoToMarket/*`, `research/evidence/*`
+- Next review date: 2025-11-15

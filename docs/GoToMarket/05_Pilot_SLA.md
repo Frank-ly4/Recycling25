@@ -27,4 +27,15 @@ Termination
 Liability
 - Public liability and vehicle insurance maintained; condo provides safe access
 
+Onboarding kit (pilot)
+- Signage and bin labels for designated areas
+- Resident notice templates (EN/TH)
+- QR codes for reporting and feedback
+- Measurement definitions (on-time, contamination) per SOP
+
+Performance credits (pilot)
+- If monthly on-time < 98% and ≥ 95%: 5% service credit for that month
+- If monthly on-time < 95%: 10% service credit for that month
+- Credits capped at 10% of monthly pilot value; credits not cumulative across months
+
 

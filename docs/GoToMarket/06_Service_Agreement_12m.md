@@ -47,4 +47,10 @@ Schedule A — Pricing and Commercial Terms
 - Service credit cap (% of monthly fee): __________
 - Effective date for Schedule A terms: __________
 
+Schedule B — Onboarding Kit (Deliverables)
+- Signage and bin labels (EN/TH) for designated areas
+- Resident notice templates (EN/TH) and QR reporting codes
+- Measurement definitions and SLA summary (on-time, contamination)
+- Photo log templates for bin rooms and pickups
+
 

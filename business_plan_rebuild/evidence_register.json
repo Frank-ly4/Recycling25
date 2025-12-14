@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "Evidence Register (Investor Diligence)",
+    "scope": "All material claims inside business_plan_rebuild/",
+    "created_at": "2025-12-13T22:35:00Z",
+    "owner": "Governance Lead",
+    "status": "in_progress",
+    "rules": [
+      "If a claim is not backed by a credible primary/secondary source, mark status = ASSUMPTION—VALIDATE and specify a validation_method.",
+      "Prefer primary sources (laws, government sites, regulator notices). If unavailable, use reputable secondary sources (major news, industry reports).",
+      "Store source artifacts in business_plan_rebuild/evidence/ when feasible and record local_path."
+    ]
+  },
+  "claims": [
+    {
+      "claim_id": "CLAIM-BMA-FEE-001",
+      "claim_text": "BMA waste disposal fees create a 20 THB/unit/month (separated) vs 60 THB/unit/month (mixed) differential used as the core compliance value proposition.",
+      "files": [
+        { "path": "business_plan_rebuild/executive_summary.md", "section": "1. The Opportunity" },
+        { "path": "business_plan_rebuild/market_analysis.md", "section": "1. Executive Overview" }
+      ],
+      "source_url": "",
+      "source_type": "government_notice_or_gazette",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Retrieve the official BMA fee schedule / ordinance text (and any effective-date updates), save to evidence/, then insert excerpt + URL."
+    },
+    {
+      "claim_id": "CLAIM-REIC-SIZE-001",
+      "claim_text": "Zone A market sizing table (Watthana/Khlong Toei/Huai Khwang condo counts and unit totals) is based on REIC data extrapolations.",
+      "files": [
+        { "path": "business_plan_rebuild/market_analysis.md", "section": "Market Sizing (Zone A Pilot Districts)" }
+      ],
+      "source_url": "",
+      "source_type": "industry_report",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Download REIC condo stock tables by district (or a cited summary), store in evidence/, and re-derive the table with transparent math."
+    },
+    {
+      "claim_id": "CLAIM-DLT-YELLOW-001",
+      "claim_text": "Charging a service fee implies commercial transport requirements (Yellow Plate) and/or transport operator licensing considerations under DLT.",
+      "files": [
+        { "path": "business_plan_rebuild/legal_compliance.md", "section": "1.2. Department of Land Transport (DLT)" },
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "3.2. Acquisition Strategy (The \"License Bridge\")" }
+      ],
+      "source_url": "",
+      "source_type": "regulator_guidance",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Locate DLT guidance defining Yellow Plate eligibility and operator licensing for fee-based hauling; store in evidence/; add excerpt."
+    },
+    {
+      "claim_id": "CLAIM-BMA-LICENSE-001",
+      "claim_text": "Operations require a 'Business Detrimental to Health' license under Public Health Act B.E. 2535, Section 31, filed via Form Sor.Por.1 at the district office where the facility is located.",
+      "files": [
+        { "path": "business_plan_rebuild/legal_compliance.md", "section": "1.1. Bangkok Metropolitan Administration (BMA)" }
+      ],
+      "source_url": "",
+      "source_type": "law_and_local_procedure",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Retrieve the Public Health Act text and an official district office procedural document / form template; store in evidence/; add excerpt."
+    },
+    {
+      "claim_id": "CLAIM-VAT-THRESH-001",
+      "claim_text": "VAT registration threshold is 1.8M THB annual turnover; once exceeded, invoices should add 7% VAT (unless exempt).",
+      "files": [
+        { "path": "business_plan_rebuild/outreach_kit/contract_template.md", "section": "Fees and Payment (to be updated)" },
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Revenue assumptions (impacts invoicing)" }
+      ],
+      "source_url": "https://www.rd.go.th/",
+      "source_type": "tax_authority",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "high",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Add the specific Revenue Department page/notice for the 1.8M threshold and VAT rate; store PDF/screenshot in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-WHT-SVC-001",
+      "claim_text": "Corporate clients commonly withhold tax (WHT) on service invoices (often 3%), reducing cash receipts but creditable against corporate income tax.",
+      "files": [
+        { "path": "business_plan_rebuild/investor_relations.md", "section": "Repayment & cash buffers (to be updated)" },
+        { "path": "business_plan_rebuild/financials/projections.json", "section": "Cash balance (to be rebuilt)" }
+      ],
+      "source_url": "https://www.rd.go.th/",
+      "source_type": "tax_authority",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "high",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Cite the Revenue Department guidance on WHT for service payments; store excerpt evidence; incorporate into cashflow model."
+    },
+    {
+      "claim_id": "CLAIM-FEE-UNIT-001",
+      "claim_text": "Service fee of 90 THB/unit/month is achievable for target condos (300–600 units) in Zone A clusters.",
+      "files": [
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Fee per Unit" },
+        { "path": "business_plan_rebuild/executive_summary.md", "section": "3. Business Model" }
+      ],
+      "source_url": "",
+      "source_type": "primary_customer_validation",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Collect 10 juristic interviews + 2 signed LOIs with fee schedules; store signed LOIs (redacted) in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-VAR-COST-001",
+      "claim_text": "Variable cost of 30 THB/unit/month (bags, consumables, disposal fees) is realistic at scale in Bangkok.",
+      "files": [
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Variable Cost per Unit" }
+      ],
+      "source_url": "",
+      "source_type": "supplier_quotes",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Obtain 3 supplier quotes (bags/consumables) + disposal fee evidence; store in evidence/ and update range."
+    },
+    {
+      "claim_id": "CLAIM-LEASE-001",
+      "claim_text": "Vehicle lease of 28,000 THB/month for an NPR-class truck (with commercial insurance) is realistic in Bangkok.",
+      "files": [
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Vehicle Lease" },
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "3.2. Acquisition Strategy" }
+      ],
+      "source_url": "",
+      "source_type": "vendor_quote",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Request written lease quotes from Siam Rajathanee / Krungthai Car Rent; store in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-RENT-001",
+      "claim_text": "Facility rent of 35,000 THB/month is sufficient for a small consolidation warehouse in the Phra Khanong area.",
+      "files": [
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Facility Rent" }
+      ],
+      "source_url": "",
+      "source_type": "property_listings",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Save 3 comparable listings (sqm, location, rent) to evidence/ and adjust range."
+    },
+    {
+      "claim_id": "CLAIM-WAGES-001",
+      "claim_text": "Driver salary 25k THB/month and loader salary 15k THB/month are sufficient to recruit and retain staff in Bangkok for condo-facing service work.",
+      "files": [
+        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Driver Salary / Loader Salary" },
+        { "path": "business_plan_rebuild/risk_register.md", "section": "Staff Churn" }
+      ],
+      "source_url": "",
+      "source_type": "labor_market_benchmarks",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Capture 10 Bangkok job postings for similar roles + 2 recruiter quotes; store screenshots in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-TRUCK-BAN-001",
+      "claim_text": "Truck restriction windows (e.g., 06:00–09:00 and 16:00–20:00) materially constrain routes on Sukhumvit-area surface roads.",
+      "files": [
+        { "path": "business_plan_rebuild/risk_register.md", "section": "Truck Ban Windows" },
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "Routing constraints (to be updated)" }
+      ],
+      "source_url": "",
+      "source_type": "government_traffic_notice",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Retrieve official Bangkok truck restriction notice/map; store in evidence/; align ops schedule."
+    },
+    {
+      "claim_id": "CLAIM-INVEST-TERMS-001",
+      "claim_text": "Investor repayment is structured as 10% of gross revenue paid quarterly until 1.5x cap (2.25M THB) is reached.",
+      "files": [
+        { "path": "business_plan_rebuild/investor_relations.md", "section": "2. Repayment Schedule (Waterfall)" }
+      ],
+      "source_url": "",
+      "source_type": "term_sheet_internal",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "high",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Create a term sheet appendix and ensure the waterfall.json matches this exactly."
+    },
+    {
+      "claim_id": "CLAIM-ESG-DEV-001",
+      "claim_text": "Developer ESG programs (e.g., Sansiri/AP) create demand for building-level diversion reporting; we provide monthly reporting as a service deliverable.",
+      "files": [
+        { "path": "business_plan_rebuild/executive_summary.md", "section": "2. The Solution" },
+        { "path": "business_plan_rebuild/market_analysis.md", "section": "3. Demand Drivers" },
+        { "path": "business_plan_rebuild/outreach_kit/ESG_sales_talking_points.md", "section": "HQ Mandate Hook" }
+      ],
+      "source_url": "",
+      "source_type": "developer_esg_report",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Download Sansiri/AP ESG reports and cite the exact KPI language for waste/diversion reporting; store to evidence/."
+    },
+    {
+      "claim_id": "CLAIM-SCALE-001",
+      "claim_text": "Base case requires ~9 buildings (~3,600 units at 400 units/building) to exceed ≥60k THB/month net profit.",
+      "files": [
+        { "path": "business_plan_rebuild/executive_summary.md", "section": "4. Financial Targets" },
+        { "path": "business_plan_rebuild/financials/projections.json", "section": "Month 12" }
+      ],
+      "source_url": "",
+      "source_type": "model_output",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Regenerate projections from model_inputs.json and ensure Month 12 net profit ≥60k; document in model_spec.md."
+    },
+    {
+      "claim_id": "CLAIM-ROI-001",
+      "claim_text": "Projected investor payback within ~28 months of full operations.",
+      "files": [
+        { "path": "business_plan_rebuild/executive_summary.md", "section": "5. Investment Ask & Returns" }
+      ],
+      "source_url": "",
+      "source_type": "model_output",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Compute payback period directly from cashflow + waterfall outputs (generated) and update the narrative if it differs."
+    },
+    {
+      "claim_id": "CLAIM-FLEET-MIX-001",
+      "claim_text": "Mixed fleet is required to service low-clearance basements: primary NPR-class truck + rescue unit (Suzuki Carry / low-profile pickup cage).",
+      "files": [
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "3. The Fleet: \"Mixed Strategy\"" },
+        { "path": "business_plan_rebuild/audits/vehicle_specs_comparison.md", "section": "Vehicle Options Analysis" }
+      ],
+      "source_url": "",
+      "source_type": "vehicle_specs_and_site_surveys",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "medium",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Attach manufacturer spec sheets for candidate vehicles and at least 5 completed site surveys showing dock height constraints; store in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-LEASE-PARTNER-001",
+      "claim_text": "Leasing via a licensed fleet provider (e.g., Siam Rajathanee / Krungthai Car Rent) bridges the Yellow Plate/operator licensing lead time in Year 1.",
+      "files": [
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "3.2. Acquisition Strategy (The \"License Bridge\")" }
+      ],
+      "source_url": "",
+      "source_type": "vendor_quote_or_terms",
+      "local_path": "",
+      "excerpt": "",
+      "confidence": "low",
+      "status": "ASSUMPTION—VALIDATE",
+      "validation_method": "Obtain written lease proposal/terms confirming vehicle plate class + included insurance/maintenance; store in evidence/."
+    }
+  ]
+}
+
+
