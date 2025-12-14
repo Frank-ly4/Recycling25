@@ -14,6 +14,12 @@ We will launch strictly in the **Sukhumvit 71 (Pridi) to Sukhumvit 77 (On Nut)**
     5.  **Blocs 77** (~460 units).
 *   **Constraint:** Accept new buildings ONLY within 5km of this core loop in Year 1.
 
+### 1.2. Constraints & Ban Windows (Bangkok)
+Routes must comply with **Royal Thai Police Notification on Truck Ban Times** (Surface Roads):
+*   **06:00 – 09:00** (Morning Ban)
+*   **16:00 – 20:00** (Evening Ban)
+*   *Implication:* Pickups must occur in the **09:30 – 15:30** window or after 20:00 (Night shift). <!-- claim:CLAIM-TRUCK-BAN-001 -->
+
 ## 2. Collection Process (SOP)
 1.  **Arrival:** Driver scans QR code at building dock (Time-in).
 2.  **Loading:**
@@ -30,14 +36,17 @@ To handle variable dock heights and licensing lags, we employ a mixed fleet. <!-
 *   **Primary Unit:** **Isuzu NPR 150 (Yellow Plate)**
     *   *Role:* Main route, street-level loading.
     *   *Capacity:* 2,000 kg / 12m3.
+    *   *Specs:* Height ~2.3m (Cannot enter most condo basements).
 *   **Rescue Unit:** **Suzuki Carry / Toyota Hilux Standard (Modified Cage)**
     *   *Role:* Low-clearance basements (<2.1m) and "Feeder Runs".
     *   *Capacity:* 900 kg / 4m3.
+    *   *Requirement:* Height < 1.9m (requires low-profile cage modification).
 
 ### 3.2. Acquisition Strategy (The "License Bridge")
 *   **Months 1-6:** **Mandatory Lease/Rental**.
     *   *Partner:* **Siam Rajathanee** or **Krungthai Car Rent** (Fleet Management). <!-- claim:CLAIM-LEASE-PARTNER-001 -->
     *   *Reason:* Avoids 90-day delay for DLT Operator License. Includes maintenance and replacement truck.
+    *   *Cost:* Premium over owning, but mitigates "No License" regulatory risk.
 *   **Months 7+:** Evaluate purchasing own fleet once DLT Operator License is secured.
 
 ## 4. Facility & Processing

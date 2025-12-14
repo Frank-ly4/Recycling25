@@ -1,8 +1,8 @@
 # Metrics Dashboard
 
 ## 1. North Star Metrics (Monthly)
-*   **Net Profit:** Target ≥60,000 THB (by Month 12).
-*   **Active Buildings:** Target 9.
+*   **Net Profit:** Target ≥60,000 THB/month net income (by Month 15 in current base case).
+*   **Active Buildings:** Target ~12 (to support ≥60k/month net income in current base case).
 *   **Customer Retention:** Target 100%.
 
 ## 2. Financial KPIs

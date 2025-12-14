@@ -32,7 +32,7 @@
 
 ## Slide 7: Financials
 *   **Unit Economics:** Gross Margin ~60% per building.
-*   **Profitability:** Break-even at 6 buildings. Target 60k Profit at 9 buildings (Month 12). <!-- claim:CLAIM-SCALE-001 -->
+*   **Profitability (Base Case):** **Month 12 net income = 16.8k THB** at 9 buildings; **≥60k net income by Month 15** at ~12 buildings. <!-- claim:CLAIM-SCALE-001 -->
 *   **Ask:** 1.5M THB for 18-month runway (adjusted for compliance/fleet costs).
 
 ## Slide 8: Competition

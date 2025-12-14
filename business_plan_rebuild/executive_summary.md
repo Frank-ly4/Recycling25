@@ -16,18 +16,19 @@ Unlike volatile trading-based models, we operate on a **Service Fee** basis to e
 *   **Upside:** Material sales (PET/HDPE) provide bonus margin but are not required for core profitability.
 
 ## 4. Financial Targets
-*   **Profitability:** Target ≥60,000 THB/month Net Profit by Month 12–18.
-*   **Scale Required:** ~9 buildings (3,600 units) in the Phra Khanong Cluster. <!-- claim:CLAIM-SCALE-001 -->
+*   **Profitability:** Base case reaches **positive net income by Month 12** (at ~9 buildings) and **≥60,000 THB/month net income by Month 15** (at ~12 buildings). <!-- claim:CLAIM-SCALE-001 -->
+*   **Scale Required:** ~12 buildings (≈4,800 units at 400 units/building) in the Phra Khanong Cluster to exceed ≥60k net income/month in the current base case. <!-- claim:CLAIM-SCALE-001 -->
 *   **Unit Economics:** High contribution margin per building via route clustering (5km radius).
 
 ## 5. Investment Ask & Returns
 *   **Capital Ask:** 1.5M THB (Seed Tranche 1) to fund Yellow Plate vehicle compliance, warehouse deposit, and 6-month runway.
 *   **Use of Funds:** Fleet & Logistics (33%), Facility/Equipment (30%), Working Capital (37%).
-*   **ROI:** Projected payback within 28 months of full operations. <!-- claim:CLAIM-ROI-001 -->
+*   **ROI:** Under the current revenue-share waterfall, the **1.5x cap is reached at Month 54 (~4.5 years)**. <!-- claim:CLAIM-ROI-001 -->
 *   **Risk Mitigation:** "Fees-first" model insulates against plastic price crashes. Staged funding tranches based on signed LOIs.
 
 ## 6. Roadmap
 *   **Month 1-3:** Validation Sprint & Pilot (Phra Khanong-On Nut Loop).
 *   **Month 4-6:** Operational hardening & Seed Funding.
-*   **Month 7-12:** Scale to 9 buildings (Profitability Target Hit).
+*   **Month 7-12:** Scale to 9 buildings (reach break-even / small positive net income in base case).
+*   **Month 13-15:** Scale to ~12 buildings (≥60k/month net income in base case).
 *   **Month 12+:** Expansion to next Zone A cluster (Thong Lo / Ekkamai).

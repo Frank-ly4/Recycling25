@@ -220,10 +220,11 @@
     },
     {
       "claim_id": "CLAIM-SCALE-001",
-      "claim_text": "Base case requires ~9 buildings (~3,600 units at 400 units/building) to exceed ≥60k THB/month net profit.",
+      "claim_text": "Generated base case reaches positive net income at ~9 buildings (Month 12), and reaches ≥60k THB/month net income at ~12 buildings (Month 15).",
       "files": [
         { "path": "business_plan_rebuild/executive_summary.md", "section": "4. Financial Targets" },
-        { "path": "business_plan_rebuild/financials/projections.json", "section": "Month 12" }
+        { "path": "business_plan_rebuild/outreach_kit/pitch_deck.md", "section": "Slide 7: Financials" },
+        { "path": "business_plan_rebuild/financials/projections.json", "section": "Month 12 and Month 15" }
       ],
       "source_url": "",
       "source_type": "model_output",
@@ -231,11 +232,11 @@
       "excerpt": "",
       "confidence": "medium",
       "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Regenerate projections from model_inputs.json and ensure Month 12 net profit ≥60k; document in model_spec.md."
+      "validation_method": "Regenerate projections from model_inputs.json and confirm Month 12 net income (9 buildings) and Month 15 net income (12 buildings) match this claim; document the reconciliation in model_spec.md."
     },
     {
       "claim_id": "CLAIM-ROI-001",
-      "claim_text": "Projected investor payback within ~28 months of full operations.",
+      "claim_text": "Under the generated revenue-share waterfall (10% quarterly, 1.5x cap), the cap is reached at Month 54 (~4.5 years).",
       "files": [
         { "path": "business_plan_rebuild/executive_summary.md", "section": "5. Investment Ask & Returns" }
       ],
@@ -245,7 +246,7 @@
       "excerpt": "",
       "confidence": "low",
       "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Compute payback period directly from cashflow + waterfall outputs (generated) and update the narrative if it differs."
+      "validation_method": "Confirm `financials/waterfall.json` reaches cap_amount (2.25M) at payment_month 54 and that investor_relations narrative matches; keep derived timeline tied to generated artifacts."
     },
     {
       "claim_id": "CLAIM-FLEET-MIX-001",
