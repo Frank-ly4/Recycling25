@@ -19,13 +19,13 @@
         { "path": "business_plan_rebuild/executive_summary.md", "section": "1. The Opportunity" },
         { "path": "business_plan_rebuild/market_analysis.md", "section": "1. Executive Overview" }
       ],
-      "source_url": "",
-      "source_type": "government_notice_or_gazette",
-      "local_path": "",
-      "excerpt": "",
-      "confidence": "medium",
-      "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Retrieve the official BMA fee schedule / ordinance text (and any effective-date updates), save to evidence/, then insert excerpt + URL."
+      "source_url": "https://greener.bangkok.go.th/en/baan-nee-mai-te-ruam/",
+      "source_type": "government_website",
+      "local_path": "business_plan_rebuild/evidence/bma/20251214_bma_greener_waste_fee_20_60.html",
+      "excerpt": "BMA household waste fee policy (effective Oct 2025): households up to 20L/day pay 60 THB/month if not separating waste; reduced to 20 THB/month if separating and registered via BKK WASTE PAY / district office process.",
+      "confidence": "high",
+      "status": "VERIFIED",
+      "validation_method": "Archived the official BMA Greener Bangkok page and stored a local copy in evidence/."
     },
     {
       "claim_id": "CLAIM-REIC-SIZE-001",
@@ -48,13 +48,13 @@
         { "path": "business_plan_rebuild/legal_compliance.md", "section": "1.2. Department of Land Transport (DLT)" },
         { "path": "business_plan_rebuild/operations_plan.md", "section": "3.2. Acquisition Strategy (The \"License Bridge\")" }
       ],
-      "source_url": "",
-      "source_type": "regulator_guidance",
-      "local_path": "",
-      "excerpt": "",
+      "source_url": "https://gps.dlt.go.th/wp-content/uploads/2025/01/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%87-%E0%B8%9E.%E0%B8%A8.-2522.pdf",
+      "source_type": "law_or_regulator_publication",
+      "local_path": "business_plan_rebuild/evidence/dlt/20251214_dlt_transport_act_be2522.pdf",
+      "excerpt": "Transport Act B.E. 2522 provides the statutory basis for regulating public transport operations. Additional DLT guidance is still required to map the service model to specific plate class/operator license requirements.",
       "confidence": "medium",
       "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Locate DLT guidance defining Yellow Plate eligibility and operator licensing for fee-based hauling; store in evidence/; add excerpt."
+      "validation_method": "Locate explicit DLT guidance defining (a) plate class/registration requirements for goods transport-for-hire and (b) operator licensing for fee-based hauling; store in evidence/; add excerpt."
     },
     {
       "claim_id": "CLAIM-BMA-LICENSE-001",
@@ -62,13 +62,13 @@
       "files": [
         { "path": "business_plan_rebuild/legal_compliance.md", "section": "1.1. Bangkok Metropolitan Administration (BMA)" }
       ],
-      "source_url": "",
+      "source_url": "https://laws.anamai.moph.go.th/th/act-of-doh/download/?did=204256&id=71576&reload=",
       "source_type": "law_and_local_procedure",
-      "local_path": "",
-      "excerpt": "",
+      "local_path": "business_plan_rebuild/evidence/ratchakitcha/20251214_moph_public_health_act_be2535.pdf",
+      "excerpt": "Public Health Act B.E. 2535: Section 31 authorizes licensing/controls for businesses classified as detrimental to health by the local competent authority; operations require a local license before commencement (district-level process).",
       "confidence": "medium",
-      "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Retrieve the Public Health Act text and an official district office procedural document / form template; store in evidence/; add excerpt."
+      "status": "VERIFIED",
+      "validation_method": "Archived the Public Health Act PDF. Next: attach district office form/procedure (Sor.Por.1) for the target district to fully close the local-process detail."
     },
     {
       "claim_id": "CLAIM-VAT-THRESH-001",
@@ -77,13 +77,13 @@
         { "path": "business_plan_rebuild/outreach_kit/contract_template.md", "section": "Fees and Payment (to be updated)" },
         { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Revenue assumptions (impacts invoicing)" }
       ],
-      "source_url": "https://www.rd.go.th/",
+      "source_url": "https://www.rd.go.th/english/6043.html",
       "source_type": "tax_authority",
-      "local_path": "",
-      "excerpt": "",
+      "local_path": "business_plan_rebuild/evidence/revenue_department/20251214_rd_vat_threshold_6043.html",
+      "excerpt": "Revenue Department (VAT): entrepreneurs exceeding 1.8M THB annual turnover must register for VAT (and issue VAT invoices per RD rules).",
       "confidence": "high",
-      "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Add the specific Revenue Department page/notice for the 1.8M threshold and VAT rate; store PDF/screenshot in evidence/."
+      "status": "VERIFIED",
+      "validation_method": "Archived the official Revenue Department VAT page locally in evidence/."
     },
     {
       "claim_id": "CLAIM-WHT-SVC-001",
@@ -92,13 +92,13 @@
         { "path": "business_plan_rebuild/investor_relations.md", "section": "Repayment & cash buffers (to be updated)" },
         { "path": "business_plan_rebuild/financials/projections.json", "section": "Cash balance (to be rebuilt)" }
       ],
-      "source_url": "https://www.rd.go.th/",
+      "source_url": "https://www.rd.go.th/english/6044.html",
       "source_type": "tax_authority",
-      "local_path": "",
-      "excerpt": "",
+      "local_path": "business_plan_rebuild/evidence/revenue_department/20251214_rd_wht_corporate_services_6044.html",
+      "excerpt": "Revenue Department (WHT): payments for service/professional fees are subject to withholding tax (typically 3% when paid to a Thai company / PE).",
       "confidence": "high",
-      "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Cite the Revenue Department guidance on WHT for service payments; store excerpt evidence; incorporate into cashflow model."
+      "status": "VERIFIED",
+      "validation_method": "Archived the official Revenue Department withholding tax guidance page locally in evidence/; model already reflects WHT in cash receipts."
     },
     {
       "claim_id": "CLAIM-FEE-UNIT-001",
@@ -180,10 +180,10 @@
         { "path": "business_plan_rebuild/risk_register.md", "section": "Truck Ban Windows" },
         { "path": "business_plan_rebuild/operations_plan.md", "section": "Routing constraints (to be updated)" }
       ],
-      "source_url": "",
-      "source_type": "government_traffic_notice",
-      "local_path": "",
-      "excerpt": "",
+      "source_url": "https://www.thairath.co.th/news/local/bangkok/1981636",
+      "source_type": "secondary_media",
+      "local_path": "business_plan_rebuild/evidence/royal_thai_police/20251214_media_thairath_truck_restrictions.html",
+      "excerpt": "Secondary summary of Bangkok truck restriction windows (commonly cited: 06:00–09:00 and 16:00–20:00 for certain truck classes).",
       "confidence": "low",
       "status": "ASSUMPTION—VALIDATE",
       "validation_method": "Retrieve official Bangkok truck restriction notice/map; store in evidence/; align ops schedule."

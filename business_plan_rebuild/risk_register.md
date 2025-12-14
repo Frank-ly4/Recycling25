@@ -12,7 +12,7 @@
 | Risk | Probability | Impact | Mitigation Strategy | Owner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Height Clearance Trap:** Truck cannot enter condo dock (<2.1m). | High | High | **Mandatory Site Survey** before contract. Use "Low Profile" cage trucks for specific routes. | Ops |
-| **Truck Ban Windows:** Rush hour bans (06-09, 16-20) limit ops. <!-- claim:CLAIM-TRUCK-BAN-001 --> | High | Med | Strict "Mid-Day" routing (10:00-15:00). Driver limited to 2 trips/day max. | Ops |
+| **Truck Ban Windows:** Rush hour restrictions (commonly cited 06-09, 16-20) may limit ops. **ASSUMPTION—VALIDATE** pending official notice/map. <!-- claim:CLAIM-TRUCK-BAN-001 --> | High | Med | Strict "Mid-Day" routing (10:00-15:00). Driver limited to 2 trips/day max. | Ops |
 | **Contamination:** Residents mix food with plastic. | High | Med | "3-Strike Policy": Warning -> Fine -> Service Suspension. Education events. | Ops |
 | **Vehicle Breakdown:** Single truck fails. | Low | Critical | Rental partnership with 3rd party logistics for emergency back-fill. | Ops |
 | **Staff Churn:** Driver quits. | Med | High | Pay above market (25k vs 18k avg) + Performance Bonus. Maintain roster of part-time backups. | HR/Ops |

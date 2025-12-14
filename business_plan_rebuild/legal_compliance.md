@@ -15,7 +15,7 @@
 ### 1.2. Department of Land Transport (DLT)
 *   **Vehicle Registration:** **Commercial Transport License (Yellow Plate 70-xxxx)**. <!-- claim:CLAIM-DLT-YELLOW-001 -->
     *   *Authority:* Land Transport Act B.E. 2522 (1979).
-    *   *Rationale:* Charging a "Service Fee" constitutes "transport for hire." Private (Green/White plate) trucks are illegal for this purpose.
+    *   *Rationale:* Charging a service fee may be treated as transport-for-hire and trigger DLT registration/operator requirements. **ASSUMPTION—VALIDATE** pending explicit DLT guidance on plate class and operator licensing for this specific service model. <!-- claim:CLAIM-DLT-YELLOW-001 -->
 *   **Driver License:** Type 2 (Commercial) Driving License (ใบขับขี่ บ.2) required for all drivers.
 *   **Constraint:** Yellow plate registration requires the company to have a transport permit license number (significant paperwork hurdle).
 *   **Mitigation:** **Lease via Licensed Partner** (License Bridge). The lessor (e.g., Siam Rajathanee) holds the operator license and plates; we operate as the client.
