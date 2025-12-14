@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2025-12-14T07:36:21+00:00",
+    "generated_at": "2025-12-14T08:03:30+00:00",
     "input_file": "model_inputs.json",
-    "input_sha256": "8dc578dc71977b826b2035c56f109a043d171d18e15d83a27ea51b483c276293",
+    "input_sha256": "bdf4394218c6f7f7118f06283d5265f17e39cf533f29cebbb9ffc0d2c43cf838",
     "currency": "THB"
   },
   "rows": [
@@ -17,10 +17,10 @@
       "cost_fuel": 6000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -145000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -150000.0,
       "tax_simplified": 0.0,
-      "net_income": -145000.0
+      "net_income": -150000.0
     },
     {
       "month": 2,
@@ -33,10 +33,10 @@
       "cost_fuel": 6000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -121000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -126000.0,
       "tax_simplified": 0.0,
-      "net_income": -121000.0
+      "net_income": -126000.0
     },
     {
       "month": 3,
@@ -49,10 +49,10 @@
       "cost_fuel": 6000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -97000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -102000.0,
       "tax_simplified": 0.0,
-      "net_income": -97000.0
+      "net_income": -102000.0
     },
     {
       "month": 4,
@@ -65,10 +65,10 @@
       "cost_fuel": 9000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -76000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -81000.0,
       "tax_simplified": 0.0,
-      "net_income": -76000.0
+      "net_income": -81000.0
     },
     {
       "month": 5,
@@ -81,10 +81,10 @@
       "cost_fuel": 9000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -76000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -81000.0,
       "tax_simplified": 0.0,
-      "net_income": -76000.0
+      "net_income": -81000.0
     },
     {
       "month": 6,
@@ -97,10 +97,10 @@
       "cost_fuel": 9000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -52000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -57000.0,
       "tax_simplified": 0.0,
-      "net_income": -52000.0
+      "net_income": -57000.0
     },
     {
       "month": 7,
@@ -113,10 +113,10 @@
       "cost_fuel": 9000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -52000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -57000.0,
       "tax_simplified": 0.0,
-      "net_income": -52000.0
+      "net_income": -57000.0
     },
     {
       "month": 8,
@@ -129,10 +129,10 @@
       "cost_fuel": 9000.0,
       "cost_direct_labor": 40000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -28000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -33000.0,
       "tax_simplified": 0.0,
-      "net_income": -28000.0
+      "net_income": -33000.0
     },
     {
       "month": 9,
@@ -145,10 +145,10 @@
       "cost_fuel": 12000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": -22000.0,
+      "cost_fixed_other": 88000.0,
+      "ebitda": -27000.0,
       "tax_simplified": 0.0,
-      "net_income": -22000.0
+      "net_income": -27000.0
     },
     {
       "month": 10,
@@ -161,10 +161,10 @@
       "cost_fuel": 12000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 2000.0,
-      "tax_simplified": 400.0,
-      "net_income": 1600.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": -3000.0,
+      "tax_simplified": 0.0,
+      "net_income": -3000.0
     },
     {
       "month": 11,
@@ -177,10 +177,10 @@
       "cost_fuel": 12000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 2000.0,
-      "tax_simplified": 400.0,
-      "net_income": 1600.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": -3000.0,
+      "tax_simplified": 0.0,
+      "net_income": -3000.0
     },
     {
       "month": 12,
@@ -193,10 +193,10 @@
       "cost_fuel": 12000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 26000.0,
-      "tax_simplified": 5200.0,
-      "net_income": 20800.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 21000.0,
+      "tax_simplified": 4200.0,
+      "net_income": 16800.0
     },
     {
       "month": 13,
@@ -209,10 +209,10 @@
       "cost_fuel": 15000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 47000.0,
-      "tax_simplified": 9400.0,
-      "net_income": 37600.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 42000.0,
+      "tax_simplified": 8400.0,
+      "net_income": 33600.0
     },
     {
       "month": 14,
@@ -225,10 +225,10 @@
       "cost_fuel": 15000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 71000.0,
-      "tax_simplified": 14200.0,
-      "net_income": 56800.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 66000.0,
+      "tax_simplified": 13200.0,
+      "net_income": 52800.0
     },
     {
       "month": 15,
@@ -241,10 +241,10 @@
       "cost_fuel": 15000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 95000.0,
-      "tax_simplified": 19000.0,
-      "net_income": 76000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 90000.0,
+      "tax_simplified": 18000.0,
+      "net_income": 72000.0
     },
     {
       "month": 16,
@@ -257,10 +257,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 116000.0,
-      "tax_simplified": 23200.0,
-      "net_income": 92800.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 111000.0,
+      "tax_simplified": 22200.0,
+      "net_income": 88800.0
     },
     {
       "month": 17,
@@ -273,10 +273,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 18,
@@ -289,10 +289,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 19,
@@ -305,10 +305,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 20,
@@ -321,10 +321,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 21,
@@ -337,10 +337,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 22,
@@ -353,10 +353,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 23,
@@ -369,10 +369,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 24,
@@ -385,10 +385,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 25,
@@ -401,10 +401,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 26,
@@ -417,10 +417,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 27,
@@ -433,10 +433,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 28,
@@ -449,10 +449,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 29,
@@ -465,10 +465,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 30,
@@ -481,10 +481,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 31,
@@ -497,10 +497,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 32,
@@ -513,10 +513,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 33,
@@ -529,10 +529,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 34,
@@ -545,10 +545,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 35,
@@ -561,10 +561,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 36,
@@ -577,10 +577,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 37,
@@ -593,10 +593,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 38,
@@ -609,10 +609,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 39,
@@ -625,10 +625,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 40,
@@ -641,10 +641,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 41,
@@ -657,10 +657,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 42,
@@ -673,10 +673,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 43,
@@ -689,10 +689,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 44,
@@ -705,10 +705,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 45,
@@ -721,10 +721,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 46,
@@ -737,10 +737,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 47,
@@ -753,10 +753,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 48,
@@ -769,10 +769,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 49,
@@ -785,10 +785,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 50,
@@ -801,10 +801,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 51,
@@ -817,10 +817,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 52,
@@ -833,10 +833,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 53,
@@ -849,10 +849,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 54,
@@ -865,10 +865,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 55,
@@ -881,10 +881,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 56,
@@ -897,10 +897,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 57,
@@ -913,10 +913,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 58,
@@ -929,10 +929,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 59,
@@ -945,10 +945,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     },
     {
       "month": 60,
@@ -961,10 +961,10 @@
       "cost_fuel": 18000.0,
       "cost_direct_labor": 55000.0,
       "cost_admin": 40000.0,
-      "cost_fixed_other": 83000.0,
-      "ebitda": 140000.0,
-      "tax_simplified": 28000.0,
-      "net_income": 112000.0
+      "cost_fixed_other": 88000.0,
+      "ebitda": 135000.0,
+      "tax_simplified": 27000.0,
+      "net_income": 108000.0
     }
   ]
 }

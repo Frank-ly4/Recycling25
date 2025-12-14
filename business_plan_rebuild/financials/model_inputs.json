@@ -183,13 +183,13 @@
         }
       },
       "vehicle_rescue_budget": {
-        "value": 10000,
+        "value": 15000,
         "unit": "THB/month",
         "claim_id": "CLAIM-FLEET-MIX-001",
         "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
         "range": {
           "low": 0,
-          "high": 25000
+          "high": 30000
         }
       },
       "salaries": {
