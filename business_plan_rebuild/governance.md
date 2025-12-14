@@ -21,7 +21,7 @@ Each artifact must pass the following gates before being marked "FINAL":
 - [ ] Key claims have citations (e.g., "Source: REIC 2024", "Source: Supplier Quote").
 - [ ] Assumptions are explicitly flagged (e.g., "ASSUMPTION—VALIDATE").
 - [ ] All material claims are tracked in `evidence_register.json` with status (verified vs assumption) and validation method.
-- [ ] Financial figures align with `financials/assumptions.json`.
+- [ ] Financial figures align with `financials/model_inputs.json` and generated outputs (`financials/projections.json`, `financials/cashflow.json`, `financials/waterfall.json`).
 
 ### Gate 3: Investor Readiness
 - [ ] Tone is professional, concise, and persuasive.

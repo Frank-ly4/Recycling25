@@ -15,7 +15,7 @@
 ### 1.2. Department of Land Transport (DLT)
 *   **Vehicle Registration:** **Commercial Transport License (Yellow Plate 70-xxxx)**. <!-- claim:CLAIM-DLT-YELLOW-001 -->
     *   *Authority:* Land Transport Act B.E. 2522 (1979).
-    *   *Rationale:* Charging a service fee may be treated as transport-for-hire and trigger DLT registration/operator requirements. **ASSUMPTION—VALIDATE** pending explicit DLT guidance on plate class and operator licensing for this specific service model. <!-- claim:CLAIM-DLT-YELLOW-001 -->
+    *   *Rationale:* DLT’s published plate/registration rules define non-scheduled truck transport with a yellow-background plate and number ranges including **70–79** (see `business_plan_rebuild/evidence/dlt/20251214_dlt_royal_gazette_plate_numbers_trucks_2565.pdf`). **ASSUMPTION—VALIDATE:** whether our specific service model (recyclables pickup + service fee) is treated as non-scheduled transport-for-hire (and therefore requires the relevant registration/operator licensing) still requires explicit DLT guidance or written confirmation. <!-- claim:CLAIM-DLT-YELLOW-001 -->
 *   **Driver License:** Type 2 (Commercial) Driving License (ใบขับขี่ บ.2) required for all drivers.
 *   **Constraint:** Yellow plate registration requires the company to have a transport permit license number (significant paperwork hurdle).
 *   **Mitigation:** **Lease via Licensed Partner** (License Bridge). The lessor (e.g., Siam Rajathanee) holds the operator license and plates; we operate as the client.

@@ -1,4 +1,4 @@
-﻿# Data Room Index (Investor)
+# Data Room Index (Investor)
 
 ## 1. Recommended Reading Order (30–45 minutes)
 - **Start here**: `README.md`
@@ -44,3 +44,5 @@
 
 ## 4. Open Diligence Items (Tracked)
 These items are tracked in `evidence_register.json` and will be closed during the pilot validation sprint.
+
+- **DLT classification for our exact model (CLAIM-DLT-YELLOW-001)**: We have archived DLT’s published plate/registration rules (yellow-background plate; 70–79 for non-scheduled trucks) and the DLT e-transport licensing workflow docs, but we still need explicit DLT guidance/confirmation that our recyclables pickup + service fee model is treated as non-scheduled transport-for-hire (and therefore requires the relevant registration/operator licensing).

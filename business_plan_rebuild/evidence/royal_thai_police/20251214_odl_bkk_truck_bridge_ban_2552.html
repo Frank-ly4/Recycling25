@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:url="http://whatever/java/java.net.URLEncoder" class="no-js">
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport" />
+<link rel="shortcut icon" href="/themes/Mirage/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/themes/Mirage/images/apple-touch-icon.png" />
+<meta name="Generator" content="DSpace 1.8.1" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/base.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/helper.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/jquery-ui-1.8.15.custom.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/style.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/themes/Mirage/lib/css/authority-control.css" />
+<link type="text/css" rel="stylesheet" media="handheld" href="/themes/Mirage/lib/css/handheld.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/themes/Mirage/lib/css/print.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/Mirage/lib/css/media.css" />
+<link type="application/opensearchdescription+xml" rel="search" href="https://odl.parliament.go.th:443/open-search/description.xml" title="DSpace" />
+<script type="text/javascript" language="javascript">
+	var useragent = navigator.userAgent;
+	useragent = useragent.toLowerCase();
+ 
+	if (useragent.indexOf('iphone') != -1 || useragent.indexOf('symbianos') != -1 || useragent.indexOf('ipad') != -1 || useragent.indexOf('ipod') != -1 || useragent.indexOf('android') != -1 || useragent.indexOf('blackberry') != -1 || useragent.indexOf('samsung') != -1 || useragent.indexOf('nokia') != -1 || useragent.indexOf('windows ce') != -1 || useragent.indexOf('sonyericsson') != -1 || useragent.indexOf('webos') != -1 || useragent.indexOf('wap') != -1 || useragent.indexOf('motor') != -1 || useragent.indexOf('symbian') != -1 ) {
+		
+		document.getElementById('mobile-head').style.display='none';
+		//alert("Go with Mobile Device!!!");
+
+	} 
+	else 
+	{
+		
+		//alert("Go with normal browser!!!");
+	}
+ 
+</script>
+<script type="text/javascript">
+
+
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.googletagmanager.com/gtag/js';
+   var s = document.getElementsByTagName('script')[0];    s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-29870389-1');
+</script>
+<script type="text/javascript">
+                                //Clear default text of emty text areas on focus
+                                function tFocus(element)
+                                {
+                                        if (element.value == ' '){element.value='';}
+                                }
+                                
+                                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                                function disableEnterKey(e)
+                                {
+                                     var key;
+
+                                     if(window.event)
+                                          key = window.event.keyCode;     //Internet Explorer
+                                     else
+                                          key = e.which;     //Firefox and Netscape
+
+                                     if(key == 13)  //if "Enter" pressed, then disable!
+                                          return false;
+                                     else
+                                          return true;
+                                }
+
+                                function FnArray()
+                                {
+                                    this.funcs = new Array;
+                                }
+
+                                FnArray.prototype.add = function(f)
+                                {
+                                    if( typeof f!= "function" )
+                                    {
+                                        f = new Function(f);
+                                    }
+                                    this.funcs[this.funcs.length] = f;
+                                };
+
+                                FnArray.prototype.execute = function()
+                                {
+                                    for( var i=0; i < this.funcs.length; i++ )
+                                    {
+                                        this.funcs[i]();
+                                    }
+                                };
+
+                                var runAfterJSImports = new FnArray();
+            </script>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" src="//cdn.cookie-script.com/s/107ff475bc2e624de5fe845824cc2a63.js" charset="UTF-8" type="text/javascript" />
+<script src="/backoffice/jquery-1.7.2.min.js" type="text/javascript">  </script>
+<script type="text/javascript" language="javascript">
+					function tSubmit(form)
+                    {
+						var defaultedElements = document.getElementsByTagName("textarea");
+                        for (var i=0; i != defaultedElements.length; i++){
+                                 if (defaultedElements[i].value == ' '){
+                                      defaultedElements[i].value='';
+								}}
+                    }
+					
+					function delete_cookie(name) {
+						document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/;';
+					}
+					function setCookie(key, value){ 
+						delete_cookie(key);
+						var expires = new Date();  
+						expires.setTime(expires.getTime() + 100); //1 year  
+						document.cookie = key + '=' + value + ';expires=' + expires.toUTCString()+'; path=/;'; 
+					}  
+					function testcookie() { 
+						var loginname = getCookie('my_coo_name')+getCookie('my_coo_pass')+getCookie('my_coo_set');
+						alert(loginname);
+					}
+					function getCookie(key) {  
+						var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');  
+						return keyValue ? keyValue[2] :0;  
+					}  
+					
+				</script>
+<script type="text/javascript" src="/themes/Mirage/lib/js/modernizr-1.7.min.js"> </script>
+<title>ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552</title>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DCTERMS.dateAccepted" content="2012-04-11T01:47:36Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2012-04-11T01:47:36Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2553-02-01" xml:lang="TH" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="SOP-DIP_P_1318742_0001.pdf" xml:lang="TH" />
+<meta name="DC.identifier_uri" content="https://dl.parliament.go.th/handle/20.500.13072/137478" scheme="DCTERMS.URI" />
+<meta name="DC.title" content="ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552" xml:lang="TH" />
+<meta name="DC.type" content="ประกาศ ระเบียบ คำสั่ง" xml:lang="TH" />
+<meta name="DC.description_vol" content="127" xml:lang="TH" />
+<meta name="DC.description_no" content="16ง พิเศษ" xml:lang="TH" />
+<meta name="DC.identifier_bibno" content="000170663" xml:lang="TH" />
+<meta name="DC.format" content="94" xml:lang="TH" />
+
+<meta property="og:url" content="https://odl.parliament.go.th/handle/20.500.13072/137478" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552" />
+<meta property="og:image" content="" />
+<meta content="2553-02-01" name="citation_date" />
+<meta content="ประกาศ ระเบียบ คำสั่ง" name="citation_keywords" />
+<meta content="ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552" name="citation_title" />
+<meta content="https://odl.parliament.go.th/handle/20.500.13072/137478" name="citation_abstract_html_url" />
+</head><!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+                <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+                <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+                <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+                <!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
+<div id="ds-main">
+<div id="mobile-head" style="display:yes">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+<style>
+body {font-family:Arial}
+
+.topnav {
+display:inline-block;
+text-align:center
+  overflow: hidden;
+  background-color: #007acc;
+  background-position: center;
+display: flex;
+  width: 1003px;
+  margin: 0 auto !important;
+  
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  
+}
+
+.active {
+ background-color: #007acc;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;    
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+<div id="myTopnav" class="topnav">
+<a href="https://odl.parliament.go.th/">หน้าหลัก</a>
+<div class="dropdown">
+<button class="dropbtn">เกี่ยวกับเรา</button>
+<div class="dropdown-content">
+<a href="https://odl.parliament.go.th/page/aboutus#policy">วิสัยทัศน์</a>
+<a href="https://odl.parliament.go.th/page/aboutus#digital_resource">พันธกิจ</a>
+<a href="https://odl.parliament.go.th/page/aboutus#goals">เป้าหมาย</a>
+<a href="https://odl.parliament.go.th/page/aboutus#responsibility">หน้าที่และความรับผิดชอบ</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/structure">โครงสร้างองค์กร</a>
+<a href="https://odl.parliament.go.th/page/aboutus#access">การเข้าถึง</a>
+<a href="https://odl.parliament.go.th/page/aboutus#usage">การใช้งาน</a>
+<a href="https://odl.parliament.go.th/page/aboutus#licenses">การนำไปใช้ และการเผยแพร่</a>
+<a href="https://odl.parliament.go.th/page/aboutus#laws">กฎหมายที่เกี่ยวข้อง</a>
+<a href="https://odl.parliament.go.th/page/aboutus#contact">ติดต่อ</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">การนำฝากและการนำเข้าข้อมูล</button>
+<div class="dropdown-content">
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/repository#repository">การนำฝากและการนำเข้าข้อมูล</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/repository#present">วิธีนำส่งผลงาน</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/repository#contentchange">การเปลี่ยนแปลงเนื้อหา</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/repository#filechange">การเปลี่ยนแปลงไฟล์</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/page/repository#comment">ความคิดเห็นและข้อเสนอแนะ</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">มาตรฐาน CoreTrustSeal</button>
+<div class="dropdown-content">
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/1CTS-CertificationApproved.pdf">การรับรองมาตรฐาน(Certification)</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/2แบบประเมินตนเองLIRT-CTS.pdf">แบบประเมินตนเอง</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/3NALT-cts-statements-and-evidences-finTH-25660128.pdf">รายงานการประเมินตนเอง(TH)</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/4รายงานการประเมินตนเอง-LIRT-Eng20220530.pdf">รายงานการประเมินตนเอง(EN)</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/5แนวทางการสงวนรักษาข้อมูลดิจิทัลในLIRT-CTS.pdf">แนวทางการสงวนรักษาข้อมูลดิจิทัล</a>
+<a rel="noopener noreferrer" target="_blank" href="https://odl.parliament.go.th/static/files/6Best-practiceLIRT-CoreTrustSeal.pdf">รางวัลแนวปฏิบัติที่เป็นเลิศ(Best Practice)</a>
+<a rel="noopener noreferrer" target="_blank" href="https://tcts.nrct.go.th">เครือข่ายมาตรฐานคอร์ทรัสซีลไทย</a>
+<a rel="noopener noreferrer" target="_blank" href="https://youtu.be/RgpGXrUg0Kw">VDO</a>
+</div>
+</div>
+<a href="https://web.parliament.go.th/view/7/nationalassembly/TH-TH/">รัฐสภาไทย</a>
+<a href="https://library.parliament.go.th/">หอสมุดรัฐสภา</a>
+<a onclick="myFunction()" class="icon" href="javascript:void(0);">
+    Menu
+  </a>
+</div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+<div id="ds-header-wrapper">
+<div class="clearfix" id="ds-header">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<a id="ds-header-logo-link" href="/">
+<span id="ds-header-logo"> </span>
+<span id="ds-header-logo-text" />
+</a>
+<h1 class="pagetitle visuallyhidden">ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552</h1>
+<h2 class="static-pagetitle visuallyhidden">LIRT คลังสารสนเทศของสถาบันนิติบัญญัติ</h2>
+</div>
+</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure"> </div>
+</div>
+</div>
+<div id="ds-content-wrapper">
+<div class="clearfix" id="ds-content">
+<div id="ds-body">
+<div id="ds-trail-wrapper">
+<ul id="ds-trail">
+<li class="ds-trail-link first-link ">
+<a href="/">LIRT คลังสารสนเทศของสถาบันนิติบัญญัติ</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-trail-arrow">→</li>
+<li class="ds-trail-link ">
+<a href="/handle/20.500.13072/611">4.กฎหมายที่ประกาศในราชกิจจานุเบกษา</a>
+</li>
+<li class="ds-trail-arrow">→</li>
+<li class="ds-trail-link ">
+<a href="/handle/20.500.13072/620">4.5 ประกาศ ระเบียบ คำสั่ง</a>
+</li>
+<li class="ds-trail-arrow">→</li>
+<li class="ds-trail-link ">
+<a href="/handle/20.500.13072/621">ประกาศ ระเบียบ คำสั่ง</a>
+</li>
+<li class="ds-trail-arrow">→</li>
+<li class="ds-trail-link last-link">
+<a href="">View Item</a>
+</li>
+</ul>
+</div>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" type="text/javascript">
+
+  function resizeIframe(height)
+
+  {	
+		
+		document.getElementById('frame_name_here').height =parseInt(height) + 50;
+		
+	
+  }
+</script>
+<div id="GSAframe">
+<iframe scrolling="no" src="https://search.parliament.go.th" marginwidth="0" marginheight="0" frameborder="0" id="frame_name_here" width="100%"> https</iframe>
+</div>
+<div id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.13072/137478/mets.xml-->
+<div xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" id="ptype">
+<font color="#fff">ItemView</font>
+</div>
+<div xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" class="file-list">
+<div class="file-wrapper clearfix">
+<div class="thumbnail-wrapper-detail">
+<meta name="thumbnail" content="https://odl.parliament.go.th/bitstream/handle/20.500.13072/137478/SOP-DIP_P_1318742_0001.pdf.jpg?sequence=2" />
+<a class="tnresize" href="">
+<img alt="Thumbnail" class="tnresizedetail" src="/bitstream/handle/20.500.13072/137478/SOP-DIP_P_1318742_0001.pdf.jpg?sequence=2" />
+</a>
+</div>
+</div>
+<div class="file-link">
+<div id="drmlink">
+<form action="https://drmlib.parliament.go.th/site.php?mod=document&amp;op=checkout" method="post" target="drmframe" id="drmfrm">
+<input type="hidden" name="pdfname" value="SOP-DIP_P_1318742_0001.pdf" />
+<input type="hidden" name="itemdetail" value="handle/20.500.13072/137478" />
+<input type="hidden" name="pdfurl" value="" />
+<input type="hidden" name="useremail" value="" />
+<input type="hidden" name="refurl" value="&#10;&#10;" />
+<input type="hidden" name="partof" value="&#10;&#10;" />
+</form>
+<iframe frameborder="0" SCROLLING="NO" HEIGHT="280" WIDTH="100%" src="https://drmlib.parliament.go.th/site.php?mod=document&amp;op=checkout&amp;itemdetail=handle/20.500.13072/137478&amp;pdfname=SOP-DIP_P_1318742_0001.pdf&amp;useremail=&amp;refurl=&#10;&#10;&amp;partof=&#10;&#10;" name="drmframe"> </iframe>
+<script type="text/javascript">
+						try{
+						    document.getElementById('drmfrm').submit();
+						    }catch (err){}
+						</script>
+</div>
+</div>
+</div>
+<meta xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" property="og:image" content="" />
+<div xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" class="item-summary-view-metadata">
+<h1>ข้อบังคับเจ้าพนักงานจราจรในเขตกรุงเทพมหานคร ว่าด้วย การห้ามรถบรรทุกตั้งแต่ 6 ล้อขึ้นไป ขึ้นสะพานข้ามคลอง, การห้ามหยุดห้ามจอดรถและการกำหนดให้เดินรถได้ทางเดียวในถนนหรือซอยต่าง ๆ พ.ศ.2552</h1>
+<div class="simple-item-view-other">
+<span class="bold">Date:</span>
+<span xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<meta name="DCTERMS.issuedYear" content="2553" xml:lang="TH" scheme="DCTERMS.W3CDTF" />
+<script type="text/javascript">var valueToEncode = "2553-02-01";var prefixLink = "https://odl.parliament.go.th/browse?value=";var suffixLink = "&amp;type=date";
+				document.write('<a href="'+prefixLink+encodeURIComponent(valueToEncode)+suffixLink+'" class="meta">'+valueToEncode+'</a>');
+			  </script>
+</span>
+</div>
+<div class="simple-item-view-other">
+<table class="ds-includeSet-table detailtable">
+<tr class="ds-table-row even ">
+<td class="label-cell" width="500">
+<span class="bold">ประเภทเอกสาร:</span>
+</td>
+<td xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<span>ประกาศ ระเบียบ คำสั่ง</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="simple-item-view-other">
+<table class="ds-includeSet-table detailtable">
+<tr class="ds-table-row odd ">
+<td class="label-cell" width="500">
+<span class="bold">ปีที่:</span>
+</td>
+<td xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<span>127</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="simple-item-view-other">
+<table class="ds-includeSet-table detailtable">
+<tr class="ds-table-row even ">
+<td class="label-cell" width="500">
+<span class="bold">ตอนที่/ฉบับ:</span>
+</td>
+<td xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<span>16ง พิเศษ</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="simple-item-view-other">
+<table class="ds-includeSet-table detailtable">
+<tr class="ds-table-row even">
+<td class="label-cell" width="500">
+<span class="bold">หมายเลขBIB:</span>
+</td>
+<td xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<span>
+<meta name="dc_bibno" content="000170663" />000170663</span>
+</td>
+</tr>
+</table>
+</div>
+<a href="137478?template=seemore">
+                      (+)See More<br />
+</a>
+<p class="ds-paragraph item-view-toggle item-view-toggle-bottom">
+<a href="/handle/20.500.13072/137478?show=full">Show full item record</a>
+</p>
+<script xmlns:i18n="http://apache.org/cocoon/i18n/2.1" type="text/javascript">
+
+  function resizeIframeRelateyo(height)
+
+  {		
+		document.getElementById('relationfrmyo').height =parseInt(height) + 10;
+	
+  }
+</script>
+<form action="https://drmlib.parliament.go.th/site.php?mod=document&amp;op=relation_item" method="post" target="relationframe_2yo" id="relateformyo">
+<input type="hidden" name="handle" id="handle" value="/handle/20.500.13072/137478?show=full" />
+</form>
+<iframe src="https://drmlib.parliament.go.th/site.php?mod=document&amp;op=relation_item" width="100%" frameborder="0" marginheight="0" marginwidth="0" name="relationframe_2yo" id="relationfrmyo"> </iframe>
+<script type="text/javascript">
+						try{
+						    document.getElementById('relateformyo').submit();
+						    }catch (err){}
+					
+		</script>
+<meta content="document_detail" name="page_type" />
+</div>
+<h2 class="ds-list-head">This item appears in the following Collection(s)</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:atom="http://www.w3.org/2005/Atom" class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/20.500.13072/621/mets.xml-->
+<li>
+<meta name="collection_name" content="ประกาศ ระเบียบ คำสั่ง" />
+<meta name="collection_handle_id" content="621" />
+<a href="/handle/20.500.13072/621">
+<div id="colsname">ประกาศ ระเบียบ คำสั่ง</div>
+</a> [202521]<br />
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+
+  function resizeEPIframe(height)
+
+  {
+	
+		document.getElementById('chldappwd').height =parseInt(height) + 1300;
+
+	
+  }
+</script>
+<script type="text/javascript">
+
+  function resizeIframeChkout(height)
+
+  {
+	
+		document.getElementById('drmchkfrm').height =parseInt(height) + 50;
+
+	
+  }
+</script>
+<br />
+</div>
+<div id="mobile-options">
+<div id="ds-options-wrapper">
+<div id="ds-options">
+<h1 xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set-head">
+<a id="Hlink" href="/ldap-login">ลงชื่อเข้าใช้</a>
+</h1>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set" id="aspect_viewArtifacts_Navigation_list_account">
+		 
+		</div>
+<h1 xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set-head">LIRT Animation</h1>
+<div xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<iframe frameborder="0" src="https://www.youtube.com/embed/O40KKY0jjp8" height="142" width="181"> </iframe>
+<br />
+</div>
+<div xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<a target="_blank" class="nounderline" href="https://odl.parliament.go.th/page/parliamentry-officer-exam">
+<h1 class="ds-option-set-head">กฎหมาย กฎ และระเบียบ เกี่ยวกับรัฐสภา</h1>
+<br />
+</a>
+</div>
+<div xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<a class="nounderline" href="https://odl.parliament.go.th/page/aboutus">
+<h1 class="ds-option-set-head">เกี่ยวกับเรา</h1>
+</a>
+<br />
+</div>
+<div>
+<a href="https://odl.parliament.go.th/handle/20.500.13072/592">
+<img WIDTH="181" src="https://odl.parliament.go.th/themes/Mirage/images/pir.png" />
+</a>
+</div>
+<br />
+<h1 class="ds-option-set-head">Browse</h1>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" id="aspect_viewArtifacts_Navigation_list_browse" class="ds-option-set">
+<ul class="ds-options-list">
+<li>
+<h2 class="ds-sublist-head">All of LIRT</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li>
+<a href="/community-list">Communities &amp; Collections</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" />
+<li>
+<a href="/browse?type=author">Authors</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=subject">Subjects</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=publisher">Publisher</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" />
+<li />
+<li />
+<li />
+<li />
+<li />
+<li>
+<a href="/browse?type=datesitting">Sitting Date</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=datesubmit">Date Submit</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=Classno">Class No</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=relation">Relation</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/browse?type=dateagenda_browse">Date Agenda by Item</a>
+</li>
+</ul>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<h2 class="ds-sublist-head">This Collection</h2>
+<ul xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-simple-list sublist">
+<li>
+<a href="/handle/20.500.13072/621/browse?type=dateissued">By Issue Date</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=author">Authors</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=subject">Subjects</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=publisher">Publisher</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=issn">ISSN</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=contributor">Contributor</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=conprovince">Contributor Province</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=date">Date Submit</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=journal">Journal</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=dateagenda">Date Agenda</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=datesitting">Sitting Date</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=datesubmit">Date Submit</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=Classno">Class No</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=relation">Relation</a>
+</li>
+<li xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/">
+<a href="/handle/20.500.13072/621/browse?type=dateagenda_browse">Date Agenda by Item</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<a target="_blank" class="nounderline" href="https://odl.parliament.go.th/page/volumesearch">
+<h1 class="ds-option-set-head">ค้นเอกสารแบบเล่ม</h1>
+<br />
+</a>
+</div>
+<div xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<a class="nounderline" href="https://odl.parliament.go.th/handle/20.500.13072/375156">
+<h1 class="ds-option-set-head">เอกสารตามกระบวนการตราพระราชบัญญัติ</h1>
+<br />
+</a>
+</div>
+<h1 xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set-head">Mobile Apps</h1>
+<div xmlns="http://di.tamu.edu/DRI/1.0/" class="ds-option-set">
+<table>
+<tr>
+<td rowspan="2">
+<a target="_blank" href="https://www.facebook.com/LIRT-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B1%E0%B8%95%E0%B8%B4-103284444574980/">
+<img HEIGHT="65" WIDTH="65" src="/themes/Mirage/images/lirt_fb_icon.png" />
+</a>
+</td>
+<td>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=app.Ebook.Parliament&amp;feature=search_result#?t=W251bGwsMSwxLDEsImFwcC5FYm9vay5QYXJsaWFtZW50Il0.">
+<img HEIGHT="30" WIDTH="100" src="/themes/Mirage/images/playstore_lirt.png" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a target="_blank" href="https://itunes.apple.com/us/app/lirt-legislative-institutional/id506659244?mt=8">
+<img HEIGHT="30" WIDTH="100" src="/themes/Mirage/images/appstore_lirt.png" />
+</a>
+</td>
+</tr>
+</table>
+<center>
+<a target="_blank" href="https://page.line.me/249lplwb?oat_content=url&amp;openQrModal=true">
+<img HEIGHT="65" WIDTH="165" src="/themes/Mirage/images/NALT_Connect.jpg" />
+</a>
+</center>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div id="mobile-footer">
+<div id="ds-footer-wrapper">
+<div id="ds-footer">
+<div id="ds-footer-left">
+<script src="https://eu1.snoobi.com/snoop.php?tili=??_??" type="text/javascript">  </script>
+<span>
+<center>
+<table>
+<tr />
+</table>
+</center>
+</span>
+<!--googleoff: all-->
+<table border="0">
+<tr>
+<td> </td>
+<td>
+<center>สำนักงานเลขาธิการสภาผู้แทนราษฎร เลขที่ 1111 ถนนสามเสน แขวงถนนนครไชยศรี เขตดุสิต กรุงเทพฯ 10300<br />The Secretariat of the House of Representatives 1111 Samsen Road, Thanon Nakhon Chai Si, Dusit, Bangkok 10300, THAILAND<br />Tel : +66(0) 2242 5900 ต่อ  5721 Fax. : +66(0) 2242 5990 ติดต่อ <a target="_blank" href="mailto:lirt.parliament@gmail.com"> lirt.parliament@gmail.com </a>
+<br />
+<!--googleon: all-->
+<script language="javascript1.1"> page="HomeDspace"; </script>
+<script type="text/javascript">__th_page="home";</script>
+<div id="truehits_div" />
+<script type="text/javascript">
+		  (function() {
+			var ga1 = document.createElement('script'); ga1.type = 'text/javascript';
+			ga1.async = true;
+			ga1.src = "//lvs.truehits.in.th/dataa/i0016405.js";
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga1, s);
+		  })();
+		</script>
+<br />
+</center>
+</td>
+</tr>
+</table>
+<script src="/backoffice/jquery-1.7.2.min.js" type="text/javascript">  </script>
+<script type="text/javascript">
+			/*$('#testexpire').click(function(e){
+				   e.preventDefault();*/
+			$(document).ready(function() {
+					var usname = getCookie('my_coo_name');
+					var uspass = getCookie('my_coo_pass');	
+					$.ajax({
+						url: "/backoffice/checkexpireuser.php",
+						data:{
+								username:usname,
+								password:uspass
+							},
+						type:'post',
+					    dataType:"text",
+						success: function (data) {
+							if(data!='ok'){
+								if(data!=0){
+									if(getCookie('my_coo_set')=='T'){
+										
+										if(isNaN(data) == false){
+											if(data == 99){
+												renew2(data,usname,uspass);
+											}else{
+												renew(data,usname,uspass);
+											}
+										}else{
+											alert(data);
+											//setCookie('my_coo_set','F');
+										}
+										setCookie('my_coo_set','F');
+									}
+								}
+							}
+						},
+					   error: function(xhr, ajaxOptions, thrownError){
+						  // alert(xhr);
+						  // alert(ajaxOptions);
+						  // alert(thrownError);
+					   }
+					});
+
+				});
+		function renew(data,usname,uspass){
+			r = confirm('บัญชีผู้ใช้งานของท่านจะหมดอายุภายใน '+data+' วัน\nต้องการต่ออายุสมาชิกหรือไม่?');
+			if (r == true) {
+				$.ajax({
+					url: "/backoffice/renew_user.php",
+					data:{
+						username:usname,
+						password:uspass
+					},
+					type:'post',
+					dataType:"text",
+					success: function (data) {
+						alert(data);
+					}
+				});
+			} else {
+				//setCookie('my_coo_set','F');
+			}
+		}
+		
+		function renew2(data,usname,uspass){
+			r = confirm('บัญชีผู้ใช้งานของท่านหมดอายุแล้ว !!!\nต้องการต่ออายุสมาชิกหรือไม่?');
+			if (r == true) {
+				$.ajax({
+					url: "/backoffice/renew_user.php",
+					data:{
+						username:usname,
+						password:uspass
+					},
+					type:'post',
+					dataType:"text",
+					success: function (data) {
+						alert(data);
+					}
+				});
+			} else {
+				//setCookie('my_coo_set','F');
+			}
+			
+		}
+		</script>
+</div>
+<div id="ds-footer-right" />
+<div id="ds-footer-links">  </div>
+<a class="hidden" href="/htmlmap"> </a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+            (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({ c: '71eea229-315d-44ed-a86e-9ec9e889c20c', f: true }); done = true; } }; })();
+        </script>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"> </script>
+<script type="text/javascript">
+	var pkBaseURL = (("https:" == document.location.protocol) ? "https://drmlib.parliament.go.th/statistics/" : "http://drmlib.parliament.go.th/statistics/");
+	document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+<script src="https://odl.parliament.go.th/static/js/piwiktracker.js" type="text/javascript"> </script>
+<noscript>
+<p>
+<img alt="" style="border:0" src="https://drmlib.parliament.go.th/statistics/piwik.php?idsite=1" />
+</p>
+</noscript>
+<script type="text/javascript">!window.jQuery && document.write('<script type="text/javascript" src="/static/js/jquery-1.6.2.min.js"> <\/script>')</script>
+<script type="text/javascript" src="/themes/Mirage/lib/js/jquery-ui-1.8.15.custom.min.js"> </script><!--[if lt IE 7 ]>
+<script type="text/javascript" src="/themes/Mirage/lib/js/DD_belatedPNG_0.0.8a.js?v=1"> </script>
+<script type="text/javascript">DD_belatedPNG.fix('#ds-header-logo');DD_belatedPNG.fix('#ds-footer-logo');$.each($('img[src$=png]'), function() {DD_belatedPNG.fixPng(this);});</script><![endif]-->
+<script type="text/javascript">
+            runAfterJSImports.execute();
+        </script>
+<script type="text/javascript" language="javascript">
+	var useragent = navigator.userAgent;
+	useragent = useragent.toLowerCase();
+ 
+	if (useragent.indexOf('iphone') != -1 || useragent.indexOf('symbianos') != -1 || useragent.indexOf('ipad') != -1 || useragent.indexOf('ipod') != -1 || useragent.indexOf('android') != -1 || useragent.indexOf('blackberry') != -1 || useragent.indexOf('samsung') != -1 || useragent.indexOf('nokia') != -1 || useragent.indexOf('windows ce') != -1 || useragent.indexOf('sonyericsson') != -1 || useragent.indexOf('webos') != -1 || useragent.indexOf('wap') != -1 || useragent.indexOf('motor') != -1 || useragent.indexOf('symbian') != -1 ) {
+		
+		//document.getElementById('mobile-head').style.display='none';
+		//document.getElementById('mobile-footer').style.display='none';
+		//document.getElementById('mobile-options').style.display='none';
+		//document.getElementById('ds-content').style.background='none';
+		//document.getElementById('ds-content').style.width='950';
+		//document.getElementById('ds-body').style.width='950';
+		//document.getElementById('ds-content').style.width='750';
+		//alert("Go with Mobile Device!!!");
+		
+
+	} 
+	else 
+	{
+		
+		//alert("Go with normal browser!!!");
+	}
+ 
+</script>
+<script type="text/javascript" language="javascript">
+					
+					//document.getElementById('drmlink').style.display='none';
+					
+					var drmon =""
+
+					try{drmon =document.getElementById('drm-enabled').name;}catch(err){drmon="";}
+					
+					if (drmon='drm') {
+
+						try{document.getElementById('drmlink').style.display='inline';}catch(err){drmlink="";}
+						try{document.getElementById('drmov').style.display='none';}catch(err){drmov="";}
+					}
+					
+						
+
+</script></body></html>

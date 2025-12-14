@@ -15,7 +15,7 @@ We will launch strictly in the **Sukhumvit 71 (Pridi) to Sukhumvit 77 (On Nut)**
 *   **Constraint:** Accept new buildings ONLY within 5km of this core loop in Year 1.
 
 ### 1.2. Constraints & Ban Windows (Bangkok)
-Routes must comply with truck restriction windows on Bangkok surface roads. **ASSUMPTION—VALIDATE:** the commonly cited rush-hour windows below require an official notice/map to be stored in `evidence/`. <!-- claim:CLAIM-TRUCK-BAN-001 -->
+Routes must comply with Bangkok truck restriction windows on surface roads (Royal Gazette / traffic officer regulation). <!-- claim:CLAIM-TRUCK-BAN-001 -->
 *   **06:00 – 09:00** (Morning Ban)
 *   **16:00 – 20:00** (Evening Ban)
 *   *Implication:* Pickups must occur in the **09:30 – 15:30** window or after 20:00 (Night shift). <!-- claim:CLAIM-TRUCK-BAN-001 -->

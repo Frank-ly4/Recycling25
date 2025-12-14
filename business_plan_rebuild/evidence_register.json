@@ -43,16 +43,16 @@
     },
     {
       "claim_id": "CLAIM-DLT-YELLOW-001",
-      "claim_text": "Charging a service fee implies commercial transport requirements (Yellow Plate) and/or transport operator licensing considerations under DLT.",
+      "claim_text": "If our service is classified as non-scheduled goods transport for hire, DLT rules for truck transport apply (yellow-background plate class and operator licensing workflow). The remaining investor-grade risk is classification of our specific model (recyclables pickup + service fee) into the relevant DLT category.",
       "files": [
         { "path": "business_plan_rebuild/legal_compliance.md", "section": "1.2. Department of Land Transport (DLT)" },
         { "path": "business_plan_rebuild/operations_plan.md", "section": "3.2. Acquisition Strategy (The \"License Bridge\")" }
       ],
-      "source_url": "https://gps.dlt.go.th/wp-content/uploads/2025/01/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%87-%E0%B8%9E.%E0%B8%A8.-2522.pdf",
+      "source_url": "https://legal.dlt.go.th/repository/attachments/805_680.pdf",
       "source_type": "law_or_regulator_publication",
-      "local_path": "business_plan_rebuild/evidence/dlt/20251214_dlt_transport_act_be2522.pdf",
-      "excerpt": "Transport Act B.E. 2522 provides the statutory basis for regulating public transport operations. Additional DLT guidance is still required to map the service model to specific plate class/operator license requirements.",
-      "confidence": "medium",
+      "local_path": "business_plan_rebuild/evidence/dlt/20251214_dlt_royal_gazette_plate_numbers_trucks_2565.pdf",
+      "excerpt": "DLT announcement (Royal Gazette, 22 Mar 2565) defines plate characteristics for non-scheduled transport as yellow reflective background, and assigns registration number ranges for truck classes incl. “รถบรรทุกไม่ประจำทาง ใช้หมายเลขตั้งแต่ 60 ถึง 69 และ 70 ถึง 79 …”. We also archived DLT’s e-transport license portal user manual showing the online operator-license workflow for truck categories (see evidence/dlt/20251214_dlt_etl_user_manual_public.pdf). Remaining open item: obtain explicit DLT guidance/confirmation that our service model is treated as non-scheduled transport-for-hire and therefore requires the relevant registration/plate/operator licensing.",
+      "confidence": "high",
       "status": "ASSUMPTION—VALIDATE",
       "validation_method": "Locate explicit DLT guidance defining (a) plate class/registration requirements for goods transport-for-hire and (b) operator licensing for fee-based hauling; store in evidence/; add excerpt."
     },
@@ -178,15 +178,15 @@
       "claim_text": "Truck restriction windows (e.g., 06:00–09:00 and 16:00–20:00) materially constrain routes on Sukhumvit-area surface roads.",
       "files": [
         { "path": "business_plan_rebuild/risk_register.md", "section": "Truck Ban Windows" },
-        { "path": "business_plan_rebuild/operations_plan.md", "section": "Routing constraints (to be updated)" }
+        { "path": "business_plan_rebuild/operations_plan.md", "section": "1.2. Constraints & Ban Windows (Bangkok)" }
       ],
-      "source_url": "https://www.thairath.co.th/news/local/bangkok/1981636",
-      "source_type": "secondary_media",
-      "local_path": "business_plan_rebuild/evidence/royal_thai_police/20251214_media_thairath_truck_restrictions.html",
-      "excerpt": "Secondary summary of Bangkok truck restriction windows (commonly cited: 06:00–09:00 and 16:00–20:00 for certain truck classes).",
-      "confidence": "low",
-      "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Retrieve official Bangkok truck restriction notice/map; store in evidence/; align ops schedule."
+      "source_url": "https://odl.parliament.go.th/bitstream/handle/20.500.13072/122628/SOP-DIP_P_1230792_0001.pdf",
+      "source_type": "government_notice_or_gazette",
+      "local_path": "business_plan_rebuild/evidence/royal_thai_police/20251214_odl_truck_ban_bkk_4_6_wheel_2552.pdf",
+      "excerpt": "Royal Gazette / National Traffic Officer regulation (B.E. 2552): prohibits 4-wheel and 6-wheel trucks operating in Bangkok between 06:00–09:00 and 16:00–20:00 daily, except public holidays (with stated road exceptions).",
+      "confidence": "high",
+      "status": "VERIFIED",
+      "validation_method": "Archived the Royal Gazette PDF via Parliament digital library (ODL) and stored a local copy in evidence/."
     },
     {
       "claim_id": "CLAIM-INVEST-TERMS-001",
