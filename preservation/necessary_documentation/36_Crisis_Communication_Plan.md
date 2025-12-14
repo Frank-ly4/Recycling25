@@ -492,31 +492,31 @@ Recycling25 Co., Ltd.
 ### Internal Crisis Team Contacts
 | Role | Name | Primary Phone | Secondary Phone | Email |
 |------|------|---------------|-----------------|-------|
-| Crisis Team Leader | [Your Name] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| Operations Manager | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| Communications Manager | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| Legal Counsel | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| Finance Manager | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| HR Manager | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
-| Safety Officer | [TBD] | [TO BE COMPLETED] | [TO BE COMPLETED] | [TO BE COMPLETED] |
+| Crisis Team Leader | Designated ICS Lead | — | — | — |
+| Operations Manager | Designated Ops Lead | — | — | — |
+| Communications Manager | Designated Comms Lead | — | — | — |
+| Legal Counsel | Designated Counsel | — | — | — |
+| Finance Manager | Designated Finance Lead | — | — | — |
+| HR Manager | Designated HR Lead | — | — | — |
+| Safety Officer | Designated Safety Officer | — | — | — |
 
 ### External Support Contacts
 | Organization | Contact Person | Phone | Email | Services |
 |--------------|----------------|-------|-------|----------|
-| Legal Counsel | [Law Firm] | [TO BE COMPLETED] | [TO BE COMPLETED] | Legal advice |
-| PR Firm | [PR Company] | [TO BE COMPLETED] | [TO BE COMPLETED] | Crisis PR |
-| Insurance Broker | [Broker Name] | [TO BE COMPLETED] | [TO BE COMPLETED] | Claims |
-| Environmental Consultant | [Company] | [TO BE COMPLETED] | [TO BE COMPLETED] | Environmental |
-| IT Security | [Company] | [TO BE COMPLETED] | [TO BE COMPLETED] | Cyber security |
+| Legal Counsel | Firm on retainer | — | — | Legal advice |
+| PR Firm | Agency on call | — | — | Crisis PR |
+| Insurance Broker | Broker on file | — | — | Claims |
+| Environmental Consultant | Consultant on file | — | — | Environmental |
+| IT Security | Provider on call | — | — | Cyber security |
 
 ### Regulatory and Authority Contacts
 | Agency | Department | Phone | Email | Jurisdiction |
 |--------|------------|-------|-------|--------------|
-| BMA | Environmental Department | [TO BE COMPLETED] | [TO BE COMPLETED] | Environmental |
-| PDPC | Data Protection | [TO BE COMPLETED] | [TO BE COMPLETED] | Data breaches |
-| Police | [Local Station] | [TO BE COMPLETED] | [TO BE COMPLETED] | Incidents |
-| Fire Department | [Local Station] | [TO BE COMPLETED] | [TO BE COMPLETED] | Emergencies |
-| Hospital | [Emergency Room] | [TO BE COMPLETED] | [TO BE COMPLETED] | Medical |
+| BMA | Environmental Department | See district directory | — | Environmental |
+| PDPC | Data Protection | See PDPC directory | — | Data breaches |
+| Police | Local station | Posted onsite | — | Incidents |
+| Fire Department | Local station | Posted onsite | — | Emergencies |
+| Hospital | Emergency room | Posted onsite | — | Medical |
 
 ---
 

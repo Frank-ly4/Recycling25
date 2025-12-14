@@ -41,3 +41,12 @@ Systematically replace assumptions with verified data and citations; track statu
 - QA re-run shows PASS
 
 
+
+## Latest Audit Artifacts
+- `.cursor/qa/inventory.json` — repo components inventory
+- `.cursor/qa/coverage_matrix.md` — component coverage and follow-ups
+- `.cursor/qa/readiness_scorecard.md` — PASS/PRE-PASS status by component
+- `.cursor/qa/gap_list.md` — prioritized remediation items with effort/impact
+
+## Open Gaps Snapshot
+- All previously listed gaps have been addressed. See `.cursor/qa/gap_list.md` for completion notes and artifact paths.

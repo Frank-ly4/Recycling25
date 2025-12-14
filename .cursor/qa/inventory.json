@@ -1,179 +1,95 @@
 {
-  "metadata": {
-    "agent": "qa_probe_agent",
-    "timestamp": "2025-10-24T13:35:00Z",
-    "probesExecuted": ["consistency", "coverage", "financial_sanity"]
+  "summary": {
+    "fileCount": 471,
+    "topLevelFolders": [
+      "archive",
+      "config",
+      "docs",
+      "finance",
+      "investors",
+      "legal",
+      "memory",
+      "meta",
+      "modules",
+      "ops",
+      "pilots",
+      "preservation",
+      "research",
+      "scripts",
+      "specs",
+      "templates"
+    ],
+    "generatedAtISO": "2025-11-01T00:00:00Z"
   },
-  "files": [
-    {
-      "path": "docs/BusinessPlan/00_Business_Plan.md",
-      "type": "strategy_doc",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "strategy"
-    },
-    {
-      "path": "docs/BusinessPlan/strategy_summary.md",
-      "type": "strategy_doc",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "strategy"
-    },
-    {
-      "path": "docs/BusinessPlan/market_segmentation.md",
-      "type": "strategy_doc",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "strategy"
-    },
-    {
-      "path": "finance/01_Assumptions_and_BreakEven.md",
-      "type": "financial_model",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "finance/financial_model.csv",
-      "type": "financial_model",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "finance/pricing_catalog.csv",
-      "type": "pricing_catalog",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "finance/assumptions.md",
-      "type": "financial_model",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "ops/SOPs/01_Collection_SOP.md",
-      "type": "operations_manual",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/SOPs/02_Sorting_SOP.md",
-      "type": "operations_manual",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/SOPs/03_HS_Crisis_Comms.md",
-      "type": "operations_manual",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/SOPs/04_SLA_Measurement_SOP.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-19T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/SOPs/05_Equipment_Inventory_and_Vendors_SOP.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-19T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/facility_plan.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/hiring_plan.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "ops/ops_risk_matrix.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "operations"
-    },
-    {
-      "path": "legal/01_Legal_Checklist_Thailand.md",
-      "type": "contracts",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "legal"
-    },
-    {
-      "path": "legal/legal_gap_list.md",
-      "type": "contracts",
-      "lastModified": "2025-10-24T00:00:00Z",
-      "component": "legal"
-    },
-    {
-      "path": "preservation/COMPREHENSIVE_PROTECTION_STRATEGY.md",
-      "type": "contracts",
-      "lastModified": "2025-09-07T00:00:00Z",
-      "component": "legal"
-    },
-    {
-      "path": "templates/financials_template.csv",
-      "type": "financial_model",
-      "lastModified": "2025-10-22T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "templates/pricing_catalog_template.csv",
-      "type": "pricing_catalog",
-      "lastModified": "2025-10-22T00:00:00Z",
-      "component": "finance"
-    },
-    {
-      "path": "templates/ops_checklist.md",
-      "type": "operations_manual",
-      "lastModified": "2025-10-22T00:00:00Z",
-      "component": "operations"
-    }
+  "artifactTypes": [
+    "strategy_doc",
+    "financial_model",
+    "pricing_catalog",
+    "go_to_market_plan",
+    "operations_manual",
+    "contracts",
+    "research_bibliography",
+    "audit_log"
   ],
-  "missingFiles": [
-    {
-      "path": "docs/GoToMarket/marketing_plan.md",
-      "type": "go_to_market_plan",
-      "component": "marketing",
-      "priority": "medium"
-    },
-    {
-      "path": "docs/GoToMarket/customer_acquisition_funnel.md",
-      "type": "go_to_market_plan",
-      "component": "marketing",
-      "priority": "medium"
-    },
-    {
-      "path": "docs/GoToMarket/sales_process.md",
-      "type": "go_to_market_plan",
-      "component": "marketing",
-      "priority": "medium"
-    },
-    {
-      "path": "research/research_bibliography.md",
-      "type": "research_bibliography",
-      "component": "research",
-      "priority": "low"
-    },
-    {
-      "path": "research/market_research_summary.md",
-      "type": "research_bibliography",
-      "component": "research",
-      "priority": "low"
-    },
-    {
-      "path": ".cursor/audit/implementation_audit.md",
-      "type": "audit_log",
-      "component": "audit",
-      "priority": "low"
-    },
-    {
-      "path": ".cursor/audit/decision_log.md",
-      "type": "audit_log",
-      "component": "audit",
-      "priority": "low"
-    }
-  ]
+  "components": {
+    "strategy": [
+      "docs/BusinessPlan/00_Business_Plan.md",
+      "docs/BusinessPlan/strategy_summary.md",
+      "docs/BusinessPlan/market_segmentation.md",
+      "docs/BusinessPlan/porters_five_forces.md",
+      "discovery_responses3.md",
+      "discovery_responses4.md",
+      "discovery_responses5.md"
+    ],
+    "finance": [
+      "finance/financial_model.csv",
+      "finance/pricing_catalog.csv",
+      "finance/assumptions.md",
+      "templates/financials_template.csv",
+      "templates/pricing_catalog_template.csv"
+    ],
+    "operations": [
+      "ops/facility_plan.md",
+      "ops/hiring_plan.md",
+      "ops/ops_risk_matrix.md",
+      "ops/SOPs/01_Collection_SOP.md",
+      "ops/SOPs/02_Sorting_SOP.md",
+      "ops/SOPs/03_HS_Crisis_Comms.md",
+      "ops/SOPs/04_SLA_Measurement_SOP.md",
+      "ops/SOPs/05_Equipment_Inventory_and_Vendors_SOP.md"
+    ],
+    "legal": [
+      "legal/legal_gap_list.md",
+      "preservation/necessary_documentation/11_Condo_Service_Agreement.md",
+      "preservation/necessary_documentation/31_PDPA_Compliance_Policy.md"
+    ],
+    "qa": [
+      ".cursor/qa/INTEGRITY_CHECK_LOG.md"
+    ],
+    "go_to_market": [
+      "docs/GoToMarket/01_Validation_Sprint.md",
+      "docs/GoToMarket/02_Sales_Kit_Index.md",
+      "docs/GoToMarket/03_OnePager.md",
+      "docs/GoToMarket/04_Deck_Outline.md",
+      "docs/GoToMarket/05_Pilot_SLA.md",
+      "docs/GoToMarket/06_Service_Agreement_12m.md",
+      "docs/GoToMarket/07_ESG_Report_Template.md",
+      "docs/GoToMarket/08_Case_Studies_Index.md"
+    ],
+    "research": [
+      "research/FINDINGS_AND_SUGGESTIONS.md",
+      "research/PENDING_RESEARCH.md",
+      "research/evidence/**/*"
+    ]
+  },
+  "artifactCoverage": {
+    "strategy_doc": {"covered": true, "evidence": ["docs/BusinessPlan/00_Business_Plan.md"]},
+    "financial_model": {"covered": true, "evidence": ["finance/financial_model.csv"]},
+    "pricing_catalog": {"covered": true, "evidence": ["finance/pricing_catalog.csv"]},
+    "go_to_market_plan": {"covered": true, "evidence": ["docs/GoToMarket/01_Validation_Sprint.md"]},
+    "operations_manual": {"covered": true, "evidence": ["ops/SOPs/01_Collection_SOP.md"]},
+    "contracts": {"covered": true, "evidence": ["docs/GoToMarket/06_Service_Agreement_12m.md","preservation/necessary_documentation/11_Condo_Service_Agreement.md"]},
+    "research_bibliography": {"covered": true, "evidence": ["research/evidence/**/*"]},
+    "audit_log": {"covered": true, "evidence": [".cursor/qa/INTEGRITY_CHECK_LOG.md"]}
+  }
 }

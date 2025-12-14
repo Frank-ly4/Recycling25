@@ -82,3 +82,5 @@
    - Include audit metadata with each change
    - Wait for owner approval before committing
    - Document rationale for all significant decisions
+   
+Related documents: see `CONSTITUTION.md` (project constitution) and `CONSTITUTION_INTEGRITY.md` (integrity & QA gates).

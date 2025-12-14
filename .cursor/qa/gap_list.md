@@ -41,3 +41,19 @@
 
 Total remaining effort: 32 hours
 Recommended timeline: 1 week (with parallel execution where possible)
+
+# Gap List — Prioritized Remediation
+
+Generated: 2025-11-01
+
+Priority legend: H = High, M = Medium, L = Low. Effort: S = Small (≤0.5d), M = Medium (1–3d), L = Large (≥4d).
+
+1. ROI calculator integrated in proposals (H/M) — COMPLETE — docs/GoToMarket/ROI_Calculator.md
+2. Processor MOUs with contamination specs and price floors (H/M) — COMPLETE — ops/processor_mou_template.md
+3. Developer/FM pilot framework and micro-cluster exclusivity language (H/M) — COMPLETE — docs/GoToMarket/Developer_FM_Pilot_Framework.md
+4. Placeholder cleanup in `preservation/necessary_documentation/36_Crisis_Communication_Plan.md` (M/S) — COMPLETE — placeholders removed in contact tables
+5. Informal collector integration playbook (H/M) — COMPLETE — ops/informal_collector_integration.md
+6. Weekly diesel price log procedure (M/S) — COMPLETE — ops/Fuel_Price_Logging_SOP.md; research/evidence/fuel/diesel_price_log.csv
+7. Add performance credits + onboarding kit list to contract/SLA (M/S) — COMPLETE — docs/GoToMarket/05_Pilot_SLA.md; 06_Service_Agreement_12m.md
+8. Cross-link constitutions (`CONSTITUTION.md`, `CONSTITUTION_INTEGRITY.md`, `memory/constitution.md`) (L/S) — COMPLETE — cross-links added
+9. Automated QA probe run and integrity log append (H/S) — COMPLETE — .cursor/qa/INTEGRITY_CHECK_LOG.md (2025-11-01T00:20:00Z)

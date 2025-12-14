@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "title": "Financial Model Inputs (Single Source of Truth)",
+    "currency": "THB",
+    "period": "monthly",
+    "horizon_months": 60,
+    "created_at": "2025-12-13T22:50:00Z",
+    "owner": "Finance Lead",
+    "notes": [
+      "All revenue figures are modeled EXCLUSIVE of VAT (VAT treated as pass-through).",
+      "Cash collection assumes client pays Net-30 with 3% WHT withheld (cash received = 97% of invoice).",
+      "Where a value is not backed by a stored source yet, it is marked ASSUMPTIONâ€”VALIDATE with a range and validation method in evidence_register.json."
+    ]
+  },
+  "drivers": {
+    "starting_cash": {
+      "value": 1500000,
+      "unit": "THB",
+      "claim_id": "CLAIM-INVEST-TERMS-001",
+      "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+      "range": {
+        "low": 1200000,
+        "high": 2000000
+      }
+    },
+    "volume": {
+      "units_per_building": {
+        "value": 400,
+        "unit": "units/building",
+        "claim_id": "CLAIM-SCALE-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 300,
+          "high": 600
+        }
+      },
+      "buildings_by_month": [
+        1,
+        2,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        7,
+        8,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    "pricing": {
+      "service_fee_per_unit": {
+        "value": 90,
+        "unit": "THB/unit/month",
+        "claim_id": "CLAIM-FEE-UNIT-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 80,
+          "high": 100
+        }
+      },
+      "material_revenue_per_month": {
+        "value": 0,
+        "unit": "THB/month",
+        "claim_id": "CLAIM-REIC-SIZE-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 0,
+          "high": 80000
+        }
+      }
+    },
+    "variable_costs": {
+      "variable_cost_per_unit": {
+        "value": 30,
+        "unit": "THB/unit/month",
+        "claim_id": "CLAIM-VAR-COST-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 20,
+          "high": 45
+        }
+      },
+      "fuel": {
+        "base": {
+          "value": 6000,
+          "unit": "THB/month",
+          "claim_id": "CLAIM-TRUCK-BAN-001",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 4000,
+            "high": 12000
+          }
+        },
+        "step_per_n_buildings": {
+          "value": 3000,
+          "unit": "THB/month",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 1500,
+            "high": 6000
+          }
+        },
+        "step_buildings": {
+          "value": 3,
+          "unit": "buildings",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 2,
+            "high": 4
+          }
+        }
+      }
+    },
+    "fixed_costs": {
+      "facility_rent": {
+        "value": 35000,
+        "unit": "THB/month",
+        "claim_id": "CLAIM-RENT-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 25000,
+          "high": 50000
+        }
+      },
+      "vehicle_lease_primary": {
+        "value": 28000,
+        "unit": "THB/month",
+        "claim_id": "CLAIM-LEASE-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 20000,
+          "high": 45000
+        }
+      },
+      "vehicle_rescue_budget": {
+        "value": 10000,
+        "unit": "THB/month",
+        "claim_id": "CLAIM-FLEET-MIX-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 0,
+          "high": 25000
+        }
+      },
+      "salaries": {
+        "ops_manager": {
+          "value": 40000,
+          "unit": "THB/month",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 30000,
+            "high": 70000
+          }
+        },
+        "driver": {
+          "value": 25000,
+          "unit": "THB/month",
+          "claim_id": "CLAIM-WAGES-001",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 18000,
+            "high": 32000
+          }
+        },
+        "loader": {
+          "value": 15000,
+          "unit": "THB/month",
+          "claim_id": "CLAIM-WAGES-001",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 12000,
+            "high": 22000
+          }
+        },
+        "sorter": {
+          "value": 15000,
+          "unit": "THB/month",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 12000,
+            "high": 22000
+          }
+        },
+        "sorter_start_month": {
+          "value": 9,
+          "unit": "month_index_1_based",
+          "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+          "range": {
+            "low": 6,
+            "high": 12
+          }
+        }
+      },
+      "misc_contingency": {
+        "value": 10000,
+        "unit": "THB/month",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE",
+        "range": {
+          "low": 5000,
+          "high": 20000
+        }
+      }
+    },
+    "one_time_cash_costs": [
+      {
+        "name": "warehouse_deposit_3_months",
+        "month": 1,
+        "value": 105000,
+        "unit": "THB",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      {
+        "name": "initial_bins_signage",
+        "month": 1,
+        "value": 50000,
+        "unit": "THB",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      {
+        "name": "permits_legal_setup",
+        "month": 1,
+        "value": 25000,
+        "unit": "THB",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      }
+    ],
+    "tax_and_cash_policy": {
+      "corporate_tax_rate": {
+        "value": 0.2,
+        "unit": "ratio",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "withholding_tax_rate": {
+        "value": 0.03,
+        "unit": "ratio",
+        "claim_id": "CLAIM-WHT-SVC-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "cash_collection_delay_months": {
+        "value": 1,
+        "unit": "months",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      }
+    },
+    "investor_waterfall": {
+      "principal": {
+        "value": 1500000,
+        "unit": "THB",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "revenue_share_pct": {
+        "value": 0.1,
+        "unit": "ratio",
+        "claim_id": "CLAIM-INVEST-TERMS-001",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "cap_multiple": {
+        "value": 1.5,
+        "unit": "x",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "payment_frequency_months": {
+        "value": 3,
+        "unit": "months",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      },
+      "first_payment_month": {
+        "value": 6,
+        "unit": "month_index_1_based",
+        "source_or_assumption": "ASSUMPTIONâ€”VALIDATE"
+      }
+    }
+  }
+}
