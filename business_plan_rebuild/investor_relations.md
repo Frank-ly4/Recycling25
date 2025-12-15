@@ -29,7 +29,11 @@ The figures below are **directly derived from the generated model outputs** (`fi
 
 ## 3. Risk Buffers
 1.  **Fees-First Model:** We do not rely on plastic trading margins to pay back investors. 100% of repayment comes from contracted service fees.
-2.  **Cash Reserve:** The generated base case is **tight in Year 1** and reaches a low point of **Month 15 cash_end = -23,040 THB** (timing driven by quarterly revenue-share payments). This is mitigated by strict advance billing / Net-15 collections and maintaining a small working-capital buffer. See `financials/cashflow.json`.
+2.  **Cash Reserve (Execution Reality — Bangkok):** The generated base case is **tight in Year 1** and reaches a low point of **Month 15 cash_end = -23,040 THB** (timing driven by quarterly revenue-share payments). See `financials/cashflow.json`.
+    *   **Mitigation A (contract terms, standard for B2B services):** **Advance billing + Net-15** + service suspension for arrears (see `outreach_kit/service_agreement_12m.md`). This improves cash timing versus the model’s conservative Net-30 assumption.
+    *   **Mitigation B (common control):** **Security deposit / equipment deposit** (Schedule A) to reduce payment-delay risk and cover bins/signage exposure.
+    *   **Mitigation C (investor-friendly but operations-safe):** Add a **minimum cash buffer covenant** to the waterfall so quarterly payments are the *lesser of* the revenue-share amount and available cash above a defined buffer (e.g., 100,000 THB). This avoids operational stoppage while preserving the agreed cap.
+    *   **Mitigation D (structure option):** If an investor requires strict quarterly sweeps, shift the **first payment month** later (e.g., month 9) or use a lower % in Year 1, then step up after ≥9 buildings.
 3.  **Asset Backing:** Bins and equipment retain liquidation value (~300k).
 
 ## 4. Reporting Cadence

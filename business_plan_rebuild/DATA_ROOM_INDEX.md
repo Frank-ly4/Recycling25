@@ -16,8 +16,19 @@
   - _(compatibility)_ `financials/assumptions.json` (deprecated pointer to `model_inputs.json`)
 - **Regulatory + contractual**:
   - `legal_compliance.md`
-  - `outreach_kit/contract_template.md` (Updated with Thailand VAT/Liability)
+  - `outreach_kit/service_agreement_12m.md` (Canonical 12-month service agreement template)
+  - `outreach_kit/pilot_SLA.md` (Pilot SLA; includes onboarding kit + performance credits)
   - `outreach_kit/SLA_checklist.md`
+- **Appendices (Execution Pack)**:
+  - `appendices/ops_sops/` (SOPs: collection, sorting, H&S, SLA measurement)
+  - `appendices/ops_playbooks/` (facility plan, hiring plan, processor MOU template, fuel SOP)
+  - `appendices/finance/pricing_catalog.csv` (pricing tiers + portfolio packages)
+  - `appendices/go_to_market/ROI_Calculator.md` (board-ready ROI framing)
+  - `appendices/research_briefs/` (evidence briefs supporting assumptions)
+- **Privacy**:
+  - `pdpa/PDPA_Compliance_Policy.md`
+  - `pdpa/Privacy_Notice_EN_TH.md`
+  - `pdpa/Data_Processing_Agreement_Template.md`
 - **Risk & controls**:
   - `risk_register.md`
   - `governance.md`

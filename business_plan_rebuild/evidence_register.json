@@ -54,7 +54,7 @@
       "excerpt": "DLT announcement (Royal Gazette, 22 Mar 2565) defines plate characteristics for non-scheduled transport as yellow reflective background, and assigns registration number ranges for truck classes incl. “รถบรรทุกไม่ประจำทาง ใช้หมายเลขตั้งแต่ 60 ถึง 69 และ 70 ถึง 79 …”. We also archived DLT’s e-transport license portal user manual showing the online operator-license workflow for truck categories (see evidence/dlt/20251214_dlt_etl_user_manual_public.pdf). Remaining open item: obtain explicit DLT guidance/confirmation that our service model is treated as non-scheduled transport-for-hire and therefore requires the relevant registration/plate/operator licensing.",
       "confidence": "high",
       "status": "ASSUMPTION—VALIDATE",
-      "validation_method": "Locate explicit DLT guidance defining (a) plate class/registration requirements for goods transport-for-hire and (b) operator licensing for fee-based hauling; store in evidence/; add excerpt."
+      "validation_method": "Submit a written classification query to the relevant DLT office describing our exact model (condo recyclables pickup + service fee + chain-of-custody reporting) and request written confirmation of (a) plate class/registration requirements and (b) operator licensing requirements; store the response (letter/email + officer details) in evidence/ and add excerpt."
     },
     {
       "claim_id": "CLAIM-BMA-LICENSE-001",
@@ -74,8 +74,8 @@
       "claim_id": "CLAIM-VAT-THRESH-001",
       "claim_text": "VAT registration threshold is 1.8M THB annual turnover; once exceeded, invoices should add 7% VAT (unless exempt).",
       "files": [
-        { "path": "business_plan_rebuild/outreach_kit/contract_template.md", "section": "Fees and Payment (to be updated)" },
-        { "path": "business_plan_rebuild/financials/assumptions.json", "section": "Revenue assumptions (impacts invoicing)" }
+        { "path": "business_plan_rebuild/outreach_kit/service_agreement_12m.md", "section": "Fees & payment / Schedule A" },
+        { "path": "business_plan_rebuild/financials/model_inputs.json", "section": "tax_and_cash_policy / notes" }
       ],
       "source_url": "https://www.rd.go.th/english/6043.html",
       "source_type": "tax_authority",

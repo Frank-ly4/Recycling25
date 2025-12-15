@@ -20,6 +20,14 @@
 *   **Constraint:** Yellow plate registration requires the company to have a transport permit license number (significant paperwork hurdle).
 *   **Mitigation:** **Lease via Licensed Partner** (License Bridge). The lessor (e.g., Siam Rajathanee) holds the operator license and plates; we operate as the client.
 
+#### 1.2.1 License Bridge — execution checklist (Bangkok-feasible)
+During Months 1–6 (or until our own operator licensing is confirmed), run transport under the licensed lessor/operator and keep the following available for inspections/site checks:
+* **On-truck packet:** lease agreement excerpt showing operator/vehicle details, commercial insurance certificate, vehicle registration/plate, driver license class (commercial), and a copy of the service agreement scope.
+* **Operational logs:** pickup schedule, time-in/time-out logs, and a basic manifest/route sheet consistent with our chain-of-custody approach.
+
+#### 1.2.2 Close the remaining classification risk (CLAIM-DLT-YELLOW-001)
+We will obtain **explicit written guidance/confirmation** from the relevant DLT office for our exact service model (“recyclables pickup + service fee + chain-of-custody reporting”), and store the response in `evidence/` to close this claim.
+
 ### 1.3. Factory Act (Department of Industrial Works)
 *   **Threshold:** Machinery < 50 HP and < 50 workers.
 *   **Plan:** Keep sorting facility below these thresholds to avoid full Factory License (Ror.Ngor.4) requirements.
@@ -50,8 +58,14 @@
     *   **Payment:** Net 15 or Net 30 days.
 
 ## 5. Data Privacy (PDPA)
-*   **Scope:** Juristic contact details (B2B data) are generally exempt, but any **Resident Data** (if app/QR used) falls under PDPA.
-*   **Policy:** "Data Minimization" — collect only what is needed for service verification (timestamp, weight, location). Avoid collecting resident names/room numbers unless necessary for specific incentive programs.
+*   **Scope:** Juristic contact details are B2B, but any identifiable **Resident Data** (names/room numbers, face images) or **employee GPS/location data** falls under PDPA.
+*   **Approach (Bangkok-feasible):** **Data minimization by default.** Operate building-level reporting without resident identities unless explicitly required by a client program.
+    *   **Do collect:** timestamp, building/site ID, weights by material, contamination flags, pickup photos (avoid faces), invoice/admin contact details.
+    *   **Avoid collecting:** resident names/room numbers and any unnecessary identifiers.
+*   **Data room artifacts (standalone):**
+    *   `pdpa/PDPA_Compliance_Policy.md` (internal policy framework)
+    *   `pdpa/Privacy_Notice_EN_TH.md` (bilingual notice for distribution before any resident-level data collection)
+    *   `pdpa/Data_Processing_Agreement_Template.md` (for cloud/accounting/CRM vendors)
 
 ## 6. Risk of Non-Compliance
 *   **BMA Fine:** Up to 50,000 THB and/or imprisonment for operating without a license.

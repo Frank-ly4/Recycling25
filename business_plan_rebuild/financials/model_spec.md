@@ -9,9 +9,9 @@ This document defines the accounting and modeling logic used to generate:
 All outputs are generated from a single source of truth: `model_inputs.json`.
 
 ## 2. Definitions
-- **Revenue (service)**: Units Ã— Fee per unit per month (exclusive of VAT).
-- **Units**: Buildings Ã— Units per building.
-- **Variable costs**: Units Ã— Variable cost per unit.
+- **Revenue (service)**: Units × Fee per unit per month (exclusive of VAT).
+- **Units**: Buildings × Units per building.
+- **Variable costs**: Units × Variable cost per unit.
 - **Fuel**: Base fuel + step increments based on building count.
 - **Direct labor**: Driver + Loader + Sorter (Sorter begins at `sorter_start_month`).
 - **Admin**: Ops manager salary.
@@ -20,12 +20,16 @@ All outputs are generated from a single source of truth: `model_inputs.json`.
 ## 3. Taxes & Cash Policy
 - **VAT**: Outputs are exclusive of VAT (modeled as pass-through).
 - **Withholding tax (WHT)**: Cash receipts reduced by WHT (default 3%); treated as receivable/credit (not an expense).
-- **Corporate income tax**: Simplified monthly tax = max(0, pre-tax profit) Ã— tax rate (real-world is annual).
-- **Collections**: Net-30 assumed (cash collected 1 month after invoice).
+- **Corporate income tax**: Simplified monthly tax = max(0, pre-tax profit) × tax rate (real-world is annual).
+- **Collections (Model)**: Net-30 assumed (cash collected 1 month after invoice).
+- **Collections (Execution / Bangkok-feasible)**: The commercial template is designed for **advance billing + Net-15** to reduce cash timing risk (see `outreach_kit/service_agreement_12m.md`). The model remains conservative.
+
+### 3.1 Cash-timing protection (recommended term)
+If using a quarterly revenue-share waterfall, add a minimum cash buffer covenant (e.g., 100,000 THB) so quarterly payments do not force operations negative-cash. This is documented in `investor_relations.md` as an execution mitigation; the current generated `waterfall.json` reflects the base terms without this covenant.
 
 ## 4. Investor Waterfall
 - **Type**: Revenue share with cap.
-- **Mechanism**: At each quarter-end month (3,6,9,12,...), pay `revenue_share_pct` Ã— (sum of service revenue for that quarter), until cumulative payments reach cap = principal Ã— cap_multiple.
+- **Mechanism**: At each quarter-end month (3,6,9,12,...), pay `revenue_share_pct` × (sum of service revenue for that quarter), until cumulative payments reach cap = principal × cap_multiple.
 
 ## 5. One-Time Cash Costs
 One-time cash costs (deposits, bins/signage, permits setup) are cash outflows in their specified month and do not appear as recurring P&L expenses.

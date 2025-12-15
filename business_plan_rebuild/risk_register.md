@@ -21,5 +21,6 @@
 | Risk | Probability | Impact | Mitigation Strategy | Owner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Slow Payment:** Condos pay Net-60 instead of Net-30. | Med | Med | Cash buffer (30% of raise). Late fees in contract (1.5%/mo). | Finance |
+| **Cash Timing Trough (Quarterly Waterfall):** Revenue-share payments + conservative Net-30 timing can create a short-term cash dip (base case hits Month 15 cash_end = -23,040 THB). | Med | High | Contract for advance billing + Net-15; require deposit; add minimum cash buffer covenant to waterfall (pay lesser of rev-share and cash above buffer); optionally delay first payment month or step-up % after ≥9 buildings. | Finance |
 | **Yellow Plate Delay:** License takes >90 days. <!-- claim:CLAIM-DLT-YELLOW-001 --> | High | High | **Lease/Rent** trucks from existing licensed operator for first 6 months (Budgeted). | Legal |
 | **Fuel Spike:** Diesel >40 THB/L. | Med | Low | Fuel Surcharge clause in contract (kick-in at >40 THB). | Finance |

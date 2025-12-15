@@ -34,5 +34,5 @@
 *   [ ] **"Can the founders walk away?"**
     *   *Answer:* Vesting schedule applies (Standard 4-year).
 *   [ ] **"Is the contract enforceable?"**
-    *   *Answer:* Yes, based on Thai Civil Code. Includes specific clauses for contamination penalties and access guarantees. See [Contract Template](../outreach_kit/contract_template.md).
+    *   *Answer:* Yes, based on Thai Civil Code. Includes specific clauses for contamination penalties and access guarantees. See [Service Agreement (12 months)](../outreach_kit/service_agreement_12m.md).
 

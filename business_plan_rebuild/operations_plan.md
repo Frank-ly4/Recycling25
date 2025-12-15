@@ -49,6 +49,17 @@ To handle variable dock heights and licensing lags, we employ a mixed fleet. <!-
     *   *Cost:* Premium over owning, but mitigates "No License" regulatory risk.
 *   **Months 7+:** Evaluate purchasing own fleet once DLT Operator License is secured.
 
+#### 3.2.1 License Bridge — field compliance packet (Bangkok)
+For every route during the lease/rental bridge period, carry a simple “inspection packet” to reduce stoppage risk:
+* Lease agreement excerpt showing the licensed operator/owner and vehicle details
+* Commercial insurance certificate for the vehicle
+* Vehicle registration + plate details
+* Driver license class documentation (commercial)
+* A copy of the client service agreement scope (recyclables pickup + reporting) and today’s route sheet/manifest
+
+#### 3.2.2 Closing the remaining DLT classification uncertainty
+We will obtain explicit written confirmation of how our model is classified by DLT and store it in `evidence/` (tracked as `CLAIM-DLT-YELLOW-001` in `evidence_register.json`). Until closed, we operate using the licensed partner bridge.
+
 ## 4. Facility & Processing
 *   **Location:** **Phra Khanong Area (Pridi Soi 14 or similar)**.
 *   **Function:** Consolidation, QC, Baling.
