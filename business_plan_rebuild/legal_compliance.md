@@ -67,6 +67,18 @@ We will obtain **explicit written guidance/confirmation** from the relevant DLT 
     *   `pdpa/Privacy_Notice_EN_TH.md` (bilingual notice for distribution before any resident-level data collection)
     *   `pdpa/Data_Processing_Agreement_Template.md` (for cloud/accounting/CRM vendors)
 
+### 5.1 PDPA operational checklist (pilot-ready)
+- **Before pilot start**:
+    - Confirm DPO contact details are filled in `pdpa/PDPA_Compliance_Policy.md`.
+    - Provide `pdpa/Privacy_Notice_EN_TH.md` to the juristic office for distribution/availability.
+    - Identify any vendors who will process personal data (cloud drive, CRM, accounting) and execute `pdpa/Data_Processing_Agreement_Template.md` (or vendor DPA equivalent).
+- **During operations**:
+    - Avoid collecting resident identifiers by default (names/room numbers).
+    - Avoid capturing faces in photos; if incidental capture occurs, restrict access and retain only as long as needed for proof/incident resolution.
+    - Restrict access to operational logs and photos (role-based).
+- **Retention**:
+    - Keep tax/accounting records per statutory requirements; purge operational photos/logs when no longer needed for SLA/audit/claims.
+
 ## 6. Risk of Non-Compliance
 *   **BMA Fine:** Up to 50,000 THB and/or imprisonment for operating without a license.
 *   **DLT Fine:** Impounding of vehicle if used commercially without proper registration.

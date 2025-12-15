@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2025-12-14T08:03:30+00:00",
+    "generated_at": "2025-12-15T05:07:29+00:00",
     "input_file": "model_inputs.json",
-    "input_sha256": "bdf4394218c6f7f7118f06283d5265f17e39cf533f29cebbb9ffc0d2c43cf838",
+    "input_sha256": "4694530c558d6c283a8b1640f8174f40d27e5d9520b551f09354f9379bcc4074",
     "starting_cash": 1500000.0
   },
   "rows": [

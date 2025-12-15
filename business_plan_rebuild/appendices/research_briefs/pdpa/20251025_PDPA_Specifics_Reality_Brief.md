@@ -27,7 +27,7 @@ To verify key requirements of Thailand's Personal Data Protection Act (PDPA) to 
 The research provides a clear, actionable checklist for achieving baseline PDPA compliance before launch.
 
 **Recommendations:**
-1.  **Appoint DPO:** Officially assign the DPO role to the Operations Manager in `appendices/ops_playbooks/hiring_plan.md` and in `pdpa/PDPA_Compliance_Policy.md`.
+1.  **Appoint DPO:** Officially assign the DPO role to the Operations Manager in `appendices/_archive_reference_only/ops_playbooks/hiring_plan.md` (reference copy) and in `pdpa/PDPA_Compliance_Policy.md`.
 2.  **Update PDPA Policy:** Replace the `[TO BE APPOINTED]` placeholders in the policy with the DPO's name, a business address, a dedicated phone line/extension, and a dedicated email address.
 3.  **Create New Artifacts:**
     *   Create `pdpa/Privacy_Notice_EN_TH.md`: A bilingual, customer-facing document explaining our data practices.

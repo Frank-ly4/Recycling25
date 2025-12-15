@@ -1,0 +1,47 @@
+﻿
+Name                                             Mode   Length
+----                                             ----   ------
+.cursor                                          dar--l       
+.git                                             darh-l       
+archive                                          dar--l       
+archived_repo_material                           d-----       
+audits                                           da---l       
+business_plan_rebuild                            da---l       
+config                                           dar--l       
+docs                                             dar--l       
+finance                                          dar--l       
+investors                                        dar--l       
+legal                                            dar--l       
+memory                                           dar--l       
+meta                                             dar--l       
+modules                                          dar--l       
+ops                                              dar--l       
+pilots                                           dar--l       
+preservation                                     dar--l       
+research                                         dar--l       
+scripts                                          dar--l       
+specs                                            dar--l       
+templates                                        dar--l       
+$null                                            -a---l 0     
+.gitignore                                       -a---l 22    
+070925assessment                                 -a---l 12573 
+070925_action_plan.md                            -a---l 6724  
+BP_CondoBuyer_20251101_v1.0.md                   -a---l 1984  
+BP_InvestorNarrative_20251101_v1.0.md            -a---l 3378  
+BP_SUMMARY_20251024_v1.0.md                      -a---l 3935  
+Changelog.md                                     -a---l 4422  
+Comprehensive Due Diligence Questions 151225.txt -a---- 41166 
+CONSTITUTION.md                                  -a---l 2558  
+CONSTITUTION_INTEGRITY.md                        -a---l 2926  
+discovery_responses.md                           -a---l 13471 
+discovery_responses2.md                          -a---l 13471 
+discovery_responses3.md                          -a---l 26526 
+discovery_responses4.md                          -a---l 5565  
+discovery_responses5.md                          -a---- 8869  
+README-speckit.md                                -a---l 3314  
+README.md                                        -a---l 1868  
+TODO.md                                          -a---l 3408  
+VERIFICATION_PLAN.md                             -a---l 3793  
+
+
+

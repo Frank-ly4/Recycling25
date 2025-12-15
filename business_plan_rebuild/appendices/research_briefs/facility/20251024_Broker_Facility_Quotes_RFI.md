@@ -11,4 +11,4 @@ Request
 
 Notes
 - Evidence to be saved alongside replies (PDF/email/screenshots)
-- Link back to `appendices/ops_playbooks/facility_plan.md` when quotes are received
+- Link back to `appendices/_archive_reference_only/ops_playbooks/facility_plan.md` when quotes are received (reference copy)

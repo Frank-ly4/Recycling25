@@ -26,7 +26,7 @@ The research indicates our facility rent assumption is too optimistic.
 
 **Recommendations:**
 1.  **Update canonical model inputs (if needed):** If the standalone model assumes facility rent below market, adjust `business_plan_rebuild/financials/model_inputs.json` `drivers.fixed_costs.facility_rent` toward **25,000–30,000 THB/month** for a 150m² facility at 150–200 THB/sqm.
-2.  **Update facility plan references:** Ensure `appendices/ops_playbooks/facility_plan.md` rent ranges and citations reflect the 150–200 THB/sqm finding.
+2.  **Update facility plan references:** Ensure `appendices/_archive_reference_only/ops_playbooks/facility_plan.md` rent ranges and citations reflect the 150–200 THB/sqm finding (reference copy).
 3.  **Add citation:** Cite this brief wherever facility rent is discussed.
 
 This adjustment reduces risk in our financial projections and aligns them with current market reality.

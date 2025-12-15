@@ -36,6 +36,23 @@ The figures below are **directly derived from the generated model outputs** (`fi
     *   **Mitigation D (structure option):** If an investor requires strict quarterly sweeps, shift the **first payment month** later (e.g., month 9) or use a lower % in Year 1, then step up after ≥9 buildings.
 3.  **Asset Backing:** Bins and equipment retain liquidation value (~300k).
 
+## 3A. Pricing Ladder (Bangkok) — inlined summary
+We use tiered pricing to match buyer budgets while maintaining a sustainable floor price.
+
+| Package | THB/unit/mo | Target Segment | Notes |
+|---|---:|---|---|
+| Basic (25) | 75 | Mid-market condos | Entry tier / light service |
+| Standard (50) | 90 | Mid-market condos | Base case used in model |
+| Enhanced (75) | 100 | Premium high-rise | Higher expectations / service |
+| Premium (100) | 110 | Premium high-rise | Full engagement |
+| Portfolio Basic | 70 | Developer portfolios | Faster ramp / better payment behavior |
+| Portfolio Standard | 85 | Developer portfolios | Default portfolio tier |
+| Portfolio Premium | 95 | Developer portfolios | Highest reporting/SLA expectations |
+
+Policy
+1. Prefer adjusting **frequency / SLA / reporting depth** over dropping below a sustainable floor.
+2. Use portfolio pricing to accelerate ramp and reduce payment-delay risk.
+
 ## 4. Reporting Cadence
 *   **Monthly:** "Flash Report" (Revenue, Units, Cash Balance).
 *   **Quarterly:** Full P&L + Repayment Transfer.

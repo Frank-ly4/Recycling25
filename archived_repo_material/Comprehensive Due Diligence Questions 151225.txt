@@ -1,0 +1,690 @@
+Comprehensive Due Diligence Questions for Angel Investment in a Bangkok-Based Condominium Plastic Bottle Recycling Startup
+
+Introduction
+
+I'm considering investing $1–2 million in a Bangkok-based recycling startup focused on collecting plastic water bottles from condominium buildings presents both significant opportunities and complex risks. Thailand’s plastic waste crisis is acute, with the country ranking among the world’s top contributors to ocean plastic pollution. The government, private sector, and civil society are mobilizing to address this challenge, and the recycling sector is evolving rapidly in response to regulatory, technological, and market shifts. However, the sector’s complexity—spanning informal labor, regulatory hurdles, fluctuating commodity prices, and evolving consumer behavior—demands rigorous due diligence.
+
+This here provides a robust, categorized list of due diligence questions that I would like answered before committing capital. Please answer only using information from your documents/plan so far.  If there's anything outstanding, please update the document to reflect further research/clarification/math/etc. is needed. The questions are organized under clear headings, each reflecting a critical area of business viability and investment risk. Each section is informed by current market data, regulatory frameworks, operational realities, and best practices in both Thai and international recycling sectors.
+
+Market Opportunity
+What is the total addressable market (TAM) for plastic bottle collection from condominiums in Bangkok, and how is it segmented by building type, size, and location?
+
+What is the estimated volume of PET bottles generated per condominium per month, and how does this vary across different districts or building demographics?
+
+How many condominiums are there in Bangkok, and what percentage have existing recycling programs or contracts with competitors?
+
+What are the current collection and recycling rates for plastic bottles in Bangkok’s residential sector, and how do these compare to national averages?
+
+What are the key drivers of growth in the Bangkok plastic bottle recycling market (e.g., regulatory changes, consumer awareness, government incentives)?
+
+How does the business plan to expand beyond condominiums (e.g., to office buildings, hotels, schools), and what is the potential market size for these segments?
+
+What are the main barriers to entry for new players in the Bangkok plastic bottle collection market?
+
+How is the market expected to evolve over the next 5–10 years in terms of volume, pricing, and regulatory requirements?
+
+What is the impact of recent government initiatives (e.g., BMA’s “No Mixed Waste” program, waste separation fee incentives) on the market opportunity?
+
+How does the business plan to capture market share from informal collectors and established waste management companies?
+
+Analysis: Bangkok’s condominium sector is a major generator of plastic waste, with over 600,000 units and a growing urban population. The city’s new waste separation regulations and financial incentives for source separation are creating a more favorable environment for organized recycling businesses. However, the market remains fragmented, with significant competition from informal collectors (“saleng”) and established recycling firms. Understanding the precise size and accessibility of the target market is essential for assessing scalability and revenue potential.
+
+Business Model and Revenue Streams
+What is the core business model: direct collection and resale of bottles, provision of collection services to condominiums, or integrated recycling (collection plus processing)?
+
+What are the primary revenue streams (e.g., sale of PET bottles to recyclers, service fees from condominiums, carbon credits, data services)?
+
+How are prices for collected PET bottles determined, and how volatile are these prices?
+
+What is the typical contract structure with condominiums (e.g., exclusive agreements, revenue sharing, fixed service fees)?
+
+Are there opportunities for value-added services (e.g., data analytics for ESG reporting, educational programs, branded recycling campaigns)?
+
+How does the business plan to monetize environmental impact (e.g., carbon credits, plastic credits, partnerships with brands seeking recycled content)?
+
+What is the expected customer acquisition cost (CAC) for new condominium contracts, and what is the average contract duration?
+
+How does the business plan to retain customers and prevent churn, especially as competitors enter the market?
+
+What is the projected revenue mix over the next five years, and how does this align with market trends?
+
+Analysis: Successful recycling startups in Thailand often blend multiple revenue streams, including material sales, service contracts, and impact monetization (e.g., through plastic credits or ESG partnerships). The volatility of PET prices and the need for long-term, stable contracts with condominiums are critical considerations. Innovative models—such as gamified recycling, smart bins, and data-driven ESG reporting—are emerging and can differentiate the business.
+
+Unit Economics and Financial Metrics
+What are the key unit economics for the business (e.g., cost per kilogram collected, revenue per kilogram, gross margin per collection route)?
+
+What are the main cost drivers (labor, transport, sorting, contamination management, storage, equipment depreciation)?
+
+What is the break-even volume per condominium or collection route?
+
+How does contamination (e.g., food waste in bottles) affect processing costs and material value?
+
+What is the projected payback period for capital expenditures (e.g., vehicles, bins, sorting equipment)?
+
+How are fluctuations in PET prices and fuel costs modeled in financial projections?
+
+What are the expected gross and net margins at scale, and how do these compare to industry benchmarks?
+
+What is the cash conversion cycle (from collection to sale and payment)?
+
+How are bad debts, payment delays, or contract disputes accounted for in financial planning?
+
+What are the key financial KPIs tracked by management (e.g., EBITDA, ROIC, customer lifetime value)?
+
+Analysis: Unit economics in recycling are highly sensitive to collection efficiency, contamination rates, and commodity price volatility. Detailed modeling of costs and margins is essential, especially given the thin margins typical in the sector. Investors should scrutinize assumptions about collection volumes, contamination, and price stability.
+
+Competitive Landscape
+Who are the main competitors in the Bangkok plastic bottle collection and recycling market (e.g., informal collectors, established recycling firms, tech-enabled startups)?
+
+What are the market shares of key players, and how are they differentiated (e.g., technology, scale, customer relationships)?
+
+How does the business plan to compete with the informal sector, which often operates at lower cost and with deep community ties?
+
+What are the strengths and weaknesses of major competitors (e.g., Indorama Ventures, Wongpanit, EcoBlue, Wastebuy Delivery, Glean, Trash Lucky)?
+
+Are there any recent market entrants with disruptive technologies or business models (e.g., smart bins, blockchain tracking, gamified recycling)?
+
+What are the barriers to entry for new competitors, and how defensible is the business’s position?
+
+How does the business plan to build and sustain competitive advantages (e.g., proprietary technology, exclusive contracts, brand partnerships)?
+
+What lessons can be learned from failed or struggling recycling startups in Thailand or similar markets?
+
+How does the business monitor competitor activity and adapt its strategy accordingly?
+
+Analysis: The competitive landscape is dynamic, with both traditional players and innovative startups vying for market share. Informal collectors remain dominant in many neighborhoods, but tech-enabled solutions and partnerships with brands and municipalities are gaining traction. Understanding the strengths and weaknesses of each competitor—and the business’s unique value proposition—is critical for long-term success.
+
+Regulatory Environment and Permits
+What licenses and permits are required to operate a recycling business in Bangkok, and what is the status of each application (e.g., operating license, environmental permits, labor permits)?
+
+What are the requirements for machine power and employee numbers that trigger additional licensing (e.g., >50 HP, >50 employees)?
+
+How does the business ensure compliance with the National Environmental Quality Act, Public Health Act, and local BMA waste management regulations?
+
+What are the implications of the Foreign Business Act for ownership and control, and what structures (e.g., BOI promotion, preferential shares, FBL) are in place to ensure compliance?
+
+What is the process and timeline for obtaining and renewing key permits, and what are the associated costs?
+
+Are there any zoning or land use restrictions affecting the location of sorting or processing facilities?
+
+How does the business ensure compliance with waste transport and storage regulations?
+
+What are the penalties for non-compliance, and how are regulatory risks monitored and managed?
+
+How does the business stay abreast of evolving regulations, such as the upcoming Extended Producer Responsibility (EPR) laws and the BMA’s new waste separation fee structure?
+
+Are there any pending legal or regulatory actions against the company or its founders?
+
+Analysis: Thailand’s regulatory environment for recycling is complex and evolving. The Foreign Business Act, environmental regulations, and local BMA ordinances all impose significant compliance requirements. BOI promotion can offer substantial incentives but requires strict adherence to eligibility criteria. Regulatory risk is a major factor for foreign investors and must be carefully managed.
+
+Board of Investment (BOI) Incentives and Foreign Ownership
+Has the business applied for or received BOI promotion, and what incentives have been granted (e.g., tax holidays, 100% foreign ownership, land ownership rights)?
+
+What is the minimum capital investment required for BOI eligibility, and how does the business meet this threshold?
+
+What are the reporting and compliance obligations under BOI promotion, and how are these managed?
+
+How does BOI status affect the company’s ability to hire foreign staff and obtain work permits?
+
+Are there any risks of BOI status being revoked or challenged, and what contingencies are in place?
+
+How does BOI promotion affect the business’s competitive position relative to non-BOI competitors?
+
+What is the process for renewing or expanding BOI incentives as the business grows?
+
+Analysis: BOI promotion is a powerful tool for foreign investors, offering tax breaks, ownership rights, and operational flexibility. However, compliance is rigorous, and failure to meet BOI requirements can result in loss of privileges. Investors should verify the status and sustainability of BOI incentives.
+
+Operational Logistics and Collection Process
+What is the end-to-end process for collecting, sorting, and transporting plastic bottles from condominiums to recycling facilities?
+
+How are collection routes optimized for efficiency and cost-effectiveness?
+
+What equipment and vehicles are used, and what is the maintenance and replacement schedule?
+
+How is contamination managed at the point of collection, and what training is provided to residents and staff?
+
+What is the process for weighing, recording, and tracking collected materials?
+
+How are storage and transfer stations managed to prevent theft, contamination, or regulatory violations?
+
+What are the key operational bottlenecks, and how are they addressed?
+
+How does the business ensure health and safety for workers, especially in high-density urban environments?
+
+What contingency plans are in place for equipment failure, labor shortages, or supply chain disruptions?
+
+How is technology (e.g., smart bins, mobile apps, data analytics) integrated into operational workflows?
+
+Analysis: Operational excellence is critical in recycling, where margins are thin and logistics are complex. Efficient route planning, contamination control, and technology integration can significantly improve profitability and scalability.
+
+Supply Chain and Offtake Agreements
+Who are the primary buyers of collected PET bottles (e.g., local recyclers, export markets, brand partners), and what are the terms of offtake agreements?
+
+Are there long-term contracts in place with recyclers or processors, and what are the pricing mechanisms?
+
+How is quality (e.g., contamination, color sorting) ensured to meet buyer specifications?
+
+What is the process for negotiating and renewing offtake agreements?
+
+Are there risks of buyer concentration or dependency, and how are these mitigated?
+
+How does the business monitor market prices and adjust sales strategies accordingly?
+
+Are there opportunities for direct integration with processors or brand owners seeking recycled content?
+
+What is the process for handling rejected or downgraded materials?
+
+How does the business ensure traceability and transparency in the supply chain, especially for ESG reporting?
+
+Analysis: Stable offtake agreements are essential for predictable cash flow. Quality control and traceability are increasingly important as brands and regulators demand higher standards for recycled content.
+
+Technology and Processing Methods
+What technologies are used for sorting, cleaning, and processing collected bottles (e.g., manual sorting, mechanical separation, AI-powered smart bins)?
+
+Are there proprietary or patented technologies in use, and what are their advantages?
+
+How is contamination detected and managed at each stage of processing?
+
+What is the capacity and utilization rate of processing equipment, and how scalable is the system?
+
+How does the business monitor and optimize energy and water usage in processing?
+
+Are there plans to invest in advanced recycling technologies (e.g., chemical recycling, blockchain tracking)?
+
+How does the business stay abreast of technological innovations in the recycling sector?
+
+What are the maintenance and upgrade requirements for key equipment?
+
+How is technology used to track and report environmental impact (e.g., carbon footprint, plastic credits)?
+
+Are there partnerships with technology providers or research institutions?
+
+Analysis: Technology is a key differentiator in modern recycling, enabling higher recovery rates, better quality, and improved reporting. However, capital costs and maintenance requirements must be carefully managed.
+
+Team and Founders Background
+Who are the founders and key management team members, and what are their backgrounds in recycling, logistics, technology, or business development?
+
+What is the track record of the team in launching and scaling similar ventures?
+
+How is the team structured, and what are the roles and responsibilities of each member?
+
+What is the company’s approach to recruiting, training, and retaining talent at all levels?
+
+Are there any gaps in the team’s expertise, and how are these being addressed?
+
+What is the composition and experience of the board of directors and advisory board?
+
+Are there any conflicts of interest or related-party transactions involving the founders or key staff?
+
+What is the company culture, and how is it aligned with the mission and operational demands of the business?
+
+How does the team engage with stakeholders (e.g., residents, local authorities, partners)?
+
+What succession planning is in place for key roles?
+
+Analysis: A strong, experienced team is essential for navigating the complexities of the Thai recycling sector. Investors should look for demonstrated expertise, operational discipline, and a culture of transparency and accountability.
+
+Labor, Informal Sector, and Community Integration
+How does the business interact with the informal sector (e.g., saleng, waste pickers), and what is the impact on collection volumes and community relations?
+
+Are there partnerships or agreements with informal collectors, and how are these structured?
+
+What is the company’s policy on fair wages, working conditions, and social protection for workers?
+
+How does the business address potential conflicts or competition with informal collectors?
+
+Are there community engagement programs to build trust and encourage participation in recycling?
+
+How does the business measure and report on social impact (e.g., job creation, income improvement for informal workers)?
+
+What is the approach to integrating marginalized or vulnerable groups into the workforce?
+
+How does the business handle labor disputes, turnover, or shortages?
+
+Are there partnerships with NGOs, local associations, or government agencies to support labor integration?
+
+What is the company’s approach to health and safety, especially for workers handling potentially hazardous materials?
+
+Analysis: The informal sector is a cornerstone of Thailand’s recycling ecosystem, responsible for a significant share of collection and sorting. Successful startups often collaborate with, rather than compete against, informal workers, offering fair compensation and improved working conditions.
+
+Environmental Impact and Measurement
+What is the estimated environmental impact of the business (e.g., tons of plastic diverted from landfill, CO2 emissions avoided)?
+
+How is environmental performance measured, tracked, and reported (e.g., life cycle assessment, carbon footprint analysis)?
+
+What certifications or standards does the business adhere to (e.g., ISO 15270:2008, carbon credit schemes)?
+
+How does the business ensure proper handling and disposal of non-recyclable or contaminated materials?
+
+Are there initiatives to reduce the environmental footprint of operations (e.g., fuel-efficient vehicles, renewable energy, water recycling)?
+
+How does the business communicate environmental impact to customers, partners, and regulators?
+
+Are there partnerships with academic or research institutions to validate impact claims?
+
+How does the business plan to scale its environmental impact as it grows?
+
+What are the risks of greenwashing, and how are these mitigated?
+
+How does the business contribute to broader environmental goals (e.g., Thailand’s BCG strategy, zero plastic waste targets)?
+
+Analysis: Environmental impact is both a core mission and a key selling point for recycling startups. Rigorous measurement and transparent reporting are increasingly demanded by customers, regulators, and investors.
+
+Scalability and Expansion Plan
+What is the roadmap for scaling operations within Bangkok and to other cities or building types?
+
+What are the key operational, regulatory, and financial milestones for expansion?
+
+How does the business plan to replicate its model in new markets (e.g., standard operating procedures, technology transfer, local partnerships)?
+
+What are the main constraints to scaling (e.g., capital, labor, regulatory approvals, customer acquisition)?
+
+How does the business plan to manage quality and consistency as it grows?
+
+What is the projected timeline for reaching key scale targets (e.g., number of buildings, tons collected, revenue milestones)?
+
+Are there plans for vertical integration (e.g., owning processing facilities, developing branded recycled products)?
+
+How does the business plan to adapt to changing market conditions or regulatory environments in new locations?
+
+What is the approach to managing risk and uncertainty during rapid growth?
+
+How does the business benchmark its scalability against leading players in Thailand and the region?
+
+Analysis: Scalability is a major challenge in recycling, given the logistical, regulatory, and community-specific complexities of each new market. A clear, realistic expansion plan is essential for investor confidence.
+
+Operational Risks and Contingency Planning
+What are the main operational risks facing the business (e.g., equipment failure, labor shortages, supply chain disruptions, regulatory changes)?
+
+What contingency plans are in place for each major risk?
+
+How does the business monitor and respond to emerging risks (e.g., market downturns, commodity price shocks, pandemics)?
+
+What insurance coverage is in place for key assets, liabilities, and business interruptions?
+
+How does the business ensure business continuity in the event of natural disasters, political unrest, or other external shocks?
+
+What is the process for incident reporting, investigation, and corrective action?
+
+How are risks communicated to stakeholders, including investors, customers, and employees?
+
+What is the company’s track record in managing past crises or disruptions?
+
+Are there regular risk assessments and scenario planning exercises?
+
+How does the business balance risk mitigation with the need for innovation and growth?
+
+Analysis: Operational resilience is critical in a sector prone to shocks and disruptions. Investors should look for evidence of proactive risk management and contingency planning.
+
+Financials, Projections, and Use of Funds
+What are the detailed financial projections for the next 3–5 years, including revenue, costs, margins, and cash flow?
+
+What are the key assumptions underlying these projections, and how are they validated?
+
+How will the $1–2 million investment be allocated (e.g., equipment, working capital, marketing, technology, hiring)?
+
+What is the expected runway provided by the investment, and what are the milestones for subsequent funding rounds?
+
+How are capital expenditures prioritized and managed?
+
+What is the company’s approach to financial discipline and cost control?
+
+Are there audited financial statements or third-party reviews of financial data?
+
+What is the current burn rate, and how does this compare to industry benchmarks?
+
+What are the main financial risks, and how are they mitigated?
+
+How does the company plan to achieve profitability and positive cash flow, and on what timeline?
+
+Analysis: Transparent, realistic financial planning is essential for investor trust. Detailed use-of-funds plans and clear milestones for future funding are critical for managing dilution and ensuring capital efficiency.
+
+Capital Requirements and Cap Table
+What is the current capitalization table, including all shareholders, option pools, and convertible instruments?
+
+How will the new investment affect ownership structure and dilution for existing and new investors?
+
+What are the terms of the proposed investment (e.g., valuation, preferred shares, liquidation preferences, anti-dilution provisions)?
+
+Are there any outstanding convertible notes, SAFEs, or warrants that could affect future dilution?
+
+What is the company’s approach to managing dilution and aligning incentives for founders, employees, and investors?
+
+How is the option pool structured, and what is the plan for future employee equity grants?
+
+Are there any restrictions on foreign ownership or transfer of shares under Thai law or company bylaws?
+
+How is the cap table managed and updated, and who has access to this information?
+
+What are the exit rights and obligations for investors (e.g., drag-along, tag-along, ROFR)?
+
+How does the cap table compare to industry norms for similar-stage startups?
+
+Analysis: A clean, transparent cap table is essential for attracting and retaining investors, employees, and partners. Early-stage dilution, option pool sizing, and alignment of interests are key considerations.
+
+Exit Strategy and Liquidity Options
+What are the potential exit scenarios for investors (e.g., acquisition, IPO, secondary sale, founder buyback, liquidation)?
+
+What is the expected timeline for exit, and what milestones must be achieved to enable a successful exit?
+
+Who are the likely acquirers or strategic partners (e.g., large recycling firms, FMCG brands, infrastructure funds)?
+
+What is the company’s track record or relationships with potential acquirers?
+
+How does the business plan to maximize valuation at exit (e.g., scale, profitability, strategic partnerships)?
+
+What are the legal and tax implications of different exit scenarios for foreign investors?
+
+Are there any restrictions on share transfers or exit under Thai law or company bylaws?
+
+What is the process for preparing the company for exit (e.g., financial audits, legal due diligence, operational readiness)?
+
+How are exit rights structured in the investment agreement (e.g., drag-along, tag-along, put options)?
+
+What lessons can be learned from recent exits in the Thai recycling sector, and how does the company benchmark against these precedents?
+
+Analysis: Exit strategy is a critical consideration for angel investors. The Thai recycling sector has seen successful M&A activity, but liquidity can be limited. Clear planning and alignment of interests are essential for maximizing returns.
+
+Legal Structure, Contracts, and Intellectual Property
+What is the legal structure of the company (e.g., Thai limited company, BOI-promoted entity, joint venture), and how does this affect ownership, control, and liability?
+
+Are all key contracts (e.g., customer agreements, supplier contracts, employment agreements, leases) in place and legally enforceable?
+
+What is the status of intellectual property (e.g., patents, trademarks, proprietary technology), and how is it protected?
+
+Are there any pending or threatened legal disputes involving the company or its founders?
+
+How does the company ensure compliance with Thai contract law, labor law, and other relevant statutes?
+
+Are there standard templates for key contracts, and how are these reviewed and updated?
+
+How does the company manage confidentiality, data protection, and non-compete agreements?
+
+Are there any restrictions on foreign ownership or control under Thai law, and how are these addressed in the legal structure?
+
+What is the process for resolving disputes with customers, suppliers, or employees?
+
+How does the company ensure legal compliance as it expands into new markets or business lines?
+
+Analysis: Legal structure and contract management are foundational to risk mitigation and operational stability. Intellectual property can be a key differentiator, especially for tech-enabled recycling startups.
+
+Insurance, Liability, and Compliance
+What insurance coverage is in place for key risks (e.g., property, liability, business interruption, environmental liability)?
+
+How are insurance policies reviewed and updated as the business grows?
+
+What are the main liability risks (e.g., worker injury, environmental contamination, contract disputes), and how are these managed?
+
+How does the company ensure compliance with health and safety regulations for workers and customers?
+
+Are there regular audits or inspections to ensure compliance with insurance and regulatory requirements?
+
+What is the process for reporting and managing incidents or claims?
+
+How does the company manage compliance with data protection and privacy laws, especially for customer and employee data?
+
+Are there any recent or pending insurance claims or regulatory actions?
+
+How does the company benchmark its compliance practices against industry standards?
+
+What is the process for updating compliance policies in response to regulatory changes?
+
+Analysis: Comprehensive insurance and compliance programs are essential for protecting assets, managing risk, and maintaining investor confidence.
+
+Pricing, Incentives, and Customer Acquisition
+How are service fees and material prices set for condominium customers and recycling buyers?
+
+What incentives are offered to residents, building managers, or staff to encourage participation in recycling programs?
+
+How does the business acquire new condominium customers, and what is the typical sales cycle?
+
+What marketing and outreach strategies are used to build brand awareness and trust?
+
+How does the company measure and optimize customer acquisition cost (CAC) and lifetime value (LTV)?
+
+Are there referral or loyalty programs to encourage customer retention and word-of-mouth growth?
+
+How does the business adapt pricing and incentives in response to market changes or competitor actions?
+
+What is the process for onboarding new customers and ensuring high participation rates?
+
+How are customer feedback and complaints managed and used to improve services?
+
+What is the company’s track record in winning and retaining key accounts?
+
+Analysis: Effective pricing and incentive strategies are critical for driving participation and building long-term customer relationships. Gamification, rewards, and transparent communication can differentiate the business in a crowded market.
+
+Partnerships with Local Authorities and LAOs
+What relationships exist with the Bangkok Metropolitan Administration (BMA), local administrative organizations (LAOs), and other government bodies?
+
+Are there formal partnerships or MOUs in place, and what are their terms?
+
+How does the business navigate the regulatory and political landscape at the local level?
+
+What is the process for securing permits, approvals, or support from local authorities?
+
+How does the company engage with community leaders, residents’ associations, and other stakeholders?
+
+Are there risks of policy changes, political shifts, or regulatory crackdowns affecting operations?
+
+How does the business contribute to local government goals (e.g., waste reduction targets, community development)?
+
+What is the process for resolving disputes or challenges with local authorities?
+
+Are there opportunities for public-private partnerships or joint ventures with government agencies?
+
+How does the business monitor and adapt to changes in local policy or leadership?
+
+Analysis: Strong relationships with local authorities are essential for navigating regulatory hurdles, securing contracts, and building community trust. Political risk and policy shifts must be carefully managed.
+
+Quality Control and Contamination Management
+What processes are in place to ensure the quality and purity of collected materials?
+
+How is contamination detected, tracked, and minimized at each stage of collection and processing?
+
+What training is provided to staff and residents to reduce contamination?
+
+How are contaminated or non-recyclable materials handled and disposed of?
+
+What are the financial and operational impacts of contamination on margins and offtake agreements?
+
+How does the business benchmark its quality control processes against industry standards?
+
+Are there regular audits or inspections of collection and processing sites?
+
+How is feedback from buyers or processors used to improve quality?
+
+What is the process for investigating and resolving quality issues?
+
+How does the company plan to improve quality control as it scales?
+
+Analysis: Contamination is a major challenge in recycling, affecting both revenue and reputation. Rigorous quality control and continuous improvement are essential for meeting buyer specifications and maintaining profitability.
+
+Logistics: Transport, Storage, and Transfer Stations
+What is the fleet size and composition for collection and transport, and how is it managed?
+
+How are routes planned and optimized for efficiency and cost savings?
+
+What storage facilities are used, and how are they secured and maintained?
+
+How are transfer stations managed to prevent theft, contamination, or regulatory violations?
+
+What is the process for scaling logistics capacity as the business grows?
+
+How are logistics costs tracked and controlled?
+
+What is the company’s approach to fleet maintenance, replacement, and upgrade?
+
+Are there partnerships with third-party logistics providers or local transport companies?
+
+How does the business ensure compliance with transport and storage regulations?
+
+What contingency plans are in place for logistics disruptions (e.g., vehicle breakdowns, road closures, labor strikes)?
+
+Analysis: Efficient logistics are critical for profitability and scalability. Investors should look for evidence of data-driven route planning, cost control, and contingency planning.
+
+Market Trends and Forecasts for Thailand Plastics
+What are the key trends in plastic consumption, waste generation, and recycling rates in Thailand and Bangkok?
+
+How are government policies (e.g., plastic bag bans, EPR laws, BCG strategy) shaping the market?
+
+What is the outlook for PET prices, demand for recycled content, and export opportunities?
+
+How are consumer attitudes toward recycling and sustainability evolving?
+
+What are the main risks and opportunities in the Thai plastics market over the next 5–10 years?
+
+How does the business benchmark its forecasts against industry data and expert analysis?
+
+What are the implications of global trends (e.g., plastic waste import bans, ESG investing) for the business?
+
+How does the company plan to adapt to changing market conditions?
+
+What is the process for monitoring and responding to market shifts?
+
+How does the business leverage market trends to drive growth and innovation?
+
+Analysis: The Thai plastics market is in flux, with rising demand for recycled content, evolving regulations, and shifting consumer preferences. Staying ahead of trends is essential for long-term success.
+
+Customer Contracts and Condominium Agreements
+What is the standard contract structure with condominium customers (e.g., exclusivity, service levels, pricing, duration)?
+
+How are contracts negotiated, renewed, and enforced?
+
+What are the main reasons for contract termination or non-renewal, and how are these addressed?
+
+How does the business ensure compliance with contract terms and service level agreements?
+
+Are there any disputes or legal actions involving customer contracts?
+
+How does the company manage customer onboarding, training, and support?
+
+What is the process for handling customer complaints or service issues?
+
+How are contract terms adapted for different customer segments (e.g., luxury vs. budget condominiums)?
+
+What is the company’s track record in winning and retaining key accounts?
+
+How does the business benchmark its contract terms against industry standards?
+
+Analysis: Strong, enforceable contracts are essential for predictable revenue and customer retention. Investors should review sample agreements and assess the company’s contract management processes.
+
+Community Engagement and Behavior Change
+What programs are in place to educate and engage residents, building managers, and staff in recycling?
+
+How does the business measure and report on participation rates and behavior change?
+
+Are there partnerships with schools, NGOs, or community groups to promote recycling?
+
+What incentives or rewards are offered to encourage participation?
+
+How does the company address cultural or behavioral barriers to recycling?
+
+What is the process for gathering and acting on community feedback?
+
+How are success stories and impact communicated to stakeholders?
+
+What is the company’s track record in driving sustained behavior change?
+
+How does the business plan to scale community engagement as it grows?
+
+What lessons have been learned from past engagement efforts, and how are these applied to future programs?
+
+Analysis: Behavior change is a major challenge in recycling, especially in high-density urban environments. Effective engagement, education, and incentives are key to driving participation and impact.
+
+Technology for Tracking and Reporting
+What systems are in place for tracking collection volumes, contamination rates, and operational performance?
+
+How is data collected, stored, and analyzed, and who has access to it?
+
+What reporting tools are used for internal management, customer communication, and regulatory compliance?
+
+How does the business ensure data accuracy, security, and privacy?
+
+Are there opportunities to monetize data (e.g., ESG reporting, plastic credits, customer dashboards)?
+
+How is technology used to support decision-making and continuous improvement?
+
+What is the process for integrating new technologies or upgrading existing systems?
+
+Are there partnerships with technology providers or research institutions?
+
+How does the company benchmark its technology stack against industry leaders?
+
+What is the plan for scaling technology infrastructure as the business grows?
+
+Analysis: Data-driven management is increasingly important in recycling, enabling better decision-making, impact reporting, and customer engagement. Robust systems and processes are essential for scalability and transparency.
+
+Capital Efficiency and Unit Scaling
+What is the capital required to launch and scale a new collection route or building?
+
+How does the business optimize capital allocation for maximum impact and ROI?
+
+What is the process for evaluating and prioritizing new investments (e.g., vehicles, equipment, technology)?
+
+How does the company benchmark its capital efficiency against industry norms?
+
+What are the main constraints to scaling (e.g., capital, labor, regulatory approvals), and how are these addressed?
+
+What is the expected payback period for key investments?
+
+How does the business plan to improve capital efficiency as it grows?
+
+What is the process for monitoring and managing capital expenditures?
+
+How are capital requirements modeled in financial projections?
+
+What is the company’s track record in managing capital efficiently?
+
+Analysis: Capital efficiency is critical for early-stage startups, especially in asset-intensive sectors like recycling. Investors should scrutinize capital allocation, payback periods, and scaling strategies.
+
+Due Diligence on Suppliers and Equipment
+Who are the main suppliers of equipment, vehicles, and materials, and what are the terms of supply agreements?
+
+How are suppliers selected, evaluated, and managed?
+
+What is the process for vetting new suppliers or equipment vendors?
+
+Are there risks of supply chain disruption, and how are these mitigated?
+
+How does the company ensure quality, reliability, and compliance from suppliers?
+
+What is the process for negotiating and renewing supply contracts?
+
+Are there opportunities for strategic partnerships or joint ventures with suppliers?
+
+How does the business benchmark supplier performance against industry standards?
+
+What is the process for handling supplier disputes or failures?
+
+How does the company plan to scale supplier relationships as it grows?
+
+Analysis: Reliable suppliers and equipment are essential for operational stability and scalability. Investors should review supplier contracts, performance metrics, and contingency plans.
+
+Social Impact and ESG Metrics
+What are the key social impact metrics tracked by the business (e.g., jobs created, income improvement for informal workers, community engagement)?
+
+How is impact measured, validated, and reported to stakeholders?
+
+What certifications or standards does the business adhere to (e.g., B Corp, ISO, GRI)?
+
+How does the company align its operations with ESG (Environmental, Social, Governance) best practices?
+
+Are there partnerships with NGOs, government agencies, or academic institutions to support impact measurement?
+
+How does the business communicate impact to customers, partners, and investors?
+
+What is the process for continuous improvement in social and environmental performance?
+
+How are impact metrics integrated into management decision-making?
+
+What is the company’s track record in delivering and scaling social impact?
+
+How does the business benchmark its impact against industry leaders?
+
+Analysis: Social impact and ESG performance are increasingly important for investors, customers, and regulators. Rigorous measurement, transparent reporting, and continuous improvement are essential for credibility and long-term success.
+
+Conclusion
+Investing in a Bangkok-based recycling startup focused on condominium plastic bottle collection offers the potential for significant financial, environmental, and social returns. However, the sector’s complexity and volatility demand rigorous, multi-dimensional due diligence. The questions outlined in this report provide a comprehensive framework for assessing the business’s market opportunity, operational viability, regulatory compliance, financial health, scalability, and impact.
+
+By systematically addressing each area—and demanding detailed, evidence-based answers from the founders—an angel investor can make an informed, confident investment decision that aligns with both financial goals and broader sustainability objectives.

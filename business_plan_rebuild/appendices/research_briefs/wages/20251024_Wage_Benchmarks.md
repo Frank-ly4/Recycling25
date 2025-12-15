@@ -16,4 +16,4 @@ Capture Template
 
 Notes
 - Save all screenshots/PDFs in this folder
-- Update `appendices/ops_playbooks/hiring_plan.md` bands once evidence collected
+- Update `appendices/_archive_reference_only/ops_playbooks/hiring_plan.md` bands once evidence collected (reference copy)

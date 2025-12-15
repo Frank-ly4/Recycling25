@@ -21,6 +21,7 @@
 ## 3. Financials
 *   [ ] **"When do you run out of cash?"**
     *   *Answer:* Base case low point is **Month 15 (cash_end = -23,040 THB)** due to the quarterly investor revenue-share payment schedule. Mitigated by strict advance billing / Net-15 collection discipline and maintaining a small working-capital buffer. See [Cashflow](../financials/cashflow.json).
+    *   *Execution note:* See inlined mitigation notes in `investor_relations.md` and `operations_plan.md` (collections discipline) for how we avoid a negative-cash operational stoppage.
 *   [ ] **"Are you actually profitable by Month 12?"**
     *   *Answer:* In the generated base case, **Month 12 net income is 16,800 THB** and the **≥60k net income threshold is reached in Month 15 (72,000 THB)**. See [Projections](../financials/projections.json).
 *   [ ] **"Why is the ROI so slow (4.5 years)?"**

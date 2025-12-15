@@ -1,6 +1,6 @@
 # Pricing Notes (How to Use `pricing_catalog.csv`)
 
-Canonical pricing ladder: `appendices/finance/pricing_catalog.csv`
+Canonical pricing ladder (reference copy): `appendices/_archive_reference_only/finance/pricing_catalog.csv`
 
 ## Why tiers exist
 - **Buyer reality:** Condos and developer portfolios often prefer a building-level fee and will compare against “free” informal collectors.

@@ -19,12 +19,11 @@
   - `outreach_kit/service_agreement_12m.md` (Canonical 12-month service agreement template)
   - `outreach_kit/pilot_SLA.md` (Pilot SLA; includes onboarding kit + performance credits)
   - `outreach_kit/SLA_checklist.md`
-- **Appendices (Execution Pack)**:
-  - `appendices/ops_sops/` (SOPs: collection, sorting, H&S, SLA measurement)
-  - `appendices/ops_playbooks/` (facility plan, hiring plan, processor MOU template, fuel SOP)
-  - `appendices/finance/pricing_catalog.csv` (pricing tiers + portfolio packages)
-  - `appendices/go_to_market/ROI_Calculator.md` (board-ready ROI framing)
+- **Execution (inlined)**:
+  - `operations_plan.md` now includes condensed SOPs, SLA measurement definition, fuel logging control, and offtake/informal-integration basics.
+- **Appendices (supporting evidence)**:
   - `appendices/research_briefs/` (evidence briefs supporting assumptions)
+  - `appendices/pilots/` (pilot rollout + KPI schema)
 - **Privacy**:
   - `pdpa/PDPA_Compliance_Policy.md`
   - `pdpa/Privacy_Notice_EN_TH.md`

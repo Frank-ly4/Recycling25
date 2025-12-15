@@ -36,9 +36,6 @@
 *   [Site Survey Checklist](outreach_kit/site_survey_checklist.md) **(NEW)**
 
 ### 6. Appendices (Execution Pack)
-*   `appendices/ops_sops/`: SOPs (collection, sorting, H&S, SLA measurement).
-*   `appendices/ops_playbooks/`: Facility plan, hiring plan, processor MOU template, fuel SOP, informal collector integration.
-*   `appendices/finance/pricing_catalog.csv`: Pricing tiers + portfolio packages.
 *   `appendices/research_briefs/`: Evidence briefs supporting key assumptions (facility, wages, fuel, PDPA).
 *   `appendices/pilots/bangkok-zone-a/`: Pilot rollout plan, KPI schema, lessons.
 
