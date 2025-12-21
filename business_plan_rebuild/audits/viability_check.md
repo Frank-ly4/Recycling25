@@ -5,8 +5,8 @@
 The financial model (90 THB fee, 60k profit target) is grounded in real Bangkok market mechanics, specifically the BMA's "Split Fee" regulation. The targets are realistic but require strict adherence to the "Cluster Logistics" strategy to maintain margins.
 
 ## 1. Pricing Viability (90 THB/Unit)
-*   **The Anchor:** BMA Ordinance (2019) sets waste fees at **80 THB/month** (mixed) vs **20 THB/month** (separated).
-*   **The Value Prop:** A condo paying 80 THB to BMA saves 60 THB by hiring us. Our 90 THB fee is a net cost of **30 THB/unit** after compliance savings.
+*   **The Anchor:** BMA fee policy sets waste fees at **60 THB/month** (mixed / non-compliant) vs **20 THB/month** (separated / compliant). <!-- claim:CLAIM-BMA-FEE-001 -->
+*   **The Value Prop:** A condo that moves from 60 → 20 saves **40 THB/unit/month**. Our 90 THB fee is therefore a net cost of **50 THB/unit/month** after BMA fee savings (before ESG/reporting value).
 *   **Budget Impact:** Typical Condo Common Fee is ~1,500 THB/month (50 THB/sqm x 30sqm). Our fee (90 THB) represents **6%** of the Juristic budget. This is a "Major Line Item" but approvable for ESG/Compliance value.
 
 ## 2. Cost Realism
@@ -25,7 +25,7 @@ The financial model (90 THB fee, 60k profit target) is grounded in real Bangkok 
     *   *Recommendation:* Keep this off the P&L to impress investors later ("Sandbagging").
 
 ## 4. Critical Risks
-*   **Regulation Delay:** If BMA delays the 80 THB penalty enforcement again, the "Cost Savings" pitch weakens.
+*   **Regulation Delay / Soft Enforcement:** If the BMA separation discount (20 vs 60) is weakly enforced or difficult to access administratively, the pure “fee savings” pitch weakens.
 *   **Mitigation:** Lean heavily on **Corporate ESG** (Sansiri/AP Net Zero goals) which exists regardless of BMA law.
 
 

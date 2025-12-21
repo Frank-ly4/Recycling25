@@ -1,5 +1,20 @@
 ## KPI schema — Bangkok Zone A pilot
 
+avg_total_kg_per_building_month
+- Formula: total_recyclables_weight / active_buildings
+- Source: intake scale logs + building IDs
+- Cadence: monthly; Owner: Logistics Lead
+
+avg_pet_kg_per_building_month
+- Formula: pet_weight / active_buildings
+- Source: intake scale logs (PET separated at intake or sorting)
+- Cadence: monthly; Owner: Materials Lead
+
+kg_per_unit_month
+- Formula: total_recyclables_weight / total_units
+- Source: intake scale logs; verified unit counts from juristic
+- Cadence: monthly; Owner: Logistics Lead
+
 diversion_rate_pct
 - Formula: recycled_weight / eligible_recyclables_weight * 100
 - Source: intake scale logs; baseline from waste audit or estimated composition

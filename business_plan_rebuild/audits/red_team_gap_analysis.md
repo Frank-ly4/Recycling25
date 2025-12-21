@@ -21,7 +21,7 @@
 *   **Required Action:** **MANDATORY** to lease/rent trucks from an existing operator for Months 1-6. The budget has been adjusted (28k lease), but the *operational plan* must explicitly state "Outsourced Fleet Phase".
 
 ### 2.2. Soft Enforcement Risk
-*   **Finding:** BMA fines (80 THB/month) exist on paper but active enforcement/ticketing is rare.
+*   **Finding:** BMA’s mixed-waste fee level (60 THB/month) and the separation discount (20 THB/month) exist on paper, but active enforcement / administrative uptake may be inconsistent.
 *   **Impact:** The "Fear of Fine" sales pitch is weak.
 *   **Required Action:** Pivot sales pitch to "Corporate ESG Reporting" (Sansiri/AP goals) which is a *hard* requirement from HQ, regardless of BMA/District enforcement.
 

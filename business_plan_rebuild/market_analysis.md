@@ -3,7 +3,7 @@
 ## 1. Executive Overview
 Bangkok's waste management landscape is undergoing a regulatory shift. The "No Mixed Waste" initiative by the Bangkok Metropolitan Administration (BMA) creates a direct financial incentive for condominiums to separate waste.
 *   **The Lever:** **BMA Ordinance on Waste Disposal (2019 Amendment)** sets a compliant rate of 20 THB/month vs. a non-compliant rate of 60 THB/month per unit. <!-- claim:CLAIM-BMA-FEE-001 -->
-*   **The Math:** A 400-unit building faces a 24,000 THB/month (288k/year) liability if they fail to separate. This pays for 66% of our service fee immediately.
+*   **The Math:** A 400-unit building faces a 16,000 THB/month (192k/year) higher fee if they fail to separate (60 vs 20). This offsets ~44% of our base service fee immediately (at 90 THB/unit = 36,000 THB/month).
 
 ## 2. Target Market Segment (ICP)
 Our Ideal Customer Profile (ICP) is the "Mid-to-Large Scale Condominium" in high-density districts (Zone A).

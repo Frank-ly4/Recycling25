@@ -40,9 +40,10 @@
 *   **Vs. Waste Buy:** We offer full service (labor included), not just a trading platform.
 
 ## Slide 9: Team
-*   **Ops Lead:** Logistics expert.
-*   **Legal/Compliance:** BMA reg specialist.
-*   **Sales:** Condo property management network.
+*   **Team bios:** See `team_bios.md` (replace these placeholders with named bios before investor circulation).
+*   **Ops Lead:** TBD (logistics expert).
+*   **Legal/Compliance:** TBD (Thailand compliance).
+*   **Sales:** TBD (condo property management network).
 
 ## Slide 10: Call to Action
 *   **Join the Seed Round.**

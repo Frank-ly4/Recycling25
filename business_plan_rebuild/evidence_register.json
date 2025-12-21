@@ -276,6 +276,63 @@
       "confidence": "low",
       "status": "ASSUMPTION—VALIDATE",
       "validation_method": "Obtain written lease proposal/terms confirming vehicle plate class + included insurance/maintenance; store in evidence/."
+    },
+    {
+      "claim_id": "CLAIM-MKT-BKK-RECYCLE-001",
+      "claim_text": "Bangkok benchmark: ~15% (≈134 kt/year) of plastic waste is recycled; informal sector plays a dominant role in collecting recyclables.",
+      "files": [
+        { "path": "business_plan_rebuild/INVESTOR_QA_151225.md", "section": "Market Opportunity / MO-04" },
+        { "path": "business_plan_rebuild/Comprehensive Due Diligence Questions 151225.txt", "section": "Market Opportunity / MO-04" }
+      ],
+      "source_url": "https://www.thecirculateinitiative.org/wp-content/uploads/Mapping-Local-Plastic-Recycling-Supply-Chains-Insights-from-Selected-Cities-in-Thailand.pdf",
+      "source_type": "industry_report",
+      "local_path": "business_plan_rebuild/evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf",
+      "excerpt": "Circulate Initiative report excerpt (p.16): “In Bangkok, it is estimated that around 15% or 134 KT/yr of plastic waste is being recycled each year. The informal sector …”",
+      "confidence": "medium",
+      "status": "VERIFIED",
+      "validation_method": "Archived the report PDF in evidence/market and extracted the relevant line + page reference via local PDF text parsing."
+    },
+    {
+      "claim_id": "CLAIM-MKT-TH-PLASTIC-WASTE-001",
+      "claim_text": "Thailand benchmark: ~2 million metric tons of plastic waste generated annually; about one quarter recycled (benchmark statement).",
+      "files": [
+        { "path": "business_plan_rebuild/INVESTOR_QA_151225.md", "section": "Market Trends / MT-* (Thailand benchmark)" }
+      ],
+      "source_url": "https://www.usasean.org/sites/default/files/2023-10/Sustainability%20%282023%29%2C%20Plastics%20Biannual%20Report%20%28Compressed%29.pdf",
+      "source_type": "industry_report",
+      "local_path": "business_plan_rebuild/evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf",
+      "excerpt": "US-ASEAN Plastics Biannual Report excerpt (p.30): “Annually, Thailand generates approximately 2 million metric tons of plastic waste; however, only a quarter is recycled.”",
+      "confidence": "medium",
+      "status": "VERIFIED",
+      "validation_method": "Archived the report PDF in evidence/market and extracted the relevant line + page reference via local PDF text parsing."
+    },
+    {
+      "claim_id": "CLAIM-BOI-MIN-CAPITAL-001",
+      "claim_text": "BOI guide benchmark: minimum capital investment requirement per project is 1 million baht (excluding cost of land and working capital), unless specified otherwise by eligible activity list / special criteria.",
+      "files": [
+        { "path": "business_plan_rebuild/INVESTOR_QA_151225.md", "section": "BOI Incentives / BOI-* (minimum capital)" }
+      ],
+      "source_url": "https://osos.boi.go.th/download/BOI_PDF/BOI_A_Guide_2023_EN.pdf",
+      "source_type": "government_guide",
+      "local_path": "business_plan_rebuild/evidence/boi/20251215_boi_a_guide_2023_en.pdf",
+      "excerpt": "BOI Investment Promotion Guide 2023 excerpt (p.9): “The minimum capital investment requirement of each project is 1 million baht (excluding cost of land and working capital) unless specified otherwise …”.",
+      "confidence": "medium",
+      "status": "VERIFIED",
+      "validation_method": "Archived the official BOI guide PDF in evidence/boi and extracted the relevant line + page reference via local PDF text parsing."
+    },
+    {
+      "claim_id": "CLAIM-BOI-RECYCLE-WASTE-ACTIVITIES-001",
+      "claim_text": "BOI guide benchmark: eligible activities list includes recycling/reuse and sorting/separation services of unwanted materials, and waste treatment/disposal activities (conditions apply, including hazardous landfill constraint).",
+      "files": [
+        { "path": "business_plan_rebuild/INVESTOR_QA_151225.md", "section": "BOI Incentives / BOI-* (eligible activities)" }
+      ],
+      "source_url": "https://osos.boi.go.th/download/BOI_PDF/BOI_A_Guide_2023_EN.pdf",
+      "source_type": "government_guide",
+      "local_path": "business_plan_rebuild/evidence/boi/20251215_boi_a_guide_2023_en.pdf",
+      "excerpt": "BOI Investment Promotion Guide 2023 (pp.98–99) lists activities: “Recycling and reuse of unwanted …”, “Sorting/Separation Service of Unwanted …”, and “Waste treatment or disposal … (landfill promotion limited to hazardous waste)”.",
+      "confidence": "low",
+      "status": "VERIFIED",
+      "validation_method": "Archived the guide PDF in evidence/boi; extract exact activity wording and conditions with page references when finalizing the BOI decision memo."
     }
   ]
 }

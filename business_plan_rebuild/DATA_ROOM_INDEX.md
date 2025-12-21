@@ -32,11 +32,23 @@
   - `risk_register.md`
   - `governance.md`
   - `audit_trail.jsonl`
+- **Equity option (if investor prefers shares)**:
+  - `cap_table.md` (current fully-diluted cap table — placeholder until shareholder register is provided)
+  - `equity_terms_summary.md` (draft term summary — placeholders)
+  - `dilution_model.md` (scenario table — placeholders until cap table is finalized)
+- **Team & trust**:
+  - `team_bios.md` (replace placeholders with named bios before investor circulation)
+- **Insurance**:
+  - `insurance_program.md` (coverage posture; becomes investor-grade when policies/quotes are archived in `evidence/insurance/`)
 
 ## 2. Evidence & Diligence Trail
 - **Evidence folder**: `evidence/` (source PDFs, screenshots, quotes)
 - **Audit memos** (internal): `audits/`
   - `audits/INVESTOR_QA_CHECKLIST.md` **(Start Here for Due Diligence Defense)**
+  - `audits/INVESTOR_QA_MATRIX_151225.md` (question → evidence matrix)
+  - `audits/DD_GAP_REGISTER_151225.md` (open items with owners and close criteria)
+  - `audits/boi_decision_memo.md` (BOI: yes/no and why)
+  - `audits/impact_credits_positioning.md` (credits: excluded from base case; staged option only)
   - `audits/pilot_validation.md` (90-Day Commercial Proof Plan)
   - `audits/red_team_gap_analysis.md`
   - `audits/vehicle_specs_comparison.md`

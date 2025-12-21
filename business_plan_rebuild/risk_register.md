@@ -5,7 +5,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Price War:** Competitors undercut 90 THB fee. | High | High | Emphasize "Compliance Safety" & Data. Offer "Lite" tier (less freq) to match price. | Sales |
 | **Pricing Model Mismatch:** Juristic prefers Lump Sum over Per-Unit. | Med | Med | **Flexible Invoicing:** Convert 90 THB/unit to a fixed "Monthly Facility Fee" in the contract to fit their budget codes. | Sales |
-| **Regulation Flip (Soft Enforcement):** BMA delays or ignores 80 THB penalty. | High | High | Pivot sales pitch to **Corporate ESG** (HQ Requirement) rather than BMA fine avoidance. | Strategy |
+| **Regulation Flip (Soft Enforcement):** BMA mixed-fee / separation-discount policy (60 vs 20) is weakly enforced or difficult to access administratively. | High | High | Pivot sales pitch to **Corporate ESG** (HQ Requirement) rather than BMA fee-avoidance. | Strategy |
 | **Material Price Crash:** PET drops <10 THB/kg. | Med | Low | **Fees-First Model** insulates P&L. Revenue comes from service, not trading. | Finance |
 
 ## 2. Operational Risks

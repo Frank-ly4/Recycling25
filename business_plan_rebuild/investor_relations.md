@@ -27,6 +27,14 @@ The figures below are **directly derived from the generated model outputs** (`fi
 *   **Year 5 Service Revenue:** ~6.048M THB → **Payments:** 270,000 THB (Months 51/54; cap reached).
 *   **Total Time:** **Cap reached at Month 54 (~4.5 years)**. See `financials/waterfall.json`.
 
+## 2B. Straight Equity Option (Alternative)
+If an investor prefers a standard equity round, the minimum artifact set is maintained in:
+- `cap_table.md` (current fully-diluted cap table — **TBD pending shareholder register**)
+- `equity_terms_summary.md` (draft term summary — placeholders)
+- `dilution_model.md` (dilution scenarios — placeholders until cap table is finalized)
+
+**Positioning:** We will default to the revenue-share structure for cash-flow focused angels, but can offer equity if the investor requires governance rights and longer-duration upside.
+
 ## 3. Risk Buffers
 1.  **Fees-First Model:** We do not rely on plastic trading margins to pay back investors. 100% of repayment comes from contracted service fees.
 2.  **Cash Reserve (Execution Reality — Bangkok):** The generated base case is **tight in Year 1** and reaches a low point of **Month 15 cash_end = -23,040 THB** (timing driven by quarterly revenue-share payments). See `financials/cashflow.json`.
