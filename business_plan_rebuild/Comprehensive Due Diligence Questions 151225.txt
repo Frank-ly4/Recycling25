@@ -1,0 +1,3971 @@
+Comprehensive Due Diligence Questions for Angel Investment in a Bangkok-Based Condominium Plastic Bottle Recycling Startup
+
+Introduction
+
+I'm considering investing $1–2 million in a Bangkok-based recycling startup focused on collecting plastic water bottles from condominium buildings presents both significant opportunities and complex risks. Thailand’s plastic waste crisis is acute, with the country ranking among the world’s top contributors to ocean plastic pollution. The government, private sector, and civil society are mobilizing to address this challenge, and the recycling sector is evolving rapidly in response to regulatory, technological, and market shifts. However, the sector’s complexity—spanning informal labor, regulatory hurdles, fluctuating commodity prices, and evolving consumer behavior—demands rigorous due diligence.
+
+This here provides a robust, categorized list of due diligence questions that I would like answered before committing capital. Please answer only using information from your documents/plan so far.  If there's anything outstanding, please update the document to reflect further research/clarification/math/etc. is needed. The questions are organized under clear headings, each reflecting a critical area of business viability and investment risk. Each section is informed by current market data, regulatory frameworks, operational realities, and best practices in both Thai and international recycling sectors.
+
+Market Opportunity
+What is the total addressable market (TAM) for plastic bottle collection from condominiums in Bangkok, and how is it segmented by building type, size, and location?
+[[ANSWER: MO-01]]
+Status: ASSUMPTION_VALIDATE
+Summary: The internal pack currently provides a **Zone A SOM** sizing and an ICP definition rather than a fully evidenced Bangkok-wide TAM segmentation. Zone A pilot districts total ~122,000 units across ~300 large condos (>300 units), implying ~11.0M THB/month addressable service-fee opportunity at the modeled fee levels (see `market_analysis.md`).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Extend sizing to full Bangkok by building type/size/location using REIC/condo inventory exports; keep as ASSUMPTION until evidenced.
+See: INVESTOR_QA_151225.md (MO-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the estimated volume of PET bottles generated per condominium per month, and how does this vary across different districts or building demographics?
+[[ANSWER: MO-02]]
+Status: ASSUMPTION_VALIDATE
+Summary: The pack defines **measurement KPIs** (e.g., target >200 kg/building/month) and a pilot data collection plan, but does not yet contain a verified per-condo PET bottle generation distribution by district/demographics. We will measure actual weights per building during the pilot and use that to parameterize district-level variance.
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Capture actual weights per building and contamination rates during pilot; add a district-level volume distribution once measured.
+See: INVESTOR_QA_151225.md (MO-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How many condominiums are there in Bangkok, and what percentage have existing recycling programs or contracts with competitors?
+[[ANSWER: MO-03]]
+Status: ASSUMPTION_VALIDATE
+Summary: Internal pack contains two sizing anchors: (1) Zone A pilot districts (~300 large condos >300 units), and (2) pitch-deck headline estimate of **1,500+ large condos (>300 units) in Bangkok**. The percentage with existing recycling contracts/programs is not evidenced internally yet.
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Validate condo counts and competitor penetration via REIC/market mapping; add evidence + competitor program scan.
+See: INVESTOR_QA_151225.md (MO-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the current collection and recycling rates for plastic bottles in Bangkok’s residential sector, and how do these compare to national averages?
+[[ANSWER: MO-04]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark sources have been added to the data room. A city-level benchmark from the Circulate Initiative report estimates that **~15% (≈134 kt/year) of plastic waste in Bangkok is recycled**, with the informal sector playing a dominant role (see `evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf`, p.16). For a national benchmark, the US-ASEAN report states Thailand generates **~2 million metric tons of plastic waste annually** and **~25% is recycled** (see `evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf`, p.30).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: These are benchmarks (not our operational results). Add pilot-measured building-level capture rates to show our achievable uplift vs baseline.
+See: INVESTOR_QA_151225.md (MO-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the key drivers of growth in the Bangkok plastic bottle recycling market (e.g., regulatory changes, consumer awareness, government incentives)?
+[[ANSWER: MO-05]]
+Status: SOURCED_INTERNAL
+Summary: The pack’s stated growth drivers are **BMA fee incentives for separation** and **developer ESG/HQ reporting mandates**, positioned as a compliance + reporting service rather than a commodity trader (see `market_analysis.md`, `executive_summary.md`, `outreach_kit/ESG_sales_talking_points.md`).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+See: INVESTOR_QA_151225.md (MO-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to expand beyond condominiums (e.g., to office buildings, hotels, schools), and what is the potential market size for these segments?
+[[ANSWER: MO-06]]
+Status: ASSUMPTION_VALIDATE
+Summary: Current execution plan is condominium-first (cluster density). Expansion beyond condos is mentioned as a roadmap concept, but the pack does not yet provide a quantified market size for offices/hotels/schools.
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Add adjacent-segment sizing (office/hotel/school) as benchmarks; validate via 10–20 customer interviews + pilot conversion.
+See: INVESTOR_QA_151225.md (MO-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main barriers to entry for new players in the Bangkok plastic bottle collection market?
+[[ANSWER: MO-07]]
+Status: SOURCED_INTERNAL
+Summary: Barriers highlighted in the pack include regulatory compliance (BMA permit / DLT classification), operational constraints (truck bans, basement clearance), and the need for ESG-grade chain-of-custody reporting that informal collectors cannot provide (see `legal_compliance.md`, `operations_plan.md`, `market_analysis.md`).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+See: INVESTOR_QA_151225.md (MO-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How is the market expected to evolve over the next 5–10 years in terms of volume, pricing, and regulatory requirements?
+[[ANSWER: MO-08]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark context has been added: Bangkok baseline recycling rate and supply-chain constraints (Circulate report) and Thailand national plastic waste baseline (US-ASEAN report). Regulatory trend benchmark: ERIA summarizes Thailand’s EPR progression under the Action Plan on Plastic Waste Management Phase II (2023–2027), including framework development and pilots before expected enactment (see `evidence/policy/20251215_eria_thailand_epr_legal_framework.html`).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Add a short forecast memo (volume/pricing) with 2–3 additional sources (e.g., resin/PET pricing indices, recycled content commitments) and summarize implications for our fee floor and offtake strategy.
+See: INVESTOR_QA_151225.md (MO-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the impact of recent government initiatives (e.g., BMA’s “No Mixed Waste” program, waste separation fee incentives) on the market opportunity?
+[[ANSWER: MO-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+See: INVESTOR_QA_151225.md (MO-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to capture market share from informal collectors and established waste management companies?
+[[ANSWER: MO-10]]
+Status: BENCHMARK_EXTERNAL
+Summary: Strategy is to **differentiate on compliance + reliability + reporting** and to reduce friction by **integrating** (not displacing) local saleng for last-mile support where appropriate (see `market_analysis.md`, `operations_plan.md`, `audits/INVESTOR_QA_CHECKLIST.md`).
+Evidence (internal): market_analysis.md; executive_summary.md; outreach_kit/pitch_deck.md; audits/viability_check.md; evidence/bma/20251214_bma_greener_waste_fee_20_60.html; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf
+Gaps/Next: Quantified market-share capture plan (targets, pipeline) is not yet evidenced; tie to LOIs and pilot conversions.
+See: INVESTOR_QA_151225.md (MO-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Bangkok’s condominium sector is a major generator of plastic waste, with over 600,000 units and a growing urban population. The city’s new waste separation regulations and financial incentives for source separation are creating a more favorable environment for organized recycling businesses. However, the market remains fragmented, with significant competition from informal collectors (“saleng”) and established recycling firms. Understanding the precise size and accessibility of the target market is essential for assessing scalability and revenue potential.
+
+Business Model and Revenue Streams
+What is the core business model: direct collection and resale of bottles, provision of collection services to condominiums, or integrated recycling (collection plus processing)?
+[[ANSWER: BM-01]]
+Status: SOURCED_INTERNAL
+Summary: Fee-for-service condo recycling program (bins + scheduled pickups + reporting) with optional upside from material sales; core profitability is modeled without relying on PET trading.
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the primary revenue streams (e.g., sale of PET bottles to recyclers, service fees from condominiums, carbon credits, data services)?
+[[ANSWER: BM-02]]
+Status: MISSING
+Summary: Primary modeled revenue is contracted service fees (per unit / building fee). Material sales are treated as upside (kept at 0 in the base model for conservatism). Impact-credit monetization (carbon/plastic credits) is not yet implemented in the internal pack.
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+Gaps/Next: If pursuing credits, add methodology, registry choice, MRV process, and buyer pipeline; keep as benchmark until validated.
+See: INVESTOR_QA_151225.md (BM-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How are prices for collected PET bottles determined, and how volatile are these prices?
+[[ANSWER: BM-03]]
+Status: SOURCED_INTERNAL
+Summary: The pack assumes a conservative PET price floor scenario and positions the business as **fees-first** to reduce sensitivity to PET price volatility (see `risk_register.md`, `audits/viability_check.md`, `executive_summary.md`).
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the typical contract structure with condominiums (e.g., exclusive agreements, revenue sharing, fixed service fees)?
+[[ANSWER: BM-04]]
+Status: SOURCED_INTERNAL
+Summary: Canonical commercial structure is a B2B service agreement with a 12-month term (auto-renew), monthly invoicing (Net-15), SLA definitions/credits, and deposits for bins/signage (see `outreach_kit/service_agreement_12m.md`, `outreach_kit/pilot_SLA.md`, `operations_plan.md`).
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there opportunities for value-added services (e.g., data analytics for ESG reporting, educational programs, branded recycling campaigns)?
+[[ANSWER: BM-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to monetize environmental impact (e.g., carbon credits, plastic credits, partnerships with brands seeking recycled content)?
+[[ANSWER: BM-06]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (BM-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the expected customer acquisition cost (CAC) for new condominium contracts, and what is the average contract duration?
+[[ANSWER: BM-07]]
+Status: MISSING
+Summary: Canonical commercial structure is a B2B service agreement with a 12-month term (auto-renew), monthly invoicing (Net-15), SLA definitions/credits, and deposits for bins/signage (see `outreach_kit/service_agreement_12m.md`, `outreach_kit/pilot_SLA.md`, `operations_plan.md`).
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to retain customers and prevent churn, especially as competitors enter the market?
+[[ANSWER: BM-08]]
+Status: SOURCED_INTERNAL
+Summary: Retention strategy is service reliability (SLA), compliance reporting value (monthly ESG/diversion report), and operational hygiene (site survey + contamination controls) to reduce service failures (see `outreach_kit/ESG_sales_talking_points.md`, `operations_plan.md`, `outreach_kit/SLA_checklist.md`).
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the projected revenue mix over the next five years, and how does this align with market trends?
+[[ANSWER: BM-09]]
+Status: SOURCED_INTERNAL
+Summary: The current financial model intentionally assumes **service-fee revenue only** (material revenue set to 0 in `financials/model_inputs.json`) to keep projections conservative; material sales are treated as upside in `audits/viability_check.md`.
+Evidence (internal): executive_summary.md; outreach_kit/pitch_deck.md; outreach_kit/service_agreement_12m.md; investor_relations.md
+See: INVESTOR_QA_151225.md (BM-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Successful recycling startups in Thailand often blend multiple revenue streams, including material sales, service contracts, and impact monetization (e.g., through plastic credits or ESG partnerships). The volatility of PET prices and the need for long-term, stable contracts with condominiums are critical considerations. Innovative models—such as gamified recycling, smart bins, and data-driven ESG reporting—are emerging and can differentiate the business.
+
+Unit Economics and Financial Metrics
+What are the key unit economics for the business (e.g., cost per kilogram collected, revenue per kilogram, gross margin per collection route)?
+[[ANSWER: UE-01]]
+Status: SOURCED_INTERNAL
+Summary: Core unit economics are modeled on a **per-unit service fee** basis (not per-kg commodity trading). Key drivers include service fee (90 THB/unit/month), variable cost (30 THB/unit/month), and clustered fixed-cost structure (see `financials/model_inputs.json`, `financials/model_spec.md`).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main cost drivers (labor, transport, sorting, contamination management, storage, equipment depreciation)?
+[[ANSWER: UE-02]]
+Status: SOURCED_INTERNAL
+Summary: Main cost drivers in the model are direct labor (driver/loader/sorter), fleet lease, facility rent, and fuel with step-ups as buildings increase (see `financials/model_inputs.json`, `financials/model_spec.md`).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the break-even volume per condominium or collection route?
+[[ANSWER: UE-03]]
+Status: SOURCED_INTERNAL
+Summary: Break-even is addressed via the generated model and sensitivity analysis (positive net income achieved at ~9 buildings in the base case; profit target ≥60k net income at ~12 buildings).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does contamination (e.g., food waste in bottles) affect processing costs and material value?
+[[ANSWER: UE-04]]
+Status: SOURCED_INTERNAL
+Summary: Operationally, the pack sets contamination controls (e.g., >15% triggers rejection/penalty and education loop). Financially, the base model is conservative and does not rely on material margin; contamination primarily impacts the (optional) material upside (see `operations_plan.md`, `outreach_kit/SLA_checklist.md`).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the projected payback period for capital expenditures (e.g., vehicles, bins, sorting equipment)?
+[[ANSWER: UE-05]]
+Status: SOURCED_INTERNAL
+Summary: Capex is framed via use-of-funds (fleet + facility/equipment + working capital) and investor repayment waterfall; the pack does not yet present a separate IRR/payback schedule for each asset class (see `investor_relations.md`, `financials/waterfall.json`).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How are fluctuations in PET prices and fuel costs modeled in financial projections?
+[[ANSWER: UE-06]]
+Status: SOURCED_INTERNAL
+Summary: Fuel sensitivity is explicitly tested in `financials/sensitivity_analysis.md` and the ops plan defines a weekly diesel logging control. PET price volatility is treated as non-core because repayment/profitability is modeled fees-first (see `risk_register.md`, `financials/sensitivity_analysis.md`).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the expected gross and net margins at scale, and how do these compare to industry benchmarks?
+[[ANSWER: UE-07]]
+Status: SOURCED_INTERNAL
+Summary: Unit economics and KPIs are modeled in `financials/*` (inputs → projections → cashflow → waterfall) and summarized in `sensitivity_analysis.md` and `metrics_dashboard.md`.
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the cash conversion cycle (from collection to sale and payment)?
+[[ANSWER: UE-08]]
+Status: SOURCED_INTERNAL
+Summary: Cash timing policy is documented in `financials/model_spec.md` (model assumes Net-30; execution targets advance billing + Net-15). WHT reduces cash receipts (3% withheld) per `legal_compliance.md` and Revenue Department evidence files.
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How are bad debts, payment delays, or contract disputes accounted for in financial planning?
+[[ANSWER: UE-09]]
+Status: SOURCED_INTERNAL
+Summary: Payment-delay risk and mitigations are documented in `risk_register.md` and `investor_relations.md` (Net-15 terms, deposits, late fees, and a minimum cash buffer covenant for quarterly revenue-share).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the key financial KPIs tracked by management (e.g., EBITDA, ROIC, customer lifetime value)?
+[[ANSWER: UE-10]]
+Status: SOURCED_INTERNAL
+Summary: The pack’s financial KPIs are defined in `metrics_dashboard.md` (MRR, gross margin, cash runway; ops KPIs include on-time rate, weight/building, contamination).
+Evidence (internal): financials/model_inputs.json; financials/model_spec.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json; financials/sensitivity_analysis.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (UE-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Unit economics in recycling are highly sensitive to collection efficiency, contamination rates, and commodity price volatility. Detailed modeling of costs and margins is essential, especially given the thin margins typical in the sector. Investors should scrutinize assumptions about collection volumes, contamination, and price stability.
+
+Competitive Landscape
+Who are the main competitors in the Bangkok plastic bottle collection and recycling market (e.g., informal collectors, established recycling firms, tech-enabled startups)?
+[[ANSWER: CL-01]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the market shares of key players, and how are they differentiated (e.g., technology, scale, customer relationships)?
+[[ANSWER: CL-02]]
+Status: BENCHMARK_EXTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+Gaps/Next: Market share/player-level benchmarking is not yet evidenced and may require external benchmarking.
+See: INVESTOR_QA_151225.md (CL-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to compete with the informal sector, which often operates at lower cost and with deep community ties?
+[[ANSWER: CL-03]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the strengths and weaknesses of major competitors (e.g., Indorama Ventures, Wongpanit, EcoBlue, Wastebuy Delivery, Glean, Trash Lucky)?
+[[ANSWER: CL-04]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any recent market entrants with disruptive technologies or business models (e.g., smart bins, blockchain tracking, gamified recycling)?
+[[ANSWER: CL-05]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the barriers to entry for new competitors, and how defensible is the business’s position?
+[[ANSWER: CL-06]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to build and sustain competitive advantages (e.g., proprietary technology, exclusive contracts, brand partnerships)?
+[[ANSWER: CL-07]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What lessons can be learned from failed or struggling recycling startups in Thailand or similar markets?
+[[ANSWER: CL-08]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business monitor competitor activity and adapt its strategy accordingly?
+[[ANSWER: CL-09]]
+Status: SOURCED_INTERNAL
+Summary: Internal pack describes competitor categories (informal saleng, platform players, traditional haulers) and our differentiation (SLA + compliance reporting + insurance) in `market_analysis.md` and `audits/INVESTOR_QA_CHECKLIST.md`.
+Evidence (internal): market_analysis.md; outreach_kit/pitch_deck.md; audits/INVESTOR_QA_CHECKLIST.md
+See: INVESTOR_QA_151225.md (CL-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: The competitive landscape is dynamic, with both traditional players and innovative startups vying for market share. Informal collectors remain dominant in many neighborhoods, but tech-enabled solutions and partnerships with brands and municipalities are gaining traction. Understanding the strengths and weaknesses of each competitor—and the business’s unique value proposition—is critical for long-term success.
+
+Regulatory Environment and Permits
+What licenses and permits are required to operate a recycling business in Bangkok, and what is the status of each application (e.g., operating license, environmental permits, labor permits)?
+[[ANSWER: RE-01]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the requirements for machine power and employee numbers that trigger additional licensing (e.g., >50 HP, >50 employees)?
+[[ANSWER: RE-02]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure compliance with the National Environmental Quality Act, Public Health Act, and local BMA waste management regulations?
+[[ANSWER: RE-03]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the implications of the Foreign Business Act for ownership and control, and what structures (e.g., BOI promotion, preferential shares, FBL) are in place to ensure compliance?
+[[ANSWER: RE-04]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process and timeline for obtaining and renewing key permits, and what are the associated costs?
+[[ANSWER: RE-05]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-05)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any zoning or land use restrictions affecting the location of sorting or processing facilities?
+[[ANSWER: RE-06]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure compliance with waste transport and storage regulations?
+[[ANSWER: RE-07]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the penalties for non-compliance, and how are regulatory risks monitored and managed?
+[[ANSWER: RE-08]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business stay abreast of evolving regulations, such as the upcoming Extended Producer Responsibility (EPR) laws and the BMA’s new waste separation fee structure?
+[[ANSWER: RE-09]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any pending legal or regulatory actions against the company or its founders?
+[[ANSWER: RE-10]]
+Status: SOURCED_INTERNAL
+Summary: Permits/licensing approach is defined in `legal_compliance.md` (BMA ‘business detrimental to health’ permit; DLT classification + license-bridge leasing strategy; VAT/WHT handling).
+Evidence (internal): legal_compliance.md; evidence/; evidence_register.json
+See: INVESTOR_QA_151225.md (RE-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Thailand’s regulatory environment for recycling is complex and evolving. The Foreign Business Act, environmental regulations, and local BMA ordinances all impose significant compliance requirements. BOI promotion can offer substantial incentives but requires strict adherence to eligibility criteria. Regulatory risk is a major factor for foreign investors and must be carefully managed.
+
+Board of Investment (BOI) Incentives and Foreign Ownership
+Has the business applied for or received BOI promotion, and what incentives have been granted (e.g., tax holidays, 100% foreign ownership, land ownership rights)?
+[[ANSWER: BOI-01]]
+Status: MISSING
+Summary: The internal pack does not yet state that the company has applied for or received BOI promotion. Current default structure is a Thai limited company with 51% Thai ownership (see `legal_compliance.md`).
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: Decision required: BOI pathway vs Thai-majority structure; if BOI pursued, document application status, activity category, incentives granted, and compliance obligations with archived evidence.
+See: INVESTOR_QA_151225.md (BOI-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the minimum capital investment required for BOI eligibility, and how does the business meet this threshold?
+[[ANSWER: BOI-02]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark: BOI’s Investment Promotion Guide 2023 states a **minimum capital investment requirement of 1,000,000 THB per project (excluding land and working capital), unless otherwise specified** (see `evidence/boi/20251215_boi_a_guide_2023_en.pdf`, p.9).
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: Confirm the specific minimum/conditions for the exact promoted activity category chosen (recycling / sorting / waste treatment) and location-based measures.
+See: INVESTOR_QA_151225.md (BOI-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the reporting and compliance obligations under BOI promotion, and how are these managed?
+[[ANSWER: BOI-03]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark: BOI promotion includes ongoing reporting and compliance requirements; details vary by activity and incentives granted. Use the BOI guide as the starting reference and confirm obligations for the chosen activity category (see `evidence/boi/20251215_boi_a_guide_2023_en.pdf`).
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: Add a BOI compliance checklist (reporting cadence, permitted activities, audit readiness) once the BOI pathway decision is made.
+See: INVESTOR_QA_151225.md (BOI-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does BOI status affect the company’s ability to hire foreign staff and obtain work permits?
+[[ANSWER: BOI-04]]
+Status: MISSING
+Summary: Benchmark: BOI promotion commonly provides non-tax privileges related to visas/work permits for foreign experts, subject to BOI conditions and the promoted activity category (see `evidence/boi/20251215_boi_a_guide_2023_en.pdf`).
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: Confirm headcount/skill requirements and the exact privilege set for the chosen BOI activity.
+See: INVESTOR_QA_151225.md (BOI-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any risks of BOI status being revoked or challenged, and what contingencies are in place?
+[[ANSWER: BOI-05]]
+Status: MISSING
+Summary: Benchmark: BOI privileges can be revoked if conditions are not met (activity scope, reporting, investment realization, etc.).
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: If BOI pursued, add a risk memo describing revocation triggers and operational controls to stay compliant.
+See: INVESTOR_QA_151225.md (BOI-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does BOI promotion affect the business’s competitive position relative to non-BOI competitors?
+[[ANSWER: BOI-06]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark: BOI can improve competitiveness through tax/non-tax incentives (e.g., tax holidays, facilitation of foreign hiring), but compliance burden increases.
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: Model BOI vs non-BOI economics (tax savings vs compliance/admin costs) and decide before fundraising.
+See: INVESTOR_QA_151225.md (BOI-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for renewing or expanding BOI incentives as the business grows?
+[[ANSWER: BOI-07]]
+Status: BENCHMARK_EXTERNAL
+Summary: Benchmark: BOI incentives/privileges may be expanded or amended with BOI approval as projects scale; process depends on activity and changes requested.
+Evidence (internal): legal_compliance.md; evidence/boi/20251215_boi_a_guide_2023_en.pdf; evidence/boi/20251215_SEARCH_LOG.md
+Gaps/Next: If BOI pursued, document the amendment/expansion pathway and trigger milestones (new facility, equipment, capacity).
+See: INVESTOR_QA_151225.md (BOI-07)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: BOI promotion is a powerful tool for foreign investors, offering tax breaks, ownership rights, and operational flexibility. However, compliance is rigorous, and failure to meet BOI requirements can result in loss of privileges. Investors should verify the status and sustainability of BOI incentives.
+
+Operational Logistics and Collection Process
+What is the end-to-end process for collecting, sorting, and transporting plastic bottles from condominiums to recycling facilities?
+[[ANSWER: OP-01]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are collection routes optimized for efficiency and cost-effectiveness?
+[[ANSWER: OP-02]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What equipment and vehicles are used, and what is the maintenance and replacement schedule?
+[[ANSWER: OP-03]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How is contamination managed at the point of collection, and what training is provided to residents and staff?
+[[ANSWER: OP-04]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for weighing, recording, and tracking collected materials?
+[[ANSWER: OP-05]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How are storage and transfer stations managed to prevent theft, contamination, or regulatory violations?
+[[ANSWER: OP-06]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the key operational bottlenecks, and how are they addressed?
+[[ANSWER: OP-07]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure health and safety for workers, especially in high-density urban environments?
+[[ANSWER: OP-08]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What contingency plans are in place for equipment failure, labor shortages, or supply chain disruptions?
+[[ANSWER: OP-09]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How is technology (e.g., smart bins, mobile apps, data analytics) integrated into operational workflows?
+[[ANSWER: OP-10]]
+Status: SOURCED_INTERNAL
+Summary: End-to-end collection SOP, route constraints (truck ban windows), mixed fleet strategy, contamination thresholds, and SLA measurement are defined in `operations_plan.md` and related audit/risk docs.
+Evidence (internal): operations_plan.md; risk_register.md; audits/red_team_gap_analysis.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (OP-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Operational excellence is critical in recycling, where margins are thin and logistics are complex. Efficient route planning, contamination control, and technology integration can significantly improve profitability and scalability.
+
+Supply Chain and Offtake Agreements
+Who are the primary buyers of collected PET bottles (e.g., local recyclers, export markets, brand partners), and what are the terms of offtake agreements?
+[[ANSWER: SC-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there long-term contracts in place with recyclers or processors, and what are the pricing mechanisms?
+[[ANSWER: SC-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How is quality (e.g., contamination, color sorting) ensured to meet buyer specifications?
+[[ANSWER: SC-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for negotiating and renewing offtake agreements?
+[[ANSWER: SC-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there risks of buyer concentration or dependency, and how are these mitigated?
+[[ANSWER: SC-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business monitor market prices and adjust sales strategies accordingly?
+[[ANSWER: SC-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there opportunities for direct integration with processors or brand owners seeking recycled content?
+[[ANSWER: SC-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for handling rejected or downgraded materials?
+[[ANSWER: SC-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure traceability and transparency in the supply chain, especially for ESG reporting?
+[[ANSWER: SC-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/_archive_reference_only/ops_playbooks/processor_mou_template.md
+See: INVESTOR_QA_151225.md (SC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Stable offtake agreements are essential for predictable cash flow. Quality control and traceability are increasingly important as brands and regulators demand higher standards for recycled content.
+
+Technology and Processing Methods
+What technologies are used for sorting, cleaning, and processing collected bottles (e.g., manual sorting, mechanical separation, AI-powered smart bins)?
+[[ANSWER: TP-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-01)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there proprietary or patented technologies in use, and what are their advantages?
+[[ANSWER: TP-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How is contamination detected and managed at each stage of processing?
+[[ANSWER: TP-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the capacity and utilization rate of processing equipment, and how scalable is the system?
+[[ANSWER: TP-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business monitor and optimize energy and water usage in processing?
+[[ANSWER: TP-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-05)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there plans to invest in advanced recycling technologies (e.g., chemical recycling, blockchain tracking)?
+[[ANSWER: TP-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business stay abreast of technological innovations in the recycling sector?
+[[ANSWER: TP-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the maintenance and upgrade requirements for key equipment?
+[[ANSWER: TP-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+See: INVESTOR_QA_151225.md (TP-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How is technology used to track and report environmental impact (e.g., carbon footprint, plastic credits)?
+[[ANSWER: TP-09]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pitch_deck.md; metrics_dashboard.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (TP-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with technology providers or research institutions?
+[[ANSWER: TR-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-08)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Technology is a key differentiator in modern recycling, enabling higher recovery rates, better quality, and improved reporting. However, capital costs and maintenance requirements must be carefully managed.
+
+Team and Founders Background
+Who are the founders and key management team members, and what are their backgrounds in recycling, logistics, technology, or business development?
+[[ANSWER: TF-01]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the track record of the team in launching and scaling similar ventures?
+[[ANSWER: TF-02]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How is the team structured, and what are the roles and responsibilities of each member?
+[[ANSWER: TF-03]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s approach to recruiting, training, and retaining talent at all levels?
+[[ANSWER: TF-04]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any gaps in the team’s expertise, and how are these being addressed?
+[[ANSWER: TF-05]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the composition and experience of the board of directors and advisory board?
+[[ANSWER: TF-06]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any conflicts of interest or related-party transactions involving the founders or key staff?
+[[ANSWER: TF-07]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company culture, and how is it aligned with the mission and operational demands of the business?
+[[ANSWER: TF-08]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the team engage with stakeholders (e.g., residents, local authorities, partners)?
+[[ANSWER: TF-09]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What succession planning is in place for key roles?
+[[ANSWER: TF-10]]
+Status: MISSING
+Summary: Team bios/track record and governance specifics are not yet fully detailed in the pack (pitch deck only lists role archetypes).
+Evidence (internal): outreach_kit/pitch_deck.md; governance.md
+Gaps/Next: Add founder bios, roles/RACI, advisory board, conflicts disclosures, and vesting details; include evidence (CVs/refs) in data room.
+See: INVESTOR_QA_151225.md (TF-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: A strong, experienced team is essential for navigating the complexities of the Thai recycling sector. Investors should look for demonstrated expertise, operational discipline, and a culture of transparency and accountability.
+
+Labor, Informal Sector, and Community Integration
+How does the business interact with the informal sector (e.g., saleng, waste pickers), and what is the impact on collection volumes and community relations?
+[[ANSWER: LI-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-01)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships or agreements with informal collectors, and how are these structured?
+[[ANSWER: LI-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s policy on fair wages, working conditions, and social protection for workers?
+[[ANSWER: LI-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business address potential conflicts or competition with informal collectors?
+[[ANSWER: LI-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there community engagement programs to build trust and encourage participation in recycling?
+[[ANSWER: LI-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business measure and report on social impact (e.g., job creation, income improvement for informal workers)?
+[[ANSWER: LI-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the approach to integrating marginalized or vulnerable groups into the workforce?
+[[ANSWER: LI-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business handle labor disputes, turnover, or shortages?
+[[ANSWER: LI-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-08)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with NGOs, local associations, or government agencies to support labor integration?
+[[ANSWER: LI-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s approach to health and safety, especially for workers handling potentially hazardous materials?
+[[ANSWER: LI-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; appendices/research_briefs/wages/20251024_Wage_Benchmarks.md
+See: INVESTOR_QA_151225.md (LI-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: The informal sector is a cornerstone of Thailand’s recycling ecosystem, responsible for a significant share of collection and sorting. Successful startups often collaborate with, rather than compete against, informal workers, offering fair compensation and improved working conditions.
+
+Environmental Impact and Measurement
+What is the estimated environmental impact of the business (e.g., tons of plastic diverted from landfill, CO2 emissions avoided)?
+[[ANSWER: EI-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How is environmental performance measured, tracked, and reported (e.g., life cycle assessment, carbon footprint analysis)?
+[[ANSWER: EI-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What certifications or standards does the business adhere to (e.g., ISO 15270:2008, carbon credit schemes)?
+[[ANSWER: EI-03]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (EI-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure proper handling and disposal of non-recyclable or contaminated materials?
+[[ANSWER: EI-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there initiatives to reduce the environmental footprint of operations (e.g., fuel-efficient vehicles, renewable energy, water recycling)?
+[[ANSWER: EI-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business communicate environmental impact to customers, partners, and regulators?
+[[ANSWER: EI-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with academic or research institutions to validate impact claims?
+[[ANSWER: EI-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to scale its environmental impact as it grows?
+[[ANSWER: EI-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the risks of greenwashing, and how are these mitigated?
+[[ANSWER: EI-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business contribute to broader environmental goals (e.g., Thailand’s BCG strategy, zero plastic waste targets)?
+[[ANSWER: EI-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md
+See: INVESTOR_QA_151225.md (EI-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Environmental impact is both a core mission and a key selling point for recycling startups. Rigorous measurement and transparent reporting are increasingly demanded by customers, regulators, and investors.
+
+Scalability and Expansion Plan
+What is the roadmap for scaling operations within Bangkok and to other cities or building types?
+[[ANSWER: SE-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the key operational, regulatory, and financial milestones for expansion?
+[[ANSWER: SE-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to replicate its model in new markets (e.g., standard operating procedures, technology transfer, local partnerships)?
+[[ANSWER: SE-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main constraints to scaling (e.g., capital, labor, regulatory approvals, customer acquisition)?
+[[ANSWER: SE-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to manage quality and consistency as it grows?
+[[ANSWER: SE-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the projected timeline for reaching key scale targets (e.g., number of buildings, tons collected, revenue milestones)?
+[[ANSWER: SE-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there plans for vertical integration (e.g., owning processing facilities, developing branded recycled products)?
+[[ANSWER: SE-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to adapt to changing market conditions or regulatory environments in new locations?
+[[ANSWER: SE-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the approach to managing risk and uncertainty during rapid growth?
+[[ANSWER: SE-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark its scalability against leading players in Thailand and the region?
+[[ANSWER: SE-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): executive_summary.md; operations_plan.md; financials/model_inputs.json
+See: INVESTOR_QA_151225.md (SE-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Scalability is a major challenge in recycling, given the logistical, regulatory, and community-specific complexities of each new market. A clear, realistic expansion plan is essential for investor confidence.
+
+Operational Risks and Contingency Planning
+What are the main operational risks facing the business (e.g., equipment failure, labor shortages, supply chain disruptions, regulatory changes)?
+[[ANSWER: OR-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What contingency plans are in place for each major risk?
+[[ANSWER: OR-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business monitor and respond to emerging risks (e.g., market downturns, commodity price shocks, pandemics)?
+[[ANSWER: OR-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What insurance coverage is in place for key assets, liabilities, and business interruptions?
+[[ANSWER: OR-04]]
+Status: ASSUMPTION_VALIDATE
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (OR-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure business continuity in the event of natural disasters, political unrest, or other external shocks?
+[[ANSWER: OR-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for incident reporting, investigation, and corrective action?
+[[ANSWER: OR-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How are risks communicated to stakeholders, including investors, customers, and employees?
+[[ANSWER: OR-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in managing past crises or disruptions?
+[[ANSWER: OR-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-08)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there regular risk assessments and scenario planning exercises?
+[[ANSWER: OR-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business balance risk mitigation with the need for innovation and growth?
+[[ANSWER: OR-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): risk_register.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (OR-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Operational resilience is critical in a sector prone to shocks and disruptions. Investors should look for evidence of proactive risk management and contingency planning.
+
+Financials, Projections, and Use of Funds
+What are the detailed financial projections for the next 3–5 years, including revenue, costs, margins, and cash flow?
+[[ANSWER: FP-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the key assumptions underlying these projections, and how are they validated?
+[[ANSWER: FP-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How will the $1–2 million investment be allocated (e.g., equipment, working capital, marketing, technology, hiring)?
+[[ANSWER: FP-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the expected runway provided by the investment, and what are the milestones for subsequent funding rounds?
+[[ANSWER: FP-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How are capital expenditures prioritized and managed?
+[[ANSWER: FP-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s approach to financial discipline and cost control?
+[[ANSWER: FP-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there audited financial statements or third-party reviews of financial data?
+[[ANSWER: FP-07]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (FP-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the current burn rate, and how does this compare to industry benchmarks?
+[[ANSWER: FP-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main financial risks, and how are they mitigated?
+[[ANSWER: FP-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company plan to achieve profitability and positive cash flow, and on what timeline?
+[[ANSWER: FP-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; financials/projections.json; financials/cashflow.json; financials/waterfall.json
+See: INVESTOR_QA_151225.md (FP-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Transparent, realistic financial planning is essential for investor trust. Detailed use-of-funds plans and clear milestones for future funding are critical for managing dilution and ensuring capital efficiency.
+
+Capital Requirements and Cap Table
+What is the current capitalization table, including all shareholders, option pools, and convertible instruments?
+[[ANSWER: CC-01]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How will the new investment affect ownership structure and dilution for existing and new investors?
+[[ANSWER: CC-02]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the terms of the proposed investment (e.g., valuation, preferred shares, liquidation preferences, anti-dilution provisions)?
+[[ANSWER: CC-03]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any outstanding convertible notes, SAFEs, or warrants that could affect future dilution?
+[[ANSWER: CC-04]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s approach to managing dilution and aligning incentives for founders, employees, and investors?
+[[ANSWER: CC-05]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How is the option pool structured, and what is the plan for future employee equity grants?
+[[ANSWER: CC-06]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any restrictions on foreign ownership or transfer of shares under Thai law or company bylaws?
+[[ANSWER: CC-07]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How is the cap table managed and updated, and who has access to this information?
+[[ANSWER: CC-08]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the exit rights and obligations for investors (e.g., drag-along, tag-along, ROFR)?
+[[ANSWER: CC-09]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the cap table compare to industry norms for similar-stage startups?
+[[ANSWER: CC-10]]
+Status: MISSING
+Summary: Cap table and instrument-level dilution details are not yet present in the pack.
+Evidence (internal): investor_relations.md; governance.md
+Gaps/Next: Add cap table, option pool policy, and draft term sheet (or chosen structure).
+See: INVESTOR_QA_151225.md (CC-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: A clean, transparent cap table is essential for attracting and retaining investors, employees, and partners. Early-stage dilution, option pool sizing, and alignment of interests are key considerations.
+
+Exit Strategy and Liquidity Options
+What are the potential exit scenarios for investors (e.g., acquisition, IPO, secondary sale, founder buyback, liquidation)?
+[[ANSWER: EX-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the expected timeline for exit, and what milestones must be achieved to enable a successful exit?
+[[ANSWER: EX-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-02)
+[[/ANSWER]]
+
+
+
+
+
+
+Who are the likely acquirers or strategic partners (e.g., large recycling firms, FMCG brands, infrastructure funds)?
+[[ANSWER: EX-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record or relationships with potential acquirers?
+[[ANSWER: EX-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to maximize valuation at exit (e.g., scale, profitability, strategic partnerships)?
+[[ANSWER: EX-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the legal and tax implications of different exit scenarios for foreign investors?
+[[ANSWER: EX-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any restrictions on share transfers or exit under Thai law or company bylaws?
+[[ANSWER: EX-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for preparing the company for exit (e.g., financial audits, legal due diligence, operational readiness)?
+[[ANSWER: EX-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How are exit rights structured in the investment agreement (e.g., drag-along, tag-along, put options)?
+[[ANSWER: EX-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What lessons can be learned from recent exits in the Thai recycling sector, and how does the company benchmark against these precedents?
+[[ANSWER: EX-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md
+See: INVESTOR_QA_151225.md (EX-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Exit strategy is a critical consideration for angel investors. The Thai recycling sector has seen successful M&A activity, but liquidity can be limited. Clear planning and alignment of interests are essential for maximizing returns.
+
+Legal Structure, Contracts, and Intellectual Property
+What is the legal structure of the company (e.g., Thai limited company, BOI-promoted entity, joint venture), and how does this affect ownership, control, and liability?
+[[ANSWER: LC-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+Are all key contracts (e.g., customer agreements, supplier contracts, employment agreements, leases) in place and legally enforceable?
+[[ANSWER: LC-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the status of intellectual property (e.g., patents, trademarks, proprietary technology), and how is it protected?
+[[ANSWER: LC-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any pending or threatened legal disputes involving the company or its founders?
+[[ANSWER: LC-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company ensure compliance with Thai contract law, labor law, and other relevant statutes?
+[[ANSWER: LC-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there standard templates for key contracts, and how are these reviewed and updated?
+[[ANSWER: LC-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company manage confidentiality, data protection, and non-compete agreements?
+[[ANSWER: LC-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any restrictions on foreign ownership or control under Thai law, and how are these addressed in the legal structure?
+[[ANSWER: LC-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for resolving disputes with customers, suppliers, or employees?
+[[ANSWER: LC-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company ensure legal compliance as it expands into new markets or business lines?
+[[ANSWER: LC-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; outreach_kit/service_agreement_12m.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (LC-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Legal structure and contract management are foundational to risk mitigation and operational stability. Intellectual property can be a key differentiator, especially for tech-enabled recycling startups.
+
+Insurance, Liability, and Compliance
+What insurance coverage is in place for key risks (e.g., property, liability, business interruption, environmental liability)?
+[[ANSWER: IC-01]]
+Status: ASSUMPTION_VALIDATE
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (IC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are insurance policies reviewed and updated as the business grows?
+[[ANSWER: IC-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main liability risks (e.g., worker injury, environmental contamination, contract disputes), and how are these managed?
+[[ANSWER: IC-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company ensure compliance with health and safety regulations for workers and customers?
+[[ANSWER: IC-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there regular audits or inspections to ensure compliance with insurance and regulatory requirements?
+[[ANSWER: IC-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for reporting and managing incidents or claims?
+[[ANSWER: IC-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company manage compliance with data protection and privacy laws, especially for customer and employee data?
+[[ANSWER: IC-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any recent or pending insurance claims or regulatory actions?
+[[ANSWER: IC-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company benchmark its compliance practices against industry standards?
+[[ANSWER: IC-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for updating compliance policies in response to regulatory changes?
+[[ANSWER: IC-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): legal_compliance.md; operations_plan.md; outreach_kit/pilot_SLA.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (IC-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Comprehensive insurance and compliance programs are essential for protecting assets, managing risk, and maintaining investor confidence.
+
+Pricing, Incentives, and Customer Acquisition
+How are service fees and material prices set for condominium customers and recycling buyers?
+[[ANSWER: PC-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+What incentives are offered to residents, building managers, or staff to encourage participation in recycling programs?
+[[ANSWER: PC-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business acquire new condominium customers, and what is the typical sales cycle?
+[[ANSWER: PC-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What marketing and outreach strategies are used to build brand awareness and trust?
+[[ANSWER: PC-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company measure and optimize customer acquisition cost (CAC) and lifetime value (LTV)?
+[[ANSWER: PC-05]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (PC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there referral or loyalty programs to encourage customer retention and word-of-mouth growth?
+[[ANSWER: PC-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business adapt pricing and incentives in response to market changes or competitor actions?
+[[ANSWER: PC-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for onboarding new customers and ensuring high participation rates?
+[[ANSWER: PC-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How are customer feedback and complaints managed and used to improve services?
+[[ANSWER: PC-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): investor_relations.md; outreach_kit/ESG_sales_talking_points.md; outreach_kit/service_agreement_12m.md
+See: INVESTOR_QA_151225.md (PC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in winning and retaining key accounts?
+[[ANSWER: CA-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-09)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Effective pricing and incentive strategies are critical for driving participation and building long-term customer relationships. Gamification, rewards, and transparent communication can differentiate the business in a crowded market.
+
+Partnerships with Local Authorities and LAOs
+What relationships exist with the Bangkok Metropolitan Administration (BMA), local administrative organizations (LAOs), and other government bodies?
+[[ANSWER: PA-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-01)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there formal partnerships or MOUs in place, and what are their terms?
+[[ANSWER: PA-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-02)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business navigate the regulatory and political landscape at the local level?
+[[ANSWER: PA-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for securing permits, approvals, or support from local authorities?
+[[ANSWER: PA-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company engage with community leaders, residents’ associations, and other stakeholders?
+[[ANSWER: PA-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-05)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there risks of policy changes, political shifts, or regulatory crackdowns affecting operations?
+[[ANSWER: PA-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business contribute to local government goals (e.g., waste reduction targets, community development)?
+[[ANSWER: PA-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for resolving disputes or challenges with local authorities?
+[[ANSWER: PA-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-08)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there opportunities for public-private partnerships or joint ventures with government agencies?
+[[ANSWER: PA-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business monitor and adapt to changes in local policy or leadership?
+[[ANSWER: PA-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; legal_compliance.md; evidence/bma/
+See: INVESTOR_QA_151225.md (PA-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Strong relationships with local authorities are essential for navigating regulatory hurdles, securing contracts, and building community trust. Political risk and policy shifts must be carefully managed.
+
+Quality Control and Contamination Management
+What processes are in place to ensure the quality and purity of collected materials?
+[[ANSWER: QC-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How is contamination detected, tracked, and minimized at each stage of collection and processing?
+[[ANSWER: QC-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What training is provided to staff and residents to reduce contamination?
+[[ANSWER: QC-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How are contaminated or non-recyclable materials handled and disposed of?
+[[ANSWER: QC-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the financial and operational impacts of contamination on margins and offtake agreements?
+[[ANSWER: QC-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark its quality control processes against industry standards?
+[[ANSWER: QC-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there regular audits or inspections of collection and processing sites?
+[[ANSWER: QC-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How is feedback from buyers or processors used to improve quality?
+[[ANSWER: QC-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for investigating and resolving quality issues?
+[[ANSWER: QC-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company plan to improve quality control as it scales?
+[[ANSWER: QC-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (QC-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Contamination is a major challenge in recycling, affecting both revenue and reputation. Rigorous quality control and continuous improvement are essential for meeting buyer specifications and maintaining profitability.
+
+Logistics: Transport, Storage, and Transfer Stations
+What is the fleet size and composition for collection and transport, and how is it managed?
+[[ANSWER: LG-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are routes planned and optimized for efficiency and cost savings?
+[[ANSWER: LG-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What storage facilities are used, and how are they secured and maintained?
+[[ANSWER: LG-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How are transfer stations managed to prevent theft, contamination, or regulatory violations?
+[[ANSWER: LG-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for scaling logistics capacity as the business grows?
+[[ANSWER: LG-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How are logistics costs tracked and controlled?
+[[ANSWER: LG-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s approach to fleet maintenance, replacement, and upgrade?
+[[ANSWER: LG-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-07)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with third-party logistics providers or local transport companies?
+[[ANSWER: LG-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure compliance with transport and storage regulations?
+[[ANSWER: LG-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What contingency plans are in place for logistics disruptions (e.g., vehicle breakdowns, road closures, labor strikes)?
+[[ANSWER: LG-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; audits/vehicle_specs_comparison.md
+See: INVESTOR_QA_151225.md (LG-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Efficient logistics are critical for profitability and scalability. Investors should look for evidence of data-driven route planning, cost control, and contingency planning.
+
+Market Trends and Forecasts for Thailand Plastics
+What are the key trends in plastic consumption, waste generation, and recycling rates in Thailand and Bangkok?
+[[ANSWER: MT-01]]
+Status: SOURCED_INTERNAL
+Summary: Benchmarks added: Thailand-scale plastic waste and recycling baseline from US-ASEAN report (see `evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf`) and Bangkok city supply-chain benchmark from Circulate (see `evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf`). Policy trend benchmark: Thailand EPR progress / timeline is summarized by ERIA (see `evidence/policy/20251215_eria_thailand_epr_legal_framework.html`).
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are government policies (e.g., plastic bag bans, EPR laws, BCG strategy) shaping the market?
+[[ANSWER: MT-02]]
+Status: SOURCED_INTERNAL
+Summary: Benchmarks added: Thailand-scale plastic waste and recycling baseline from US-ASEAN report (see `evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf`) and Bangkok city supply-chain benchmark from Circulate (see `evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf`). Policy trend benchmark: Thailand EPR progress / timeline is summarized by ERIA (see `evidence/policy/20251215_eria_thailand_epr_legal_framework.html`).
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the outlook for PET prices, demand for recycled content, and export opportunities?
+[[ANSWER: MT-03]]
+Status: SOURCED_INTERNAL
+Summary: Benchmarks added: Thailand-scale plastic waste and recycling baseline from US-ASEAN report (see `evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf`) and Bangkok city supply-chain benchmark from Circulate (see `evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf`). Policy trend benchmark: Thailand EPR progress / timeline is summarized by ERIA (see `evidence/policy/20251215_eria_thailand_epr_legal_framework.html`).
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How are consumer attitudes toward recycling and sustainability evolving?
+[[ANSWER: MT-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main risks and opportunities in the Thai plastics market over the next 5–10 years?
+[[ANSWER: MT-05]]
+Status: BENCHMARK_EXTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (MT-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark its forecasts against industry data and expert analysis?
+[[ANSWER: MT-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the implications of global trends (e.g., plastic waste import bans, ESG investing) for the business?
+[[ANSWER: MT-07]]
+Status: SOURCED_INTERNAL
+Summary: Benchmarks added: Thailand-scale plastic waste and recycling baseline from US-ASEAN report (see `evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf`) and Bangkok city supply-chain benchmark from Circulate (see `evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf`). Policy trend benchmark: Thailand EPR progress / timeline is summarized by ERIA (see `evidence/policy/20251215_eria_thailand_epr_legal_framework.html`).
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company plan to adapt to changing market conditions?
+[[ANSWER: MT-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for monitoring and responding to market shifts?
+[[ANSWER: MT-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business leverage market trends to drive growth and innovation?
+[[ANSWER: MT-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): market_analysis.md; appendices/research_briefs/; evidence/market/20251215_usasean_plastics_biannual_report_2023.pdf; evidence/market/20251215_circulate_th_selected_cities_plastic_recycling_supply_chains.pdf; evidence/policy/20251215_eria_thailand_epr_legal_framework.html
+See: INVESTOR_QA_151225.md (MT-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: The Thai plastics market is in flux, with rising demand for recycled content, evolving regulations, and shifting consumer preferences. Staying ahead of trends is essential for long-term success.
+
+Customer Contracts and Condominium Agreements
+What is the standard contract structure with condominium customers (e.g., exclusivity, service levels, pricing, duration)?
+[[ANSWER: CA-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are contracts negotiated, renewed, and enforced?
+[[ANSWER: CA-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main reasons for contract termination or non-renewal, and how are these addressed?
+[[ANSWER: CA-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure compliance with contract terms and service level agreements?
+[[ANSWER: CA-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there any disputes or legal actions involving customer contracts?
+[[ANSWER: CA-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company manage customer onboarding, training, and support?
+[[ANSWER: CA-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for handling customer complaints or service issues?
+[[ANSWER: CA-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How are contract terms adapted for different customer segments (e.g., luxury vs. budget condominiums)?
+[[ANSWER: CA-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in winning and retaining key accounts?
+[[ANSWER: CA-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark its contract terms against industry standards?
+[[ANSWER: CA-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/service_agreement_12m.md; outreach_kit/pilot_SLA.md
+See: INVESTOR_QA_151225.md (CA-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Strong, enforceable contracts are essential for predictable revenue and customer retention. Investors should review sample agreements and assess the company’s contract management processes.
+
+Community Engagement and Behavior Change
+What programs are in place to educate and engage residents, building managers, and staff in recycling?
+[[ANSWER: CE-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business measure and report on participation rates and behavior change?
+[[ANSWER: CE-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-02)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with schools, NGOs, or community groups to promote recycling?
+[[ANSWER: CE-03]]
+Status: ASSUMPTION_VALIDATE
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (CE-03)
+[[/ANSWER]]
+
+
+
+
+
+
+What incentives or rewards are offered to encourage participation?
+[[ANSWER: CE-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company address cultural or behavioral barriers to recycling?
+[[ANSWER: CE-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for gathering and acting on community feedback?
+[[ANSWER: CE-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How are success stories and impact communicated to stakeholders?
+[[ANSWER: CE-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in driving sustained behavior change?
+[[ANSWER: CE-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to scale community engagement as it grows?
+[[ANSWER: CE-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What lessons have been learned from past engagement efforts, and how are these applied to future programs?
+[[ANSWER: CE-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): outreach_kit/pilot_SLA.md; outreach_kit/ESG_sales_talking_points.md
+See: INVESTOR_QA_151225.md (CE-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Behavior change is a major challenge in recycling, especially in high-density urban environments. Effective engagement, education, and incentives are key to driving participation and impact.
+
+Technology for Tracking and Reporting
+What systems are in place for tracking collection volumes, contamination rates, and operational performance?
+[[ANSWER: TR-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How is data collected, stored, and analyzed, and who has access to it?
+[[ANSWER: TR-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What reporting tools are used for internal management, customer communication, and regulatory compliance?
+[[ANSWER: TR-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business ensure data accuracy, security, and privacy?
+[[ANSWER: TR-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there opportunities to monetize data (e.g., ESG reporting, plastic credits, customer dashboards)?
+[[ANSWER: TR-05]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (TR-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How is technology used to support decision-making and continuous improvement?
+[[ANSWER: TR-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for integrating new technologies or upgrading existing systems?
+[[ANSWER: TR-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-07)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with technology providers or research institutions?
+[[ANSWER: TR-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company benchmark its technology stack against industry leaders?
+[[ANSWER: TR-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the plan for scaling technology infrastructure as the business grows?
+[[ANSWER: TR-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): operations_plan.md; metrics_dashboard.md; pdpa/PDPA_Compliance_Policy.md
+See: INVESTOR_QA_151225.md (TR-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Data-driven management is increasingly important in recycling, enabling better decision-making, impact reporting, and customer engagement. Robust systems and processes are essential for scalability and transparency.
+
+Capital Efficiency and Unit Scaling
+What is the capital required to launch and scale a new collection route or building?
+[[ANSWER: CU-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business optimize capital allocation for maximum impact and ROI?
+[[ANSWER: CU-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for evaluating and prioritizing new investments (e.g., vehicles, equipment, technology)?
+[[ANSWER: CU-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company benchmark its capital efficiency against industry norms?
+[[ANSWER: CU-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-04)
+[[/ANSWER]]
+
+
+
+
+
+
+What are the main constraints to scaling (e.g., capital, labor, regulatory approvals), and how are these addressed?
+[[ANSWER: CU-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the expected payback period for key investments?
+[[ANSWER: CU-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-06)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business plan to improve capital efficiency as it grows?
+[[ANSWER: CU-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-07)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for monitoring and managing capital expenditures?
+[[ANSWER: CU-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-08)
+[[/ANSWER]]
+
+
+
+
+
+
+How are capital requirements modeled in financial projections?
+[[ANSWER: CU-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-09)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in managing capital efficiently?
+[[ANSWER: CU-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): financials/model_inputs.json; financials/sensitivity_analysis.md; audits/viability_check.md
+See: INVESTOR_QA_151225.md (CU-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Capital efficiency is critical for early-stage startups, especially in asset-intensive sectors like recycling. Investors should scrutinize capital allocation, payback periods, and scaling strategies.
+
+Due Diligence on Suppliers and Equipment
+Who are the main suppliers of equipment, vehicles, and materials, and what are the terms of supply agreements?
+[[ANSWER: DS-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How are suppliers selected, evaluated, and managed?
+[[ANSWER: DS-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for vetting new suppliers or equipment vendors?
+[[ANSWER: DS-03]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-03)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there risks of supply chain disruption, and how are these mitigated?
+[[ANSWER: DS-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-04)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company ensure quality, reliability, and compliance from suppliers?
+[[ANSWER: DS-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-05)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for negotiating and renewing supply contracts?
+[[ANSWER: DS-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-06)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there opportunities for strategic partnerships or joint ventures with suppliers?
+[[ANSWER: DS-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark supplier performance against industry standards?
+[[ANSWER: DS-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for handling supplier disputes or failures?
+[[ANSWER: DS-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company plan to scale supplier relationships as it grows?
+[[ANSWER: DS-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): audits/vehicle_specs_comparison.md; appendices/research_briefs/facility/20251024_Broker_Facility_Quotes_RFI.md; appendices/research_briefs/facility/20251025_Facility_Rent_Reality_Brief.md
+See: INVESTOR_QA_151225.md (DS-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Reliable suppliers and equipment are essential for operational stability and scalability. Investors should review supplier contracts, performance metrics, and contingency plans.
+
+Social Impact and ESG Metrics
+What are the key social impact metrics tracked by the business (e.g., jobs created, income improvement for informal workers, community engagement)?
+[[ANSWER: ESG-01]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-01)
+[[/ANSWER]]
+
+
+
+
+
+
+How is impact measured, validated, and reported to stakeholders?
+[[ANSWER: ESG-02]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-02)
+[[/ANSWER]]
+
+
+
+
+
+
+What certifications or standards does the business adhere to (e.g., B Corp, ISO, GRI)?
+[[ANSWER: ESG-03]]
+Status: MISSING
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+Gaps/Next: If this item requires quantified benchmarks or third-party validation, mark as a gap and close via pilot evidence / quotes / regulator confirmation.
+See: INVESTOR_QA_151225.md (ESG-03)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the company align its operations with ESG (Environmental, Social, Governance) best practices?
+[[ANSWER: ESG-04]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-04)
+[[/ANSWER]]
+
+
+
+
+
+
+Are there partnerships with NGOs, government agencies, or academic institutions to support impact measurement?
+[[ANSWER: ESG-05]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-05)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business communicate impact to customers, partners, and investors?
+[[ANSWER: ESG-06]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-06)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the process for continuous improvement in social and environmental performance?
+[[ANSWER: ESG-07]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-07)
+[[/ANSWER]]
+
+
+
+
+
+
+How are impact metrics integrated into management decision-making?
+[[ANSWER: ESG-08]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-08)
+[[/ANSWER]]
+
+
+
+
+
+
+What is the company’s track record in delivering and scaling social impact?
+[[ANSWER: ESG-09]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-09)
+[[/ANSWER]]
+
+
+
+
+
+
+How does the business benchmark its impact against industry leaders?
+[[ANSWER: ESG-10]]
+Status: SOURCED_INTERNAL
+Summary: Covered (or partially covered) in the internal data room; see the referenced internal sources for the current position.
+Evidence (internal): metrics_dashboard.md; operations_plan.md; governance.md
+See: INVESTOR_QA_151225.md (ESG-10)
+[[/ANSWER]]
+
+
+
+
+
+
+Analysis: Social impact and ESG performance are increasingly important for investors, customers, and regulators. Rigorous measurement, transparent reporting, and continuous improvement are essential for credibility and long-term success.
+
+Conclusion
+Investing in a Bangkok-based recycling startup focused on condominium plastic bottle collection offers the potential for significant financial, environmental, and social returns. However, the sector’s complexity and volatility demand rigorous, multi-dimensional due diligence. The questions outlined in this report provide a comprehensive framework for assessing the business’s market opportunity, operational viability, regulatory compliance, financial health, scalability, and impact.
+
+By systematically addressing each area—and demanding detailed, evidence-based answers from the founders—an angel investor can make an informed, confident investment decision that aligns with both financial goals and broader sustainability objectives.
