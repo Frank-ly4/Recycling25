@@ -10,6 +10,8 @@ Each evidence item should be referenced from `evidence_register.json` with:
 - `excerpt`
 - `retrieved_at`
 
+Canonical workflow: See `business_plan_rebuild/EVIDENCE_WORKFLOW.md`.
+
 ## Naming Convention
 - `YYYYMMDD_source_topic_shorttitle.pdf`
 - `YYYYMMDD_source_topic_shorttitle.png`

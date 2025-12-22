@@ -3,6 +3,7 @@
 **Objective:** Achieve ≥60,000 THB/month profit via fee-based recycling services for Bangkok condominiums.
 
 **Investor navigation:** See `DATA_ROOM_INDEX.md` for the recommended reading order and diligence map.
+**Evidence workflow (how we close gaps):** See `EVIDENCE_WORKFLOW.md` (this is the canonical rulebook for sourcing, archiving, and updating claims).
 
 ## Status: GAP-MITIGATED (Ready for Pilot)
 *   **Legal Solved:** License delay mitigated via **Siam Rajathanee Fleet Lease**.

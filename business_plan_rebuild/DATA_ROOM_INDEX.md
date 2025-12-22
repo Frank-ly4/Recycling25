@@ -43,6 +43,7 @@
 
 ## 2. Evidence & Diligence Trail
 - **Evidence folder**: `evidence/` (source PDFs, screenshots, quotes)
+- **Evidence workflow (canonical):** `EVIDENCE_WORKFLOW.md` (how to source, archive, and update claims)
 - **Audit memos** (internal): `audits/`
   - `audits/INVESTOR_QA_CHECKLIST.md` **(Start Here for Due Diligence Defense)**
   - `audits/INVESTOR_QA_MATRIX_151225.md` (question → evidence matrix)
