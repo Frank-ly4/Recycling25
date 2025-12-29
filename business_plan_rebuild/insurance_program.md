@@ -28,3 +28,6 @@
 ## 4. Evidence required (to close as investor-grade)
 - Broker quote(s) + bound policy schedule(s) archived under `business_plan_rebuild/evidence/insurance/`.
 - One-page mapping from top operational risks (see `risk_register.md`) to coverage.
+
+## 5. Broker RFI template (to obtain quotes)
+- Use: `audits/templates/INSURANCE_BROKER_RFI_TEMPLATE.md`

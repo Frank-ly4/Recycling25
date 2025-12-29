@@ -28,6 +28,10 @@ During Months 1–6 (or until our own operator licensing is confirmed), run tran
 #### 1.2.2 Close the remaining classification risk (CLAIM-DLT-YELLOW-001)
 We will obtain **explicit written guidance/confirmation** from the relevant DLT office for our exact service model (“recyclables pickup + service fee + chain-of-custody reporting”), and store the response in `evidence/` to close this claim.
 
+**Template to request written guidance:** `audits/templates/DLT_WRITTEN_QUERY_TEMPLATE.md`
+
+**Template to document district permit filings (if no online guidance):** `audits/templates/BMA_DISTRICT_PERMIT_FIELD_MEMO_TEMPLATE.md`
+
 ### 1.3. Factory Act (Department of Industrial Works)
 *   **Threshold:** Machinery < 50 HP and < 50 workers.
 *   **Plan:** Keep sorting facility below these thresholds to avoid full Factory License (Ror.Ngor.4) requirements.

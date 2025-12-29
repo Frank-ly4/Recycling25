@@ -42,3 +42,6 @@
 ## 7. Close criteria
 - Replace TBDs with real names and 4–8 bullet bios each.
 - Add links to public profiles or attach CV PDFs to `business_plan_rebuild/evidence/team/`.
+
+## 8. Intake form (to fill bios quickly)
+- Use: `audits/templates/TEAM_BIO_INTAKE_FORM.md`
