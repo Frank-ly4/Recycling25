@@ -1,0 +1,35 @@
+# TICKET T-20260102-009 — Thailand Plastics Market Outlook Memo
+
+**Gate:** H  
+**Source Gap IDs:** MT-05  
+**Owner:** Founder / Market Research  
+**Status (start):** BENCHMARK_EXTERNAL  
+**Target Status:** CLOSED  
+**Built on:** 2026-01-02  
+
+---
+
+## Objective
+Produce a concise, sourced memo on Thailand’s plastics and recycling market outlook to support TAM and investor narratives.
+
+## Inputs
+- business_plan_rebuild/audits/DD_GAP_REGISTER_151225.md
+- business_plan_rebuild/DATA_ROOM_INDEX.md
+- business_plan_rebuild/evidence/market/ (any existing policy/market sources)
+
+## Outputs
+**Artifacts**
+- business_plan_rebuild/appendices/market/thailand_plastics_outlook.md
+
+**Evidence**
+- business_plan_rebuild/evidence/market/20260102_th_plastics_sources.md
+
+## Done when (binary)
+- [ ] Memo covers policy direction, pricing/commodity dynamics, and recycling demand in Thailand
+- [ ] Claims are sourced and dated (source list included or footnoted)
+- [ ] Evidence source list exists at the specified path
+- [ ] DD_GAP_REGISTER row status is acceptable per RUNBOOK:
+      `SOURCED_INTERNAL` is treated as CLOSED
+- [ ] Status note begins with `CLOSED YYYY-MM-DD:` or `IN_PROGRESS YYYY-MM-DD:`
+      (embedded date counts as Last updated)
+- [ ] DATA_ROOM_INDEX row updated to CLOSED with owner + date

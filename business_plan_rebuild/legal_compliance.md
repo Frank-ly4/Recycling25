@@ -83,7 +83,119 @@ We will obtain **explicit written guidance/confirmation** from the relevant DLT 
 - **Retention**:
     - Keep tax/accounting records per statutory requirements; purge operational photos/logs when no longer needed for SLA/audit/claims.
 
-## 6. Risk of Non-Compliance
+## 6. Foreign Ownership Restrictions
+
+### 6.1 Foreign Business Act (FBA) — Service Business Classification
+**Authority:** Foreign Business Act B.E. 2542 (1999), List 3 — Service Businesses Reserved for Thai Nationals
+
+**Restriction:** Service businesses (including waste collection, environmental services, consulting) require **≥51% Thai ownership** unless exempted.
+
+**Our situation:**
+- **Business model:** B2B recyclables collection service (service fee charged to condos)
+- **Classification:** Falls under List 3 service restrictions
+- **Current structure:** TBD (pending shareholder register confirmation; see `cap_table.md`)
+
+### 6.2 Implications for Equity Financing
+
+#### Option 1: Thai-Majority Structure (Standard Path)
+- **Requirement:** Maintain ≥51% Thai shareholder ownership at all times
+- **Foreign investor cap:** Foreign persons/entities limited to 49% aggregate ownership
+- **Enforcement:** Ministry of Commerce can audit shareholder register; violations result in license revocation and fines
+- **Practical implication:** If raising from foreign investors, total foreign ownership (direct + indirect) cannot exceed 49%
+
+**Compliance steps:**
+1. Confirm current shareholder register shows ≥51% Thai ownership
+2. Draft SHA with explicit foreign ownership cap (49% ceiling)
+3. Include "Thai-majority maintenance" covenant in investment docs
+4. Require board approval for any transfer that would breach 51% Thai threshold
+
+#### Option 2: BOI Promotion Exemption (Foreign-Friendly Path)
+- **BOI exemption:** Companies promoted under Board of Investment (BOI) Activity 5.1 (Recycling/Waste Treatment) are **exempt from Foreign Business Act restrictions**
+- **Implication:** 100% foreign ownership permitted if BOI-promoted
+- **Trade-offs:**
+  - **Pros:** Flexibility for foreign investors; 8-year CIT exemption; work permit privileges
+  - **Cons:** Compliance burden (annual BOI reporting, activity restrictions, minimum investment thresholds)
+
+**Status:** BOI pathway decision documented in `audits/boi_decision_memo.md` (see also `legal_compliance.md` Section 7).
+
+### 6.3 Revenue-Share Structure (Avoids FBA Entirely)
+**Key insight:** Revenue-share agreements (as documented in `investor_relations.md`) are **debt-like instruments**, not equity. They do not trigger Foreign Business Act restrictions because:
+- No ownership transfer occurs
+- No voting rights granted
+- Investor is a creditor, not shareholder
+
+**Implication:** If using revenue-share as primary structure, foreign investors can participate without FBA constraint. Equity remains optional/secondary.
+
+### 6.4 Nominee/Proxy Shareholder Risk (DO NOT PURSUE)
+**Warning:** Some advisors suggest using Thai "nominee shareholders" (foreign investor funds Thai citizens to hold shares on their behalf). **This is illegal under FBA Section 36** and carries criminal penalties. We will not pursue nominee structures.
+
+### 6.5 Foreign Investor Nationality Screening
+For any prospective equity investor:
+1. Confirm investor legal domicile (Thai entity vs foreign entity)
+2. If Thai entity, confirm ultimate beneficial ownership (UBO) — if >50% foreign-owned, treated as foreign for FBA purposes
+3. Aggregate all foreign ownership (existing + proposed) to ensure <49% threshold
+
+### 6.6 Compliance Monitoring
+- **Quarterly:** Finance Lead reviews shareholder register to confirm Thai-majority compliance
+- **Pre-transfer:** Any share transfer requires board approval + Foreign Business Act compliance check
+- **Annual:** Include FBA compliance statement in annual governance review
+
+### 6.7 Link to Cap Table & Term Sheet
+- **Cap table:** `cap_table.md` must track nationality of each shareholder
+- **Term sheet:** `equity_terms_summary.md` Section 6 includes Foreign Business Act considerations
+- **SHA clauses:** Shareholder Agreement must include Thai-majority maintenance covenant (counsel-drafted)
+
+## 7. BOI Pathway Analysis
+
+### 7.1 Decision Status
+**As of 2025-12-30:** Recycling25 has decided **NOT to pursue Board of Investment (BOI) promotion at seed stage**.
+
+**Full rationale:** See `audits/boi_decision_memo.md` for complete analysis.
+
+### 7.2 BOI Activity 5.1 — Recycling and Disposal of Waste
+**Eligibility:** Recycling25's business model (collection, sorting, baling of recyclable materials) is eligible for BOI promotion under **Activity 5.1** (Category 5: Environmental Services).
+
+**Key BOI incentives:**
+- 8-year Corporate Income Tax (CIT) exemption
+- 100% foreign ownership permitted (exempt from Foreign Business Act)
+- Streamlined work permits/visas for foreign employees
+- Import duty exemption on machinery/equipment
+
+### 7.3 Why We Chose Not to Pursue BOI (Seed Stage)
+**Primary reasons:**
+1. **Net benefit modest (~1.2M THB over 8 years)** vs upfront cost + administrative burden
+2. **Foreign ownership flexibility not needed:** Revenue-share structure (primary investment vehicle) is not subject to Foreign Business Act; equity is secondary
+3. **Activity restrictions limit pivot flexibility:** BOI locks company into recycling activity; premature during pilot/validation phase
+4. **Minimum investment threshold:** Bangkok Zone 1-2 requires 1-3M THB capex; our plan (~950k) is below threshold
+5. **Founder time better spent on growth:** 30-50 hours/year BOI compliance vs customer acquisition, fundraising, operations
+
+### 7.4 Alternative: Thai-Majority Structure
+**Our approach:**
+- Maintain ≥51% Thai shareholder ownership (Foreign Business Act compliant without BOI)
+- Use revenue-share as primary investment structure (see `investor_relations.md`)
+- Offer equity as secondary option (foreign ownership capped at 49%)
+- Full operational and pivot flexibility; no BOI reporting burden
+
+### 7.5 Revisit Triggers
+We will reassess BOI promotion if:
+- **Series A raise (≥10M THB):** Tax savings become material (~400k/year at 2M profit)
+- **Foreign VC requires >49% ownership:** BOI exemption allows 100% foreign ownership
+- **Capital-intensive expansion:** If machinery imports or large facility investment planned
+- **Business model stabilizes:** Once past pilot phase with proven model (reduced pivot risk)
+
+### 7.6 Compliance Implications
+**Current structure:** Thai-majority (≥51% Thai ownership required; see Section 6 "Foreign Ownership Restrictions")
+
+**Monitoring:**
+- Quarterly cap table review to confirm Thai-majority compliance
+- Foreign investor screening (confirm <49% aggregate foreign ownership)
+- SHA includes Thai-majority maintenance covenant
+
+**Documentation:**
+- BOI decision memo: `audits/boi_decision_memo.md`
+- BOI Activity 5.1 extract: `evidence/boi/20251230_boi_activity_5_1_extract.md`
+
+## 8. Risk of Non-Compliance
 *   **BMA Fine:** Up to 50,000 THB and/or imprisonment for operating without a license.
 *   **DLT Fine:** Impounding of vehicle if used commercially without proper registration.
 *   **Contractual:** Immediate termination if insurance or permits lapse.

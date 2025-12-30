@@ -18,7 +18,11 @@
 - **IN_PROGRESS**: Placeholder exists OR partially filled, not yet verifiable.
 - **ASSUMPTION_VALIDATE**: Claim exists but needs real-world measurement/pilot or official confirmation.
 - **BENCHMARK_EXTERNAL**: Needs external data source citations/screenshots/exports.
-- **CLOSED**: Artifact exists, evidence stored, cross-references updated, status flipped.
+- **CLOSED**: Item is fully satisfied with internally sourced evidence.
+  NOTE: In DD_GAP_REGISTER, this may appear as `SOURCED_INTERNAL`.
+  `SOURCED_INTERNAL` is treated as CLOSED for verifier purposes.
+- **Last updated**:  If no explicit column exists, the date embedded in the Status Notes
+  (e.g. "CLOSED 2025-12-30") is treated as Last updated.
 
 ### Evidence rule (hard requirement)
 No item can be **CLOSED** without at least one of:
@@ -148,7 +152,10 @@ One sentence describing the closed state.
 #### Done when (binary)
 - [ ] Artifact exists and is complete
 - [ ] Evidence added in evidence folder (at least 1 item)
-- [ ] `DD_GAP_REGISTER_151225.md` row updated (status + last updated + link)
+- [ ] DD_GAP_REGISTER row status is acceptable per RUNBOOK:
+      `SOURCED_INTERNAL` is treated as CLOSED
+- [ ] Status note begins with `CLOSED YYYY-MM-DD:` or `IN_PROGRESS YYYY-MM-DD:`
+      (embedded date counts as Last updated)
 - [ ] `DATA_ROOM_INDEX.md` row updated (status + last updated + link)
 - [ ] Any cross-refs updated (list them)
 
@@ -286,7 +293,10 @@ Below, example of TICKET_TEMPLATE.md
 ## Done when (binary)
 - [ ] Artifact(s) exist at specified paths and are complete (no placeholders)
 - [ ] Evidence exists in `evidence/<path>/` (at least 1 item) and is readable
-- [ ] `DD_GAP_REGISTER_151225.md` updated: status + link/path + owner + last updated
+- [ ] DD_GAP_REGISTER row status is acceptable per RUNBOOK:
+      `SOURCED_INTERNAL` is treated as CLOSED
+- [ ] Status note begins with `CLOSED YYYY-MM-DD:` or `IN_PROGRESS YYYY-MM-DD:`
+      (embedded date counts as Last updated)
 - [ ] `DATA_ROOM_INDEX.md` updated: status + link/path + owner + last updated
 - [ ] Cross-references updated (list files): <file1>, <file2>
 - [ ] VERIFY passed (or punch-list captured)

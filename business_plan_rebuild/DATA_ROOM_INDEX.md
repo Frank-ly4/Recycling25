@@ -2,7 +2,7 @@
 
 **Goal:** one page where you can see every missing item.  
 **Statuses:** **MISSING** / **IN_PROGRESS** / **CLOSED**  
-**Last updated (this index):** 2025-12-24
+**Last updated (this index):** 2026-01-02 (Batch 2: 5 desk tickets closed)
 
 ## Quick Start (30–45 minutes)
 - `README.md`
@@ -52,9 +52,17 @@
 |---|---|---|---|---|
 | Data room overview / navigation | CLOSED | `DATA_ROOM_INDEX.md` | TBD | 2025-12-24 |
 | Project README | CLOSED | `README.md` | TBD | — |
-| Governance overview | CLOSED | `governance.md` | TBD | — |
-| Team bios (replace placeholders with named bios) | IN_PROGRESS | `team_bios.md` | TBD | — |
-| Cap table (placeholder until shareholder register is provided) | IN_PROGRESS | `cap_table.md` | TBD | — |
+| Governance overview | CLOSED | `governance.md` | Governance | 2025-12-30 |
+| RACI matrix | CLOSED | `governance.md` Section 2.1 | Founder/Governance | 2025-12-30 |
+| Board composition & roster | IN_PROGRESS | `governance.md` Section 3 | Governance | 2025-12-30 |
+| Team bios (replace placeholders with named bios) | IN_PROGRESS | `team_bios.md` | TBD | 2025-12-30 |
+| Cap table (framework ready; awaiting shareholder register) | IN_PROGRESS | `cap_table.md` | Finance | 2025-12-30 |
+| Instrument register (NONE outstanding confirmed) | CLOSED | `cap_table.md` Section 3 | Finance | 2025-12-30 |
+| Cap table control process | CLOSED | `governance.md` Section 9 | Governance | 2025-12-30 |
+| Option pool policy | CLOSED | `governance.md` Section 6 | Governance | 2025-12-30 |
+| Equity term sheet (draft) | IN_PROGRESS | `equity_terms_summary.md` | Finance | 2025-12-30 |
+| Foreign ownership restrictions memo | IN_PROGRESS | `legal_compliance.md` Section 6 | Legal/Compliance | 2025-12-30 |
+| Investor rights clauses | IN_PROGRESS | `governance.md` Section 8 | Legal/Compliance | 2025-12-30 |
 | Shareholder register (redacted placeholder; store unredacted in controlled vault) | IN_PROGRESS | `evidence/legal_corporate/20251222_shareholder_register_redacted_PLACEHOLDER.md` | TBD | — |
 | Certificate of incorporation / company registration docs | MISSING | `evidence/legal_corporate/` | TBD | — |
 | Articles / bylaws / constitutional docs (signed) | MISSING | `evidence/legal_corporate/` | TBD | — |
@@ -64,7 +72,9 @@
 ## Regulatory
 | Item | Status | Link/Path | Owner | Last updated |
 |---|---|---|---|---|
-| Regulatory compliance overview | CLOSED | `legal_compliance.md` | TBD | — |
+| Regulatory compliance overview | CLOSED | `legal_compliance.md` | Legal/Compliance | 2025-12-30 |
+| BOI pathway decision memo | CLOSED | `audits/boi_decision_memo.md` | Legal/Compliance | 2025-12-30 |
+| BOI pathway analysis | CLOSED | `legal_compliance.md` Section 7 | Legal/Compliance | 2025-12-30 |
 | PDPA policy | CLOSED | `pdpa/PDPA_Compliance_Policy.md` | TBD | — |
 | Privacy notice (EN/TH) | CLOSED | `pdpa/Privacy_Notice_EN_TH.md` | TBD | — |
 | Data Processing Agreement template | CLOSED | `pdpa/Data_Processing_Agreement_Template.md` | TBD | — |
@@ -85,6 +95,7 @@
 | Diversion report template (monthly ESG reporting) | CLOSED | `outreach_kit/diversion_report_template.md` | TBD | — |
 | ESG sales talking points | CLOSED | `outreach_kit/ESG_sales_talking_points.md` | TBD | — |
 | Pitch deck (draft) | CLOSED | `outreach_kit/pitch_deck.md` | TBD | — |
+| Incentive catalog (residents / juristic / staff) | CLOSED | `outreach_kit/pricing/incentives.md` | Sales / Commercial | 2026-01-02 |
 | Customer LOIs / signed pilot agreements (redacted placeholder) | IN_PROGRESS | `evidence/contracts/20251222_pilot_contracts_redacted_PLACEHOLDER.md` | TBD | — |
 | ICP list + pipeline export (stage, last contact, next step) | MISSING | `outreach_kit/` | TBD | — |
 | Offtake agreements / processor MOUs (signed) | MISSING | `evidence/contracts/` | TBD | — |
@@ -97,6 +108,8 @@
 | Go/No-Go launch gate | CLOSED | `GO_NO_GO_LAUNCH_GATE.md` | TBD | — |
 | Risk register | CLOSED | `risk_register.md` | TBD | — |
 | Pilot validation plan | CLOSED | `audits/pilot_validation.md` | TBD | — |
+| Impact methodology (CO2e factors) | CLOSED | `appendices/impact/impact_methodology.md` | Ops / Impact | 2026-01-02 |
+| ESG metrics & reporting framework | CLOSED | `appendices/esg/esg_metrics.md` | Ops / Governance | 2026-01-02 |
 | Vendor quote request template | CLOSED | `audits/templates/VENDOR_QUOTE_REQUEST_TEMPLATE.md` | TBD | — |
 | Vendor quotes (redacted placeholder) | IN_PROGRESS | `evidence/vendors/20251222_vendor_quotes_redacted_PLACEHOLDER.md` | TBD | — |
 | Facility evidence folder (photos, quotes, shortlist) | IN_PROGRESS | `evidence/facility/README.md` | TBD | — |
@@ -123,8 +136,10 @@
 |---|---|---|---|---|
 | Market analysis | CLOSED | `market_analysis.md` | TBD | — |
 | Competitor landscape | CLOSED | `appendices/research_briefs/market/20251215_Competitor_Landscape.md` | TBD | — |
+| Competitor benchmarking (pricing & service) | CLOSED | `appendices/market/competitor_benchmarking.md` | Sales / Market Research | 2026-01-02 |
 | TAM sizing methodology | CLOSED | `appendices/research_briefs/market/20251215_TAM_Sizing_Methodology.md` | TBD | — |
 | Thailand plastics outlook memo | CLOSED | `appendices/research_briefs/market/20251215_Thailand_Plastics_Outlook_Memo.md` | TBD | — |
+| Thailand plastics outlook memo (2026 sourced memo) | CLOSED | `appendices/market/thailand_plastics_outlook.md` | Founder / Market Research | 2026-01-02 |
 | Competitor proofs capture checklist | CLOSED | `audits/templates/COMPETITOR_PROOFS_CAPTURE_CHECKLIST.md` | TBD | — |
 | Evidence register (claims → evidence pointers) | CLOSED | `evidence_register.json` | TBD | — |
 | Evidence workflow | CLOSED | `EVIDENCE_WORKFLOW.md` | TBD | — |

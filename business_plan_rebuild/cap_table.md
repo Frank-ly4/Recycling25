@@ -12,15 +12,27 @@
 
 | Holder | Role | Instrument | Shares | % Ownership (FD) | Notes |
 |---|---|---|---:|---:|---|
-| TBD | Founder | Ordinary | TBD | TBD | |
-| TBD | Founder | Ordinary | TBD | TBD | |
-| **Option Pool** | Employees | ESOP/Option Pool | TBD | TBD | Proposed pool size TBD |
-| **TOTAL** |  |  | TBD | 100% | |
+| TBD | Founder | Ordinary | TBD | TBD | Subject to 4yr/1yr cliff vesting |
+| TBD | Founder | Ordinary | TBD | TBD | Subject to 4yr/1yr cliff vesting |
+| **Option Pool (unallocated)** | Employees | ESOP/Option Pool | TBD | **12.0%** | **Proposed:** 12% post-money pool (see governance.md Section 6); pending board approval |
+| **TOTAL** |  |  | TBD | 100% | Fully diluted includes unallocated option pool |
+
+**Option Pool Note:**  
+The proposed 12% post-money option pool is sized at seed-stage market standard (10-15% range). Pool will be formally created upon first equity funding event. Grant bands and vesting policy documented in `governance.md` Section 6 "Option Pool Policy."
 
 ## 3. Outstanding Instruments (Convertibles / SAFEs / Warrants)
-- **Convertibles / SAFEs:** TBD
-- **Warrants:** TBD
-- **Employee options granted to date:** TBD
+**Status as of:** 2025-12-30  
+**Reviewed by:** Finance Lead  
+
+- **Convertibles / SAFEs:** **NONE outstanding**
+- **Warrants:** **NONE outstanding**
+- **Employee options granted to date:** **NONE granted** (option pool policy documented but no grants executed)
+
+**Confirmation:** This company confirms that as of the date above, there are no outstanding convertible notes, SAFEs, warrants, or other instruments convertible into equity. Any future issuance will be documented here with full terms, issuance date, and holder information.
+
+**Signature Line (for official confirmation):**  
+___________________________ Date: ___________  
+Finance Lead / Company Secretary
 
 ## 4. Post-Money Scenarios (Equity Option)
 

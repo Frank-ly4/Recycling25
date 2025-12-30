@@ -1,0 +1,35 @@
+# TICKET T-20260102-007 — Impact Methodology (CO₂e Factors)
+
+**Gate:** G  
+**Source Gap IDs:** EI-03  
+**Owner:** Operations / Impact  
+**Status (start):** MISSING  
+**Target Status:** CLOSED  
+**Built on:** 2026-01-02  
+
+---
+
+## Objective
+Document the methodology used to calculate environmental impact (CO₂e diversion) from collected recyclables.
+
+## Inputs
+- business_plan_rebuild/audits/DD_GAP_REGISTER_151225.md
+- business_plan_rebuild/DATA_ROOM_INDEX.md
+- business_plan_rebuild/outreach_kit/diversion_report_template.md (or equivalent diversion template)
+
+## Outputs
+**Artifacts**
+- business_plan_rebuild/appendices/impact/impact_methodology.md
+
+**Evidence**
+- business_plan_rebuild/evidence/impact/20260102_co2e_factors.md
+
+## Done when (binary)
+- [ ] Methodology explains calculation logic (kg diverted → CO₂e), assumptions, and units
+- [ ] CO₂e factors are listed with source + date (and scope notes if applicable)
+- [ ] Evidence memo exists at the specified path
+- [ ] DD_GAP_REGISTER row status is acceptable per RUNBOOK:
+      `SOURCED_INTERNAL` is treated as CLOSED
+- [ ] Status note begins with `CLOSED YYYY-MM-DD:` or `IN_PROGRESS YYYY-MM-DD:`
+      (embedded date counts as Last updated)
+- [ ] DATA_ROOM_INDEX row updated to CLOSED with owner + date

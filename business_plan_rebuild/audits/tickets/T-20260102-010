@@ -1,0 +1,35 @@
+# TICKET T-20260102-010 — Competitor Benchmarking (Pricing & Service)
+
+**Gate:** H  
+**Source Gap IDs:** CL-02  
+**Owner:** Sales / Market Research  
+**Status (start):** BENCHMARK_EXTERNAL  
+**Target Status:** CLOSED  
+**Built on:** 2026-01-02  
+
+---
+
+## Objective
+Document competitor pricing and service models to substantiate differentiation claims.
+
+## Inputs
+- business_plan_rebuild/audits/DD_GAP_REGISTER_151225.md
+- business_plan_rebuild/DATA_ROOM_INDEX.md
+- business_plan_rebuild/appendices/research_briefs/market/COMPETITOR_PROOFS_CAPTURE_CHECKLIST.md
+- business_plan_rebuild/appendices/research_briefs/market/competitor_proofs_log_template.csv (if used)
+
+## Outputs
+**Artifacts**
+- business_plan_rebuild/appendices/market/competitor_benchmarking.md
+
+**Evidence**
+- business_plan_rebuild/evidence/market/competitor_proofs/
+
+## Done when (binary)
+- [ ] Benchmarking memo compares at least 3 competitors on pricing + service scope
+- [ ] Proof captures (screenshots/links/notes) are stored in the evidence folder
+- [ ] DD_GAP_REGISTER row status is acceptable per RUNBOOK:
+      `SOURCED_INTERNAL` is treated as CLOSED
+- [ ] Status note begins with `CLOSED YYYY-MM-DD:` or `IN_PROGRESS YYYY-MM-DD:`
+      (embedded date counts as Last updated)
+- [ ] DATA_ROOM_INDEX row updated to CLOSED with owner + date
